@@ -1,0 +1,3473 @@
+﻿Country;Year;Granularity;Political_Stability
+Singapore;01/01/2010;Total;1,17
+Senegal;01/01/2007;Total;-0,24
+Kuwait;01/01/2000;Total;0,75
+Sierra Leone;01/01/2002;Total;-0,69
+Equatorial Guinea;01/01/2017;Total;-0,17
+Costa Rica;01/01/2015;Total;0,68
+New Zealand;01/01/2018;Total;1,54
+Angola;01/01/2014;Total;-0,33
+Sierra Leone;01/01/2005;Total;-0,48
+Antigua and Barbuda;01/01/2006;Total;0,8
+Costa Rica;01/01/2012;Total;0,64
+Chad;01/01/2008;Total;-1,97
+Uruguay;01/01/2014;Total;0,99
+Iran;01/01/2012;Total;-1,32
+Angola;01/01/2012;Total;-0,39
+Seychelles;01/01/2013;Total;0,83
+Turkmenistan;01/01/2008;Total;0,53
+El Salvador;01/01/2004;Total;-0,07
+Germany;01/01/2010;Total;0,8
+Djibouti;01/01/2004;Total;-0,34
+Finland;01/01/2008;Total;1,45
+Ireland;01/01/2011;Total;0,95
+Mauritius;01/01/2014;Total;0,67
+France;01/01/2013;Total;0,45
+Denmark;01/01/2007;Total;1,12
+Kiribati;01/01/2014;Total;0,8
+Panama;01/01/2008;Total;-0,1
+Croatia;01/01/2006;Total;0,56
+Guyana;01/01/2007;Total;-0,56
+Guinea;01/01/2004;Total;-1,03
+Armenia;01/01/2014;Total;-0,3
+Costa Rica;01/01/2017;Total;0,61
+Hungary;01/01/2010;Total;0,69
+Papua New Guinea;01/01/2011;Total;-0,75
+Bermuda;01/01/2010;Total;0,91
+Norway;01/01/2008;Total;1,29
+Qatar;01/01/2000;Total;1,16
+Iraq;01/01/2006;Total;-2,83
+Tajikistan;01/01/2016;Total;-0,78
+Seychelles;01/01/2006;Total;0,91
+Uzbekistan;01/01/2016;Total;-0,27
+Côte-d'Ivoire;01/01/2003;Total;-1,8
+India;01/01/2018;Total;-0,96
+Eswatini;01/01/2015;Total;-0,48
+France;01/01/2016;Total;-0,1
+Niue;01/01/2009;Total;1,14
+Jordan;01/01/2005;Total;-0,13
+Latvia;01/01/2017;Total;0,46
+Uruguay;01/01/2011;Total;0,96
+Cuba;01/01/2015;Total;0,64
+Bosnia and Herzegovina;01/01/2018;Total;-0,39
+Mozambique;01/01/2010;Total;0,39
+France;01/01/2000;Total;0,79
+Colombia;01/01/2018;Total;-0,81
+Bahrain;01/01/2004;Total;0,31
+Fiji;01/01/2002;Total;0,47
+Luxembourg;01/01/2002;Total;1,64
+Uzbekistan;01/01/2005;Total;-1,96
+Malta;01/01/2008;Total;1,27
+Netherlands;01/01/2017;Total;0,92
+Bulgaria;01/01/2011;Total;0,3
+Germany;01/01/2011;Total;0,84
+Greece;01/01/2012;Total;-0,22
+Panama;01/01/2011;Total;-0,03
+Iceland;01/01/2014;Total;1,25
+Bhutan;01/01/2014;Total;1,07
+Guatemala;01/01/2012;Total;-0,63
+Cambodia;01/01/2016;Total;0,21
+Eritrea;01/01/2008;Total;-0,71
+Czechia;01/01/2002;Total;1,05
+Armenia;01/01/2009;Total;0,23
+Lithuania;01/01/2004;Total;0,77
+Luxembourg;01/01/2014;Total;1,38
+Singapore;01/01/2006;Total;1,25
+Cabo Verde;01/01/2006;Total;0,96
+Lithuania;01/01/2000;Total;0,42
+Equatorial Guinea;01/01/2018;Total;-0,05
+Federated States of Micronesia;01/01/2011;Total;1,1
+Grenada;01/01/2018;Total;1
+Finland;01/01/2000;Total;1,72
+Cameroon;01/01/2000;Total;-0,56
+Venezuela;01/01/2006;Total;-1,25
+Angola;01/01/2006;Total;-0,54
+South Africa;01/01/2000;Total;-0,23
+Poland;01/01/2009;Total;0,94
+United Arab Emirates;01/01/2010;Total;0,8
+Congo;01/01/2013;Total;-0,48
+Belarus;01/01/2013;Total;0,01
+Togo;01/01/2012;Total;-0,39
+Brazil;01/01/2014;Total;-0,07
+Cambodia;01/01/2006;Total;-0,35
+Central African Republic;01/01/2000;Total;-1,12
+Federated States of Micronesia;01/01/2007;Total;1,15
+Croatia;01/01/2013;Total;0,64
+Mexico;01/01/2007;Total;-0,73
+Bahamas;01/01/2011;Total;1,1
+Afghanistan;01/01/2016;Total;-2,67
+Singapore;01/01/2012;Total;1,37
+Honduras;01/01/2015;Total;-0,47
+Greenland;01/01/2013;Total;1,93
+Zambia;01/01/2005;Total;0,11
+Seychelles;01/01/2002;Total;0,9
+Indonesia;01/01/2018;Total;-0,53
+Saudi Arabia;01/01/2007;Total;-0,47
+Sierra Leone;01/01/2004;Total;-0,51
+Lebanon;01/01/2008;Total;-1,88
+Mozambique;01/01/2011;Total;0,33
+Mali;01/01/2011;Total;-0,71
+Austria;01/01/2015;Total;1,14
+Central African Republic;01/01/2003;Total;-1,54
+Bosnia and Herzegovina;01/01/2009;Total;-0,67
+Ireland;01/01/2000;Total;1,59
+Syrian Arab Republic;01/01/2007;Total;-0,34
+Mozambique;01/01/2015;Total;-0,51
+Gambia;01/01/2018;Total;-0,03
+Mongolia;01/01/2008;Total;0,54
+Canada;01/01/2004;Total;0,88
+Algeria;01/01/2014;Total;-1,19
+Sao Tome and Principe;01/01/2010;Total;0,12
+Australia;01/01/2013;Total;1,03
+Romania;01/01/2007;Total;0,2
+Czechia;01/01/2018;Total;1,04
+Syrian Arab Republic;01/01/2011;Total;-2,01
+Kenya;01/01/2016;Total;-1,35
+Saint Vincent and the Grenadines;01/01/2016;Total;1,02
+Philippines;01/01/2016;Total;-1,38
+American Samoa;01/01/2008;Total;0,98
+Ecuador;01/01/2018;Total;-0,07
+Ukraine;01/01/2010;Total;0,01
+Greece;01/01/2005;Total;0,51
+Costa Rica;01/01/2002;Total;1,07
+Ireland;01/01/2016;Total;0,85
+Uruguay;01/01/2006;Total;0,9
+Republic of Moldova;01/01/2005;Total;-0,4
+Norway;01/01/2002;Total;1,61
+Bangladesh;01/01/2003;Total;-1,12
+Turkey;01/01/2004;Total;-0,83
+Benin;01/01/2004;Total;0,27
+Argentina;01/01/2011;Total;0,16
+Cameroon;01/01/2009;Total;-0,47
+Ireland;01/01/2009;Total;1,06
+Myanmar;01/01/2006;Total;-0,85
+Saint Lucia;01/01/2005;Total;1
+Dominican Republic;01/01/2000;Total;0,02
+El Salvador;01/01/2008;Total;0,04
+Djibouti;01/01/2005;Total;-0,81
+Romania;01/01/2003;Total;0,32
+Colombia;01/01/2007;Total;-1,8
+Puerto Rico;01/01/2002;Total;0,3
+Germany;01/01/2002;Total;1,1
+Greece;01/01/2003;Total;0,48
+Iraq;01/01/2003;Total;-2,39
+Vanuatu;01/01/2005;Total;1,38
+Malawi;01/01/2004;Total;0,12
+Malta;01/01/2007;Total;1,27
+Kiribati;01/01/2007;Total;1,34
+Tunisia;01/01/2006;Total;0,21
+Sierra Leone;01/01/2009;Total;-0,29
+Barbados;01/01/2007;Total;1,04
+Dominica;01/01/2015;Total;1,08
+New Zealand;01/01/2009;Total;1,07
+Kyrgyzstan;01/01/2016;Total;-0,65
+Chile;01/01/2012;Total;0,33
+Bulgaria;01/01/2018;Total;0,42
+Tuvalu;01/01/2004;Total;1,27
+Zambia;01/01/2011;Total;0,51
+Iran;01/01/2015;Total;-0,93
+Bhutan;01/01/2003;Total;0,92
+Burundi;01/01/2013;Total;-1,35
+United Kingdom of Great Britain and Northern Ireland;01/01/2003;Total;0,27
+Norway;01/01/2013;Total;1,35
+United States of America;01/01/2008;Total;0,59
+Bangladesh;01/01/2005;Total;-1,86
+Myanmar;01/01/2011;Total;-1,11
+Albania;01/01/2017;Total;0,38
+South Sudan;01/01/2013;Total;-1,73
+Ecuador;01/01/2007;Total;-0,81
+Malta;01/01/2016;Total;1,08
+Liberia;01/01/2006;Total;-1,33
+Slovenia;01/01/2006;Total;1,08
+Netherlands;01/01/2005;Total;0,99
+Chile;01/01/2000;Total;0,49
+Uganda;01/01/2007;Total;-0,92
+Romania;01/01/2018;Total;0,06
+Cambodia;01/01/2003;Total;-0,65
+Bahrain;01/01/2007;Total;-0,25
+Puerto Rico;01/01/2015;Total;0,86
+Mauritania;01/01/2008;Total;-0,64
+Peru;01/01/2002;Total;-0,97
+Maldives;01/01/2012;Total;-0,37
+Lebanon;01/01/2002;Total;-0,36
+Bermuda;01/01/2002;Total;0,79
+Bhutan;01/01/2011;Total;0,83
+Saint Kitts and Nevis;01/01/2017;Total;0,65
+Seychelles;01/01/2010;Total;0,86
+Eritrea;01/01/2006;Total;-0,9
+Lao People's Democratic Republic;01/01/2017;Total;0,4
+Albania;01/01/2000;Total;-0,54
+Tunisia;01/01/2018;Total;-0,9
+Comoros;01/01/2006;Total;-0,36
+Slovenia;01/01/2018;Total;0,91
+Panama;01/01/2004;Total;0,08
+Slovakia;01/01/2008;Total;1,08
+Bolivia;01/01/2018;Total;-0,24
+Mali;01/01/2007;Total;0,23
+Romania;01/01/2008;Total;0,18
+Mauritania;01/01/2009;Total;-0,88
+Federated States of Micronesia;01/01/2005;Total;1,13
+China;01/01/2015;Total;0,655
+Ghana;01/01/2017;Total;0,09
+Honduras;01/01/2007;Total;-0,44
+Bosnia and Herzegovina;01/01/2008;Total;-0,54
+Côte-d'Ivoire;01/01/2013;Total;-1,05
+Bermuda;01/01/2007;Total;0,77
+Sweden;01/01/2014;Total;1,07
+Nauru;01/01/2010;Total;1,45
+Bahrain;01/01/2010;Total;-0,49
+Malawi;01/01/2006;Total;0,12
+Armenia;01/01/2017;Total;-0,62
+Bahrain;01/01/2016;Total;-0,79
+Eswatini;01/01/2017;Total;-0,27
+Papua New Guinea;01/01/2010;Total;-0,81
+Yemen;01/01/2009;Total;-2,33
+Venezuela;01/01/2000;Total;-0,76
+Uganda;01/01/2004;Total;-1,31
+Iraq;01/01/2015;Total;-2,26
+Tonga;01/01/2009;Total;0,21
+Bolivia;01/01/2007;Total;-0,85
+Switzerland;01/01/2000;Total;1,58
+Cuba;01/01/2006;Total;0,47
+Puerto Rico;01/01/2018;Total;0,4
+Somalia;01/01/2015;Total;-2,38
+Bulgaria;01/01/2006;Total;0,4
+Trinidad and Tobago;01/01/2011;Total;0,14
+Oman;01/01/2012;Total;0,46
+Ghana;01/01/2014;Total;-0,11
+Sri Lanka;01/01/2006;Total;-1,42
+Zambia;01/01/2016;Total;0,14
+Zimbabwe;01/01/2011;Total;-0,95
+Bulgaria;01/01/2003;Total;0,17
+Romania;01/01/2000;Total;-0,38
+Philippines;01/01/2015;Total;-0,86
+Haiti;01/01/2003;Total;-1,32
+Gambia;01/01/2009;Total;0,12
+Jordan;01/01/2009;Total;-0,35
+Slovakia;01/01/2010;Total;1,05
+Nigeria;01/01/2013;Total;-2,09
+Togo;01/01/2015;Total;-0,23
+Tunisia;01/01/2009;Total;0,06
+Poland;01/01/2008;Total;0,91
+Marshall Islands;01/01/2013;Total;1,05
+North Korea;01/01/2017;Total;-0,5
+Congo;01/01/2014;Total;-0,36
+Equatorial Guinea;01/01/2000;Total;-0,04
+Latvia;01/01/2011;Total;0,32
+Morocco;01/01/2003;Total;-0,41
+Rwanda;01/01/2003;Total;-1,11
+Indonesia;01/01/2000;Total;-2
+United States of America;01/01/2014;Total;0,58
+Algeria;01/01/2004;Total;-1,36
+Kenya;01/01/2015;Total;-1,24
+Comoros;01/01/2010;Total;-0,56
+Barbados;01/01/2006;Total;0,91
+Uganda;01/01/2010;Total;-1
+Jordan;01/01/2017;Total;-0,5
+Belize;01/01/2013;Total;0,18
+Bosnia and Herzegovina;01/01/2016;Total;-0,4
+Lao People's Democratic Republic;01/01/2005;Total;-0,49
+Kazakhstan;01/01/2000;Total;0,09
+Gambia;01/01/2012;Total;0
+Iceland;01/01/2004;Total;1,46
+Maldives;01/01/2008;Total;-0,16
+Zimbabwe;01/01/2014;Total;-0,71
+Botswana;01/01/2007;Total;1,06
+Indonesia;01/01/2011;Total;-0,77
+Poland;01/01/2005;Total;0,36
+Belgium;01/01/2000;Total;1,13
+Mozambique;01/01/2013;Total;-0,23
+Haiti;01/01/2005;Total;-1,81
+United Republic of Tanzania;01/01/2018;Total;-0,56
+Spain;01/01/2017;Total;0,28
+Ethiopia;01/01/2002;Total;-1,22
+Mozambique;01/01/2002;Total;0,19
+Costa Rica;01/01/2003;Total;0,6
+Lebanon;01/01/2016;Total;-1,62
+Finland;01/01/2010;Total;1,42
+Malaysia;01/01/2012;Total;-0,01
+Zimbabwe;01/01/2010;Total;-1,1
+Grenada;01/01/2015;Total;0,79
+Slovenia;01/01/2007;Total;1,1
+Trinidad and Tobago;01/01/2002;Total;-0,09
+Spain;01/01/2014;Total;0,24
+Oman;01/01/2010;Total;0,59
+Yemen;01/01/2013;Total;-2,37
+Burundi;01/01/2018;Total;-1,6
+Iceland;01/01/2010;Total;1,02
+Equatorial Guinea;01/01/2010;Total;0,24
+Kenya;01/01/2011;Total;-1,24
+Mali;01/01/2010;Total;-0,18
+Qatar;01/01/2011;Total;1,17
+Morocco;01/01/2008;Total;-0,57
+Zambia;01/01/2000;Total;0,03
+Dominican Republic;01/01/2008;Total;-0,04
+Myanmar;01/01/2007;Total;-1,06
+Saudi Arabia;01/01/2009;Total;-0,49
+Fiji;01/01/2008;Total;-0,07
+Greece;01/01/2013;Total;-0,17
+Turkey;01/01/2007;Total;-0,82
+Greece;01/01/2010;Total;-0,13
+Niger;01/01/2018;Total;-1,26
+United Kingdom of Great Britain and Northern Ireland;01/01/2004;Total;0,14
+Maldives;01/01/2016;Total;0,42
+Malaysia;01/01/2014;Total;0,27
+Pakistan;01/01/2014;Total;-2,4
+Nicaragua;01/01/2014;Total;-0,04
+Syrian Arab Republic;01/01/2015;Total;-2,97
+Kyrgyzstan;01/01/2014;Total;-0,8
+Republic of Moldova;01/01/2010;Total;-0,38
+Madagascar;01/01/2018;Total;-0,52
+Bosnia and Herzegovina;01/01/2010;Total;-0,69
+Panama;01/01/2010;Total;-0,12
+Poland;01/01/2014;Total;0,84
+Somalia;01/01/2016;Total;-2,36
+Seychelles;01/01/2016;Total;0,73
+Pakistan;01/01/2007;Total;-2,43
+Poland;01/01/2002;Total;0,74
+Comoros;01/01/2007;Total;-1,09
+Sweden;01/01/2003;Total;1,34
+Botswana;01/01/2015;Total;1,04
+Malawi;01/01/2008;Total;-0,06
+Egypt;01/01/2004;Total;-0,82
+Algeria;01/01/2008;Total;-1,09
+Tonga;01/01/2016;Total;0,92
+Dominica;01/01/2002;Total;0,55
+Croatia;01/01/2004;Total;0,69
+Ireland;01/01/2018;Total;1,03
+Tunisia;01/01/2014;Total;-0,85
+Mauritius;01/01/2016;Total;1,01
+Palau;01/01/2011;Total;1,06
+Grenada;01/01/2008;Total;0,39
+Chad;01/01/2016;Total;-1,3
+Sierra Leone;01/01/2015;Total;-0,1
+Bosnia and Herzegovina;01/01/2007;Total;-0,63
+Rwanda;01/01/2007;Total;-0,36
+Saint Vincent and the Grenadines;01/01/2010;Total;0,79
+Sao Tome and Principe;01/01/2016;Total;0,22
+Eswatini;01/01/2018;Total;-0,31
+Papua New Guinea;01/01/2009;Total;-0,79
+Kuwait;01/01/2006;Total;0,41
+Greece;01/01/2009;Total;-0,21
+Jamaica;01/01/2008;Total;-0,31
+Saint Kitts and Nevis;01/01/2015;Total;0,58
+Mongolia;01/01/2013;Total;0,49
+Tuvalu;01/01/2015;Total;1,39
+Nicaragua;01/01/2000;Total;-0,06
+Senegal;01/01/2013;Total;-0,06
+Rwanda;01/01/2008;Total;-0,32
+Canada;01/01/2009;Total;1,13
+Uruguay;01/01/2013;Total;0,8
+Papua New Guinea;01/01/2008;Total;-0,61
+Fiji;01/01/2006;Total;-0,04
+Sudan;01/01/2009;Total;-2,65
+China;01/01/2012;Total;0,4975
+Iraq;01/01/2008;Total;-2,47
+Cyprus;01/01/2010;Total;0,45
+Kiribati;01/01/2004;Total;1,16
+Argentina;01/01/2012;Total;0,1
+Qatar;01/01/2007;Total;0,95
+Slovakia;01/01/2004;Total;0,59
+Russian Federation;01/01/2006;Total;-0,91
+Chile;01/01/2014;Total;0,45
+Ethiopia;01/01/2017;Total;-1,68
+Kiribati;01/01/2006;Total;1,35
+Gambia;01/01/2006;Total;-0,03
+Botswana;01/01/2014;Total;1,01
+Portugal;01/01/2005;Total;1,02
+Solomon Islands;01/01/2005;Total;-0,02
+Myanmar;01/01/2013;Total;-1,14
+Mauritius;01/01/2012;Total;0,97
+Kazakhstan;01/01/2017;Total;0,04
+Morocco;01/01/2012;Total;-0,47
+Myanmar;01/01/2000;Total;-1,67
+Honduras;01/01/2006;Total;-0,67
+Togo;01/01/2008;Total;-0,17
+Israel;01/01/2015;Total;-1,09
+Djibouti;01/01/2017;Total;-0,74
+Djibouti;01/01/2002;Total;-0,31
+Mozambique;01/01/2000;Total;-0,13
+Palestine;01/01/2014;Total;-1,99
+Saint Lucia;01/01/2013;Total;0,85
+Marshall Islands;01/01/2005;Total;1,07
+United Republic of Tanzania;01/01/2004;Total;-0,67
+Mali;01/01/2000;Total;0,24
+Turkey;01/01/2002;Total;-0,81
+Sierra Leone;01/01/2000;Total;-1,87
+Barbados;01/01/2003;Total;0,92
+Italy;01/01/2003;Total;0,43
+Egypt;01/01/2012;Total;-1,44
+Mozambique;01/01/2017;Total;-0,93
+Guinea-Bissau;01/01/2018;Total;-0,67
+Mongolia;01/01/2015;Total;0,72
+Ecuador;01/01/2010;Total;-0,59
+Timor-Leste;01/01/2013;Total;-0,38
+Poland;01/01/2004;Total;0,15
+Cameroon;01/01/2013;Total;-0,53
+Nauru;01/01/2017;Total;0,52
+Mali;01/01/2018;Total;-2,05
+Mauritius;01/01/2015;Total;1
+Romania;01/01/2004;Total;0,06
+Austria;01/01/2010;Total;1,15
+Jordan;01/01/2014;Total;-0,54
+Turkmenistan;01/01/2010;Total;0,33
+Senegal;01/01/2018;Total;-0,09
+Greece;01/01/2008;Total;0,27
+Solomon Islands;01/01/2012;Total;0,19
+Panama;01/01/2002;Total;0,34
+Equatorial Guinea;01/01/2007;Total;0,26
+Burkina Faso;01/01/2008;Total;0,12
+Malta;01/01/2003;Total;1,55
+Eswatini;01/01/2014;Total;-0,5
+Bahrain;01/01/2015;Total;-1,07
+Puerto Rico;01/01/2009;Total;0,16
+Switzerland;01/01/2008;Total;1,22
+Côte-d'Ivoire;01/01/2011;Total;-1,41
+Guinea-Bissau;01/01/2006;Total;-0,5
+Federated States of Micronesia;01/01/2012;Total;1,15
+Solomon Islands;01/01/2009;Total;0,21
+Gambia;01/01/2015;Total;0,02
+Uganda;01/01/2013;Total;-0,84
+Dominican Republic;01/01/2006;Total;-0,11
+Peru;01/01/2011;Total;-0,76
+Djibouti;01/01/2000;Total;-0,24
+Maldives;01/01/2005;Total;0,81
+United Arab Emirates;01/01/2003;Total;1
+Jamaica;01/01/2016;Total;0,31
+Cameroon;01/01/2011;Total;-0,66
+Belize;01/01/2005;Total;0,1
+Bahamas;01/01/2016;Total;0,98
+Luxembourg;01/01/2017;Total;1,33
+United States of America;01/01/2018;Total;0,48
+Iran;01/01/2004;Total;-0,76
+Kyrgyzstan;01/01/2002;Total;-0,61
+Chile;01/01/2009;Total;0,6
+Greece;01/01/2014;Total;-0,14
+Netherlands;01/01/2016;Total;0,91
+Togo;01/01/2002;Total;0,05
+Lesotho;01/01/2004;Total;0,36
+Albania;01/01/2003;Total;-0,31
+Kiribati;01/01/2012;Total;1,29
+Republic of Korea;01/01/2003;Total;0,25
+Portugal;01/01/2016;Total;0,97
+Nigeria;01/01/2015;Total;-1,93
+Norway;01/01/2006;Total;1,25
+Mongolia;01/01/2002;Total;1,17
+Saint Vincent and the Grenadines;01/01/2000;Total;1,22
+Libya;01/01/2008;Total;0,81
+Angola;01/01/2003;Total;-1,01
+Sudan;01/01/2011;Total;-2,52
+Guatemala;01/01/2000;Total;-0,77
+Afghanistan;01/01/2002;Total;-2,04
+Brazil;01/01/2015;Total;-0,33
+Kenya;01/01/2009;Total;-1,43
+Fiji;01/01/2010;Total;-0,19
+Poland;01/01/2011;Total;1,07
+Iraq;01/01/2005;Total;-2,69
+Belarus;01/01/2000;Total;0,14
+Uzbekistan;01/01/2002;Total;-1,06
+Viet Nam;01/01/2012;Total;0,27
+Tuvalu;01/01/2010;Total;1,42
+Iraq;01/01/2017;Total;-2,31
+Viet Nam;01/01/2018;Total;0,2
+Bulgaria;01/01/2008;Total;0,37
+Somalia;01/01/2007;Total;-3,22
+Republic of Moldova;01/01/2017;Total;-0,32
+Chad;01/01/2009;Total;-1,73
+Albania;01/01/2005;Total;-0,51
+Sri Lanka;01/01/2002;Total;-0,78
+Saint Kitts and Nevis;01/01/2018;Total;0,71
+Israel;01/01/2008;Total;-1,32
+Gabon;01/01/2015;Total;0,02
+Viet Nam;01/01/2011;Total;0,19
+Colombia;01/01/2008;Total;-1,85
+Georgia;01/01/2002;Total;-1,19
+Norway;01/01/2017;Total;1,17
+Venezuela;01/01/2011;Total;-1,09
+Tuvalu;01/01/2013;Total;1,28
+Peru;01/01/2006;Total;-0,84
+Gabon;01/01/2012;Total;0,29
+Germany;01/01/2007;Total;1
+Jamaica;01/01/2005;Total;-0,3
+Norway;01/01/2018;Total;1,15
+Cabo Verde;01/01/2009;Total;0,82
+Sudan;01/01/2007;Total;-2,36
+Syrian Arab Republic;01/01/2013;Total;-2,68
+Nauru;01/01/2018;Total;0,51
+Rwanda;01/01/2012;Total;-0,23
+Somalia;01/01/2012;Total;-2,86
+South Africa;01/01/2007;Total;0,22
+Uruguay;01/01/2009;Total;0,79
+Papua New Guinea;01/01/2007;Total;-0,75
+Namibia;01/01/2004;Total;0,66
+Gabon;01/01/2010;Total;0,3
+Australia;01/01/2011;Total;0,94
+Malaysia;01/01/2002;Total;0,54
+Central African Republic;01/01/2010;Total;-2,02
+Spain;01/01/2004;Total;-0,09
+Saint Lucia;01/01/2006;Total;0,86
+Lebanon;01/01/2007;Total;-2,12
+Tuvalu;01/01/2005;Total;1,38
+Netherlands;01/01/2006;Total;0,9
+Tuvalu;01/01/2003;Total;1,17
+Mexico;01/01/2004;Total;-0,21
+Dominican Republic;01/01/2014;Total;0,15
+Ukraine;01/01/2018;Total;-1,83
+Sudan;01/01/2015;Total;-2,16
+Canada;01/01/2010;Total;0,94
+Haiti;01/01/2018;Total;-0,63
+Slovenia;01/01/2015;Total;0,95
+Sudan;01/01/2006;Total;-2,14
+Turkmenistan;01/01/2014;Total;0,07
+Vanuatu;01/01/2013;Total;1,16
+Tajikistan;01/01/2011;Total;-1,02
+Benin;01/01/2017;Total;0,03
+Sierra Leone;01/01/2013;Total;-0,17
+Malaysia;01/01/2005;Total;0,56
+Malaysia;01/01/2018;Total;0,24
+Madagascar;01/01/2000;Total;0,16
+Côte-d'Ivoire;01/01/2010;Total;-1,58
+Saint Lucia;01/01/2000;Total;1,22
+Dominican Republic;01/01/2007;Total;-0,08
+Colombia;01/01/2010;Total;-1,54
+Czechia;01/01/2000;Total;0,33
+Hungary;01/01/2000;Total;0,92
+Kazakhstan;01/01/2003;Total;0,36
+Ukraine;01/01/2002;Total;-0,3
+Equatorial Guinea;01/01/2014;Total;-0,37
+Ghana;01/01/2009;Total;0,03
+Tonga;01/01/2017;Total;0,79
+Egypt;01/01/2017;Total;-1,42
+Djibouti;01/01/2008;Total;0,27
+Turkey;01/01/2005;Total;-0,6
+Sudan;01/01/2013;Total;-2,19
+Djibouti;01/01/2009;Total;0,49
+Cuba;01/01/2018;Total;0,65
+Guyana;01/01/2016;Total;-0,03
+Papua New Guinea;01/01/2016;Total;-0,5
+Kuwait;01/01/2004;Total;0,34
+Iran;01/01/2007;Total;-0,93
+Côte-d'Ivoire;01/01/2006;Total;-1,87
+Nauru;01/01/2006;Total;1,04
+Albania;01/01/2015;Total;0,35
+Costa Rica;01/01/2006;Total;0,74
+Bulgaria;01/01/2014;Total;0,08
+Burkina Faso;01/01/2005;Total;-0,06
+Nigeria;01/01/2006;Total;-2,03
+Solomon Islands;01/01/2008;Total;0,21
+Uganda;01/01/2006;Total;-1,14
+Cambodia;01/01/2012;Total;-0,1
+Peru;01/01/2003;Total;-1,16
+Greece;01/01/2017;Total;-0,07
+Mauritania;01/01/2000;Total;0,34
+American Samoa;01/01/2010;Total;0,92
+Belarus;01/01/2009;Total;0,49
+Canada;01/01/2015;Total;1,27
+Mexico;01/01/2012;Total;-0,66
+Uruguay;01/01/2010;Total;0,82
+Belgium;01/01/2016;Total;0,44
+Somalia;01/01/2011;Total;-3,08
+Rwanda;01/01/2018;Total;0,12
+United Kingdom of Great Britain and Northern Ireland;01/01/2012;Total;0,4
+Peru;01/01/2007;Total;-0,77
+Bulgaria;01/01/2017;Total;0,33
+Belize;01/01/2007;Total;0,19
+Montenegro;01/01/2008;Total;0,77
+United Arab Emirates;01/01/2000;Total;0,98
+Serbia;01/01/2003;Total;-0,58
+Burkina Faso;01/01/2013;Total;-0,76
+United States of America;01/01/2016;Total;0,4
+Dominican Republic;01/01/2017;Total;0,16
+Colombia;01/01/2016;Total;-0,88
+Benin;01/01/2000;Total;0,8
+Papua New Guinea;01/01/2017;Total;-0,7
+Palau;01/01/2004;Total;1,13
+Jamaica;01/01/2004;Total;-0,35
+Saint Vincent and the Grenadines;01/01/2007;Total;0,79
+Serbia;01/01/2011;Total;-0,28
+Cabo Verde;01/01/2008;Total;0,81
+Andorra;01/01/2003;Total;1,46
+Russian Federation;01/01/2018;Total;-0,5
+Ecuador;01/01/2002;Total;-0,76
+Kenya;01/01/2003;Total;-1,26
+Rwanda;01/01/2014;Total;-0,31
+Morocco;01/01/2004;Total;-0,31
+Turkey;01/01/2017;Total;-1,79
+Maldives;01/01/2017;Total;0,23
+Ukraine;01/01/2006;Total;-0,04
+Chad;01/01/2010;Total;-1,52
+Estonia;01/01/2005;Total;0,6
+Liberia;01/01/2017;Total;-0,36
+Cuba;01/01/2011;Total;0,28
+Andorra;01/01/2004;Total;1,4
+Gabon;01/01/2004;Total;0,41
+Indonesia;01/01/2012;Total;-0,59
+Tajikistan;01/01/2006;Total;-1,39
+Antigua and Barbuda;01/01/2003;Total;0,87
+Mongolia;01/01/2012;Total;0,47
+Marshall Islands;01/01/2012;Total;1,03
+Russian Federation;01/01/2009;Total;-0,97
+Jordan;01/01/2013;Total;-0,61
+Timor-Leste;01/01/2002;Total;-0,49
+United Kingdom of Great Britain and Northern Ireland;01/01/2007;Total;0,58
+Italy;01/01/2010;Total;0,47
+Kenya;01/01/2002;Total;-1,19
+Germany;01/01/2017;Total;0,59
+Republic of Korea;01/01/2009;Total;0,41
+Chad;01/01/2006;Total;-1,83
+Malawi;01/01/2011;Total;-0,07
+Croatia;01/01/2016;Total;0,66
+Democratic Republic of the Congo;01/01/2007;Total;-2,18
+China;01/01/2010;Total;0,4275
+North Korea;01/01/2011;Total;-0,25
+Samoa;01/01/2010;Total;0,77
+Tuvalu;01/01/2018;Total;1,43
+Australia;01/01/2012;Total;1
+Serbia;01/01/2006;Total;-0,54
+Cambodia;01/01/2008;Total;-0,3
+Denmark;01/01/2000;Total;1,5
+Italy;01/01/2013;Total;0,5
+Tajikistan;01/01/2007;Total;-0,75
+Niger;01/01/2011;Total;-0,88
+Morocco;01/01/2010;Total;-0,38
+Samoa;01/01/2003;Total;1,27
+Venezuela;01/01/2016;Total;-1,02
+Lesotho;01/01/2003;Total;0,1
+Croatia;01/01/2000;Total;0,28
+Nigeria;01/01/2012;Total;-2,04
+Malaysia;01/01/2017;Total;0,12
+Guyana;01/01/2006;Total;-0,73
+Eswatini;01/01/2005;Total;-0,4
+Samoa;01/01/2005;Total;1,13
+Ireland;01/01/2012;Total;0,94
+Marshall Islands;01/01/2007;Total;1,08
+Haiti;01/01/2017;Total;-0,67
+Pakistan;01/01/2000;Total;-1,1
+Equatorial Guinea;01/01/2002;Total;-0,52
+Iraq;01/01/2004;Total;-3,18
+Angola;01/01/2009;Total;-0,35
+Angola;01/01/2005;Total;-0,89
+Lebanon;01/01/2014;Total;-1,7
+Kazakhstan;01/01/2013;Total;-0,4
+Brazil;01/01/2016;Total;-0,38
+Guatemala;01/01/2008;Total;-0,71
+Seychelles;01/01/2014;Total;0,36
+Cabo Verde;01/01/2015;Total;0,87
+Gabon;01/01/2011;Total;0,38
+Mexico;01/01/2006;Total;-0,64
+Cabo Verde;01/01/2013;Total;0,78
+Japan;01/01/2008;Total;0,89
+Czechia;01/01/2014;Total;0,99
+Luxembourg;01/01/2004;Total;1,32
+Senegal;01/01/2016;Total;-0,22
+Portugal;01/01/2010;Total;0,72
+Colombia;01/01/2013;Total;-1,29
+Switzerland;01/01/2004;Total;1,23
+Azerbaijan;01/01/2013;Total;-0,41
+Nepal;01/01/2018;Total;-0,63
+Mauritius;01/01/2011;Total;0,95
+Montenegro;01/01/2012;Total;0,6
+Uganda;01/01/2016;Total;-0,72
+Canada;01/01/2012;Total;1,11
+Botswana;01/01/2000;Total;1,07
+Sri Lanka;01/01/2017;Total;-0,07
+Lesotho;01/01/2010;Total;0,46
+Maldives;01/01/2004;Total;0,5
+Saint Kitts and Nevis;01/01/2006;Total;1,21
+Antigua and Barbuda;01/01/2012;Total;0,98
+Burundi;01/01/2017;Total;-2,01
+Thailand;01/01/2002;Total;0,51
+Madagascar;01/01/2009;Total;-0,73
+Timor-Leste;01/01/2010;Total;-0,47
+Suriname;01/01/2005;Total;0,23
+Timor-Leste;01/01/2000;Total;0,44
+Cyprus;01/01/2006;Total;0,54
+Solomon Islands;01/01/2011;Total;0,31
+Palau;01/01/2013;Total;1,05
+Somalia;01/01/2010;Total;-3,13
+Romania;01/01/2016;Total;0,28
+Eritrea;01/01/2002;Total;-0,27
+Luxembourg;01/01/2011;Total;1,32
+India;01/01/2007;Total;-1,15
+North Macedonia;01/01/2009;Total;-0,3
+Egypt;01/01/2007;Total;-0,55
+Singapore;01/01/2004;Total;1,09
+Palestine;01/01/2000;Total;-1,55
+Sweden;01/01/2012;Total;1,17
+Singapore;01/01/2008;Total;1,35
+Cabo Verde;01/01/2010;Total;0,84
+Cambodia;01/01/2004;Total;-0,41
+Bangladesh;01/01/2008;Total;-1,51
+Nigeria;01/01/2004;Total;-1,75
+Morocco;01/01/2015;Total;-0,34
+Liberia;01/01/2013;Total;-0,48
+South Sudan;01/01/2014;Total;-2,65
+Palestine;01/01/2003;Total;-1,3
+Colombia;01/01/2012;Total;-1,4
+Jordan;01/01/2011;Total;-0,51
+Qatar;01/01/2006;Total;0,93
+North Macedonia;01/01/2014;Total;0,26
+Portugal;01/01/2003;Total;1,29
+Australia;01/01/2009;Total;0,86
+Lithuania;01/01/2017;Total;0,78
+Belgium;01/01/2011;Total;0,95
+Finland;01/01/2014;Total;1,28
+Andorra;01/01/2013;Total;1,28
+Zambia;01/01/2004;Total;0,19
+Palau;01/01/2005;Total;1,07
+Lao People's Democratic Republic;01/01/2010;Total;-0,28
+North Korea;01/01/2007;Total;0,54
+Timor-Leste;01/01/2004;Total;-0,16
+Denmark;01/01/2013;Total;0,96
+Honduras;01/01/2018;Total;-0,55
+Venezuela;01/01/2017;Total;-1,25
+Malta;01/01/2000;Total;1,59
+Sierra Leone;01/01/2014;Total;-0,1
+Malaysia;01/01/2015;Total;0,26
+Namibia;01/01/2009;Total;0,93
+Estonia;01/01/2002;Total;0,93
+Nigeria;01/01/2003;Total;-1,63
+Palestine;01/01/2010;Total;-1,97
+Indonesia;01/01/2017;Total;-0,5
+Fiji;01/01/2000;Total;0,3
+Spain;01/01/2015;Total;0,25
+Democratic Republic of the Congo;01/01/2003;Total;-2,03
+Mexico;01/01/2016;Total;-0,63
+Zimbabwe;01/01/2017;Total;-0,71
+Austria;01/01/2006;Total;1,08
+Viet Nam;01/01/2000;Total;0,41
+Albania;01/01/2004;Total;-0,43
+Finland;01/01/2012;Total;1,4
+Sweden;01/01/2010;Total;1,09
+Marshall Islands;01/01/2009;Total;1,38
+Albania;01/01/2010;Total;-0,19
+Ukraine;01/01/2015;Total;-1,96
+Zambia;01/01/2007;Total;0,36
+Denmark;01/01/2010;Total;1,04
+Equatorial Guinea;01/01/2008;Total;0,2
+Bulgaria;01/01/2009;Total;0,35
+Libya;01/01/2012;Total;-1,59
+Chile;01/01/2004;Total;0,69
+Egypt;01/01/2005;Total;-0,63
+Democratic Republic of the Congo;01/01/2015;Total;-2,15
+Comoros;01/01/2000;Total;0,02
+Burundi;01/01/2003;Total;-2,24
+Afghanistan;01/01/2013;Total;-2,52
+Cuba;01/01/2009;Total;0,36
+Sierra Leone;01/01/2003;Total;-1,08
+Bosnia and Herzegovina;01/01/2015;Total;-0,4
+Ethiopia;01/01/2014;Total;-1,34
+United Republic of Tanzania;01/01/2012;Total;0,05
+Nicaragua;01/01/2018;Total;-0,8
+Somalia;01/01/2005;Total;-2,71
+Burundi;01/01/2014;Total;-0,78
+Canada;01/01/2018;Total;0,99
+Yemen;01/01/2004;Total;-1,55
+Hungary;01/01/2004;Total;0,83
+Cyprus;01/01/2007;Total;0,54
+Brunei Darussalam;01/01/2008;Total;1,13
+Democratic Republic of the Congo;01/01/2008;Total;-2,01
+Portugal;01/01/2009;Total;0,79
+Nauru;01/01/2004;Total;1,13
+Pakistan;01/01/2006;Total;-2,03
+Peru;01/01/2013;Total;-0,81
+Belarus;01/01/2012;Total;0,07
+Czechia;01/01/2009;Total;0,91
+Norway;01/01/2005;Total;1,3
+Mexico;01/01/2003;Total;-0,12
+Cabo Verde;01/01/2014;Total;0,35
+Seychelles;01/01/2018;Total;0,7
+Italy;01/01/2008;Total;0,55
+Indonesia;01/01/2003;Total;-2,09
+Philippines;01/01/2014;Total;-0,71
+Côte-d'Ivoire;01/01/2000;Total;-1,24
+Bulgaria;01/01/2013;Total;0,17
+Vanuatu;01/01/2017;Total;0,7
+Oman;01/01/2017;Total;0,75
+Slovakia;01/01/2011;Total;0,97
+Djibouti;01/01/2016;Total;-0,63
+Senegal;01/01/2005;Total;-0,2
+Republic of Korea;01/01/2000;Total;0,4
+Madagascar;01/01/2008;Total;-0,47
+China;01/01/2000;Total;0,4375
+Azerbaijan;01/01/2008;Total;-0,33
+Cameroon;01/01/2005;Total;-0,18
+Iran;01/01/2016;Total;-0,81
+North Korea;01/01/2014;Total;-1,13
+Costa Rica;01/01/2000;Total;0,87
+France;01/01/2009;Total;0,51
+Kuwait;01/01/2016;Total;-0,05
+Niger;01/01/2006;Total;-0,23
+Palestine;01/01/2008;Total;-2
+Belgium;01/01/2018;Total;0,41
+American Samoa;01/01/2018;Total;1,21
+Luxembourg;01/01/2009;Total;1,45
+Morocco;01/01/2009;Total;-0,4
+Malta;01/01/2014;Total;1,13
+North Korea;01/01/2018;Total;-0,35
+Chile;01/01/2007;Total;0,41
+Angola;01/01/2002;Total;-1,58
+Paraguay;01/01/2014;Total;-0,09
+Senegal;01/01/2009;Total;-0,2
+Eswatini;01/01/2000;Total;0,04
+Latvia;01/01/2009;Total;0,35
+Comoros;01/01/2013;Total;-0,26
+Belize;01/01/2009;Total;0,03
+Haiti;01/01/2007;Total;-1,32
+Georgia;01/01/2005;Total;-0,75
+Singapore;01/01/2018;Total;1,51
+Azerbaijan;01/01/2004;Total;-1,06
+Nauru;01/01/2013;Total;1,05
+Croatia;01/01/2015;Total;0,59
+Serbia;01/01/2009;Total;-0,48
+Gambia;01/01/2004;Total;0,17
+South Africa;01/01/2013;Total;-0,05
+Andorra;01/01/2005;Total;1,38
+Brunei Darussalam;01/01/2002;Total;1,16
+Latvia;01/01/2010;Total;0,53
+Bahamas;01/01/2012;Total;1,18
+Philippines;01/01/2006;Total;-1,64
+Mongolia;01/01/2009;Total;0,61
+Ghana;01/01/2008;Total;-0,03
+Gabon;01/01/2009;Total;0,14
+Dominica;01/01/2009;Total;0,67
+Bolivia;01/01/2014;Total;-0,33
+Turkey;01/01/2010;Total;-0,92
+Dominican Republic;01/01/2002;Total;0,12
+Viet Nam;01/01/2017;Total;0,29
+Thailand;01/01/2013;Total;-1,31
+Grenada;01/01/2010;Total;0,52
+Cambodia;01/01/2013;Total;-0,14
+Latvia;01/01/2005;Total;0,81
+North Macedonia;01/01/2004;Total;-0,85
+Barbados;01/01/2004;Total;1,1
+Trinidad and Tobago;01/01/2008;Total;-0,12
+Georgia;01/01/2017;Total;-0,37
+Kyrgyzstan;01/01/2011;Total;-1,1
+Bhutan;01/01/2018;Total;1,1
+Madagascar;01/01/2016;Total;-0,29
+Republic of Korea;01/01/2014;Total;0,11
+Netherlands;01/01/2007;Total;0,78
+Belgium;01/01/2008;Total;0,62
+Lesotho;01/01/2007;Total;-0,39
+Brazil;01/01/2002;Total;0,33
+Panama;01/01/2018;Total;0,28
+Austria;01/01/2011;Total;1,19
+Colombia;01/01/2014;Total;-1,11
+Trinidad and Tobago;01/01/2004;Total;-0,07
+France;01/01/2015;Total;0,11
+Côte-d'Ivoire;01/01/2012;Total;-1,26
+Paraguay;01/01/2015;Total;0,04
+Dominican Republic;01/01/2009;Total;0
+Argentina;01/01/2010;Total;-0,08
+Albania;01/01/2011;Total;-0,28
+Sudan;01/01/2004;Total;-1,55
+Belarus;01/01/2005;Total;0,36
+Ghana;01/01/2013;Total;0,06
+Bosnia and Herzegovina;01/01/2003;Total;-0,4
+Puerto Rico;01/01/2003;Total;0,31
+Guyana;01/01/2002;Total;-0,56
+Morocco;01/01/2011;Total;-0,39
+United States of America;01/01/2013;Total;0,64
+Iran;01/01/2005;Total;-0,78
+Zambia;01/01/2014;Total;0,16
+Nepal;01/01/2014;Total;-0,72
+Cameroon;01/01/2006;Total;-0,25
+Cabo Verde;01/01/2007;Total;0,88
+Libya;01/01/2003;Total;0,12
+Afghanistan;01/01/2009;Total;-2,71
+Uzbekistan;01/01/2011;Total;-0,6
+Lao People's Democratic Republic;01/01/2006;Total;-0,09
+Yemen;01/01/2017;Total;-2,94
+Algeria;01/01/2018;Total;-0,79
+Saudi Arabia;01/01/2014;Total;-0,29
+Japan;01/01/2017;Total;1,11
+Italy;01/01/2000;Total;0,92
+Senegal;01/01/2015;Total;-0,12
+Dominica;01/01/2017;Total;1,2
+Uruguay;01/01/2000;Total;0,93
+Algeria;01/01/2005;Total;-0,92
+Trinidad and Tobago;01/01/2014;Total;0,25
+Israel;01/01/2011;Total;-1,2
+Iran;01/01/2014;Total;-0,87
+Viet Nam;01/01/2010;Total;0,15
+Lithuania;01/01/2005;Total;0,78
+United Republic of Tanzania;01/01/2010;Total;0,01
+Hungary;01/01/2005;Total;1
+Russian Federation;01/01/2016;Total;-0,95
+India;01/01/2003;Total;-1,51
+Russian Federation;01/01/2012;Total;-0,82
+India;01/01/2006;Total;-1,06
+United Arab Emirates;01/01/2013;Total;0,89
+Republic of Moldova;01/01/2015;Total;-0,33
+Antigua and Barbuda;01/01/2002;Total;0,79
+Ghana;01/01/2018;Total;0,03
+Sweden;01/01/2004;Total;1,36
+Lithuania;01/01/2014;Total;0,74
+Latvia;01/01/2004;Total;0,62
+Barbados;01/01/2012;Total;1,19
+Gambia;01/01/2011;Total;0
+Iran;01/01/2018;Total;-1,31
+Argentina;01/01/2018;Total;0,02
+Fiji;01/01/2009;Total;-0,27
+Antigua and Barbuda;01/01/2015;Total;1
+Syrian Arab Republic;01/01/2006;Total;-0,28
+Yemen;01/01/2000;Total;-1,14
+Trinidad and Tobago;01/01/2007;Total;-0,19
+Jordan;01/01/2006;Total;-0,76
+Albania;01/01/2013;Total;0,09
+Togo;01/01/2018;Total;-0,98
+Bhutan;01/01/2017;Total;1,12
+India;01/01/2002;Total;-1,21
+Seychelles;01/01/2009;Total;0,6
+Mauritius;01/01/2017;Total;0,97
+Côte-d'Ivoire;01/01/2008;Total;-1,81
+Cuba;01/01/2013;Total;0,37
+Guinea;01/01/2007;Total;-2,4
+Sierra Leone;01/01/2016;Total;-0,16
+Armenia;01/01/2011;Total;-0,06
+Ghana;01/01/2004;Total;0,04
+Latvia;01/01/2006;Total;0,84
+Switzerland;01/01/2012;Total;1,42
+Zambia;01/01/2018;Total;0,14
+Armenia;01/01/2016;Total;-0,66
+Belize;01/01/2018;Total;0,02
+Saint Kitts and Nevis;01/01/2004;Total;1,36
+Burundi;01/01/2007;Total;-1,38
+Nicaragua;01/01/2010;Total;-0,5
+Central African Republic;01/01/2015;Total;-1,9
+Venezuela;01/01/2012;Total;-1,03
+Libya;01/01/2006;Total;0,36
+Rwanda;01/01/2009;Total;-0,51
+United Kingdom of Great Britain and Northern Ireland;01/01/2017;Total;0,33
+Armenia;01/01/2013;Total;0,11
+Honduras;01/01/2002;Total;-0,26
+Norway;01/01/2012;Total;1,33
+Indonesia;01/01/2004;Total;-1,91
+Switzerland;01/01/2016;Total;1,31
+Belize;01/01/2011;Total;0,15
+Malaysia;01/01/2006;Total;0,29
+Estonia;01/01/2012;Total;0,64
+Nepal;01/01/2009;Total;-1,62
+Brunei Darussalam;01/01/2006;Total;1,12
+Sri Lanka;01/01/2007;Total;-1,75
+Greenland;01/01/2014;Total;1,92
+Finland;01/01/2013;Total;1,39
+Bangladesh;01/01/2015;Total;-1,21
+Benin;01/01/2014;Total;0,03
+Bosnia and Herzegovina;01/01/2011;Total;-0,82
+Poland;01/01/2013;Total;0,97
+Oman;01/01/2008;Total;0,92
+Bahamas;01/01/2009;Total;0,86
+Iraq;01/01/2011;Total;-1,85
+Angola;01/01/2004;Total;-1,06
+Uruguay;01/01/2017;Total;1,05
+Tuvalu;01/01/2009;Total;1,4
+Qatar;01/01/2018;Total;0,68
+Portugal;01/01/2017;Total;1,12
+North Korea;01/01/2008;Total;0,52
+Mauritania;01/01/2010;Total;-1,08
+United States of America;01/01/2011;Total;0,59
+Australia;01/01/2006;Total;0,94
+Poland;01/01/2000;Total;0,31
+Niger;01/01/2000;Total;0,12
+Bangladesh;01/01/2002;Total;-1,03
+Rwanda;01/01/2017;Total;0,09
+United Kingdom of Great Britain and Northern Ireland;01/01/2005;Total;0,13
+Grenada;01/01/2002;Total;0,92
+Eswatini;01/01/2004;Total;-0,01
+Iceland;01/01/2007;Total;1,48
+Saint Lucia;01/01/2009;Total;0,69
+India;01/01/2004;Total;-1,28
+Malawi;01/01/2016;Total;-0,11
+Chad;01/01/2012;Total;-1,04
+Malta;01/01/2009;Total;1,25
+Nigeria;01/01/2007;Total;-2,01
+Lebanon;01/01/2012;Total;-1,66
+Estonia;01/01/2000;Total;0,9
+Colombia;01/01/2002;Total;-1,95
+United Kingdom of Great Britain and Northern Ireland;01/01/2010;Total;0,41
+Burundi;01/01/2000;Total;-2,02
+Viet Nam;01/01/2013;Total;0,25
+Estonia;01/01/2013;Total;0,75
+Panama;01/01/2017;Total;0,39
+Namibia;01/01/2007;Total;1,02
+Palestine;01/01/2007;Total;-1,98
+Rwanda;01/01/2010;Total;-0,27
+Tunisia;01/01/2010;Total;-0,06
+Haiti;01/01/2014;Total;-0,64
+Palestine;01/01/2005;Total;-1,41
+Kazakhstan;01/01/2009;Total;0,78
+Latvia;01/01/2014;Total;0,49
+Comoros;01/01/2008;Total;-1,11
+Argentina;01/01/2013;Total;0,07
+Malawi;01/01/2012;Total;0
+Guinea;01/01/2008;Total;-2,1
+Honduras;01/01/2003;Total;-0,38
+Central African Republic;01/01/2012;Total;-1,85
+Andorra;01/01/2000;Total;1,17
+Lao People's Democratic Republic;01/01/2016;Total;0,53
+Central African Republic;01/01/2011;Total;-1,79
+Palestine;01/01/2018;Total;-1,74
+Yemen;01/01/2010;Total;-2,42
+Tuvalu;01/01/2012;Total;1,29
+Gabon;01/01/2018;Total;-0,25
+Saudi Arabia;01/01/2004;Total;-0,66
+Samoa;01/01/2000;Total;1,28
+North Macedonia;01/01/2002;Total;-1,04
+Bahamas;01/01/2015;Total;0,91
+France;01/01/2012;Total;0,55
+Turkey;01/01/2016;Total;-2,01
+Ethiopia;01/01/2016;Total;-1,62
+France;01/01/2011;Total;0,6
+Guinea-Bissau;01/01/2007;Total;-0,46
+Maldives;01/01/2014;Total;0,68
+Haiti;01/01/2009;Total;-0,96
+Oman;01/01/2006;Total;0,84
+Iran;01/01/2006;Total;-1,04
+Algeria;01/01/2009;Total;-1,2
+Mauritius;01/01/2009;Total;0,71
+Saudi Arabia;01/01/2018;Total;-0,52
+Germany;01/01/2000;Total;1,41
+Ghana;01/01/2015;Total;-0,03
+American Samoa;01/01/2005;Total;0,75
+Lithuania;01/01/2010;Total;0,72
+Chad;01/01/2015;Total;-0,97
+Bangladesh;01/01/2017;Total;-1,26
+Greece;01/01/2000;Total;0,81
+Suriname;01/01/2002;Total;0,49
+Iran;01/01/2000;Total;-0,73
+Ecuador;01/01/2008;Total;-0,73
+Vanuatu;01/01/2015;Total;0,48
+Bulgaria;01/01/2005;Total;0,15
+Kazakhstan;01/01/2016;Total;0,01
+United Arab Emirates;01/01/2014;Total;0,77
+Switzerland;01/01/2007;Total;1,23
+Malawi;01/01/2007;Total;0,08
+Brunei Darussalam;01/01/2013;Total;1,07
+Brazil;01/01/2018;Total;-0,36
+Cyprus;01/01/2000;Total;0,52
+Lithuania;01/01/2003;Total;1,05
+Democratic Republic of the Congo;01/01/2016;Total;-2,23
+Botswana;01/01/2011;Total;1,06
+Antigua and Barbuda;01/01/2010;Total;0,9
+Lebanon;01/01/2010;Total;-1,63
+Netherlands;01/01/2013;Total;1,14
+Timor-Leste;01/01/2003;Total;-0,29
+Paraguay;01/01/2004;Total;-0,57
+Rwanda;01/01/2000;Total;-1,69
+Serbia;01/01/2015;Total;0,24
+Lao People's Democratic Republic;01/01/2011;Total;-0,06
+Senegal;01/01/2010;Total;-0,42
+Maldives;01/01/2002;Total;1,08
+Saint Vincent and the Grenadines;01/01/2018;Total;0,85
+Barbados;01/01/2011;Total;1,25
+Pakistan;01/01/2016;Total;-2,48
+Fiji;01/01/2013;Total;-0,05
+Argentina;01/01/2002;Total;-0,78
+Haiti;01/01/2012;Total;-0,79
+Eritrea;01/01/2000;Total;-0,77
+Turkmenistan;01/01/2015;Total;-0,09
+France;01/01/2003;Total;0,18
+Bulgaria;01/01/2016;Total;0,08
+France;01/01/2004;Total;0,35
+Sri Lanka;01/01/2016;Total;0
+Guatemala;01/01/2014;Total;-0,66
+China;01/01/2016;Total;0,65
+Eswatini;01/01/2002;Total;0,13
+Cambodia;01/01/2017;Total;0,09
+Bangladesh;01/01/2014;Total;-0,9
+Kenya;01/01/2007;Total;-1,3
+Brazil;01/01/2007;Total;-0,36
+Bangladesh;01/01/2007;Total;-1,54
+Spain;01/01/2012;Total;-0,03
+Mongolia;01/01/2004;Total;0,77
+New Zealand;01/01/2010;Total;1,24
+Sri Lanka;01/01/2011;Total;-0,72
+Argentina;01/01/2005;Total;-0,04
+Fiji;01/01/2014;Total;0,55
+Afghanistan;01/01/2018;Total;-2,75
+Morocco;01/01/2016;Total;-0,31
+Jordan;01/01/2010;Total;-0,31
+Australia;01/01/2007;Total;0,93
+Malawi;01/01/2003;Total;0,04
+France;01/01/2017;Total;0,28
+Mauritius;01/01/2005;Total;1,03
+Marshall Islands;01/01/2008;Total;1,01
+Vanuatu;01/01/2009;Total;1,23
+Cameroon;01/01/2010;Total;-0,74
+Republic of Korea;01/01/2006;Total;0,42
+Nepal;01/01/2005;Total;-2,1
+Bahamas;01/01/2005;Total;0,94
+Rwanda;01/01/2002;Total;-1,65
+Russian Federation;01/01/2002;Total;-0,72
+Oman;01/01/2004;Total;1,12
+Netherlands;01/01/2002;Total;1,31
+Costa Rica;01/01/2007;Total;0,58
+United Kingdom of Great Britain and Northern Ireland;01/01/2000;Total;1,04
+India;01/01/2005;Total;-1,01
+Bolivia;01/01/2008;Total;-0,7
+Marshall Islands;01/01/2015;Total;0,92
+Kuwait;01/01/2003;Total;0,29
+Eswatini;01/01/2013;Total;-0,43
+Cameroon;01/01/2018;Total;-1,38
+Kuwait;01/01/2014;Total;0,15
+Honduras;01/01/2017;Total;-0,56
+Dominica;01/01/2007;Total;0,79
+Canada;01/01/2011;Total;1,08
+Ireland;01/01/2017;Total;1
+Guatemala;01/01/2003;Total;-0,78
+Iran;01/01/2013;Total;-1,25
+Eritrea;01/01/2013;Total;-0,77
+Singapore;01/01/2016;Total;1,5
+Equatorial Guinea;01/01/2009;Total;0,37
+Lesotho;01/01/2016;Total;-0,24
+Bermuda;01/01/2017;Total;1
+Republic of Moldova;01/01/2009;Total;-0,59
+Somalia;01/01/2018;Total;-2,22
+Lebanon;01/01/2015;Total;-1,7
+Azerbaijan;01/01/2016;Total;-0,8
+Ireland;01/01/2013;Total;0,9
+Saint Lucia;01/01/2004;Total;1,22
+Samoa;01/01/2007;Total;1
+Dominica;01/01/2018;Total;1,11
+Zimbabwe;01/01/2004;Total;-1,21
+Austria;01/01/2018;Total;0,92
+Gambia;01/01/2000;Total;0,53
+Guinea-Bissau;01/01/2011;Total;-0,75
+Cameroon;01/01/2008;Total;-0,55
+Guatemala;01/01/2006;Total;-0,74
+Democratic Republic of the Congo;01/01/2006;Total;-2,25
+France;01/01/2018;Total;0,11
+Trinidad and Tobago;01/01/2010;Total;-0,05
+Barbados;01/01/2017;Total;0,97
+Finland;01/01/2011;Total;1,39
+Guinea;01/01/2013;Total;-1,23
+Libya;01/01/2017;Total;-2,36
+Cabo Verde;01/01/2005;Total;0,75
+Saint Lucia;01/01/2011;Total;0,85
+Eritrea;01/01/2011;Total;-0,77
+Ecuador;01/01/2015;Total;-0,14
+Samoa;01/01/2004;Total;1,16
+Iran;01/01/2009;Total;-1,56
+Kiribati;01/01/2008;Total;1,34
+Kuwait;01/01/2010;Total;0,45
+Netherlands;01/01/2014;Total;1,05
+Ecuador;01/01/2017;Total;-0,07
+Kyrgyzstan;01/01/2010;Total;-1,04
+Switzerland;01/01/2003;Total;1,25
+Morocco;01/01/2013;Total;-0,49
+Mozambique;01/01/2007;Total;0,36
+Nauru;01/01/2005;Total;1,07
+Congo;01/01/2004;Total;-1,19
+Russian Federation;01/01/2013;Total;-0,74
+Cuba;01/01/2008;Total;0,52
+Azerbaijan;01/01/2017;Total;-0,75
+American Samoa;01/01/2015;Total;1,18
+Namibia;01/01/2013;Total;0,96
+Bahamas;01/01/2000;Total;1,28
+Marshall Islands;01/01/2003;Total;1,17
+Mozambique;01/01/2006;Total;0,52
+Gabon;01/01/2007;Total;0,3
+Ireland;01/01/2015;Total;0,91
+Montenegro;01/01/2015;Total;0,14
+Samoa;01/01/2015;Total;1,18
+Greenland;01/01/2010;Total;1,65
+Madagascar;01/01/2002;Total;-0,23
+Burundi;01/01/2010;Total;-1,63
+Algeria;01/01/2015;Total;-1,09
+Slovakia;01/01/2006;Total;0,78
+Belgium;01/01/2005;Total;0,8
+Guyana;01/01/2017;Total;-0,04
+Suriname;01/01/2000;Total;0,21
+Sierra Leone;01/01/2012;Total;-0,28
+El Salvador;01/01/2011;Total;0,11
+Mali;01/01/2014;Total;-1,71
+Bahrain;01/01/2008;Total;-0,24
+Saint Lucia;01/01/2018;Total;1,01
+Lithuania;01/01/2018;Total;0,75
+Morocco;01/01/2000;Total;-0,07
+Greenland;01/01/2015;Total;1,94
+India;01/01/2014;Total;-1
+Mongolia;01/01/2017;Total;0,79
+Poland;01/01/2003;Total;0,58
+Paraguay;01/01/2000;Total;-0,97
+El Salvador;01/01/2009;Total;-0,01
+Belize;01/01/2017;Total;0,04
+Nigeria;01/01/2005;Total;-1,67
+China;01/01/2003;Total;0,5375
+Uruguay;01/01/2018;Total;1,05
+Senegal;01/01/2003;Total;-0,25
+Niger;01/01/2013;Total;-1,32
+Zimbabwe;01/01/2005;Total;-1,27
+Republic of Moldova;01/01/2011;Total;-0,05
+Belgium;01/01/2006;Total;0,86
+Bolivia;01/01/2006;Total;-0,8
+Benin;01/01/2011;Total;0,32
+Grenada;01/01/2005;Total;0,41
+Zambia;01/01/2015;Total;0,15
+Saint Vincent and the Grenadines;01/01/2003;Total;0,76
+Greenland;01/01/2012;Total;1,93
+Yemen;01/01/2003;Total;-1,48
+Dominican Republic;01/01/2012;Total;0,25
+North Korea;01/01/2002;Total;0,18
+Federated States of Micronesia;01/01/2003;Total;0,63
+Gabon;01/01/2000;Total;0,64
+Djibouti;01/01/2013;Total;-0,1
+Uruguay;01/01/2012;Total;0,71
+Romania;01/01/2013;Total;0,18
+Peru;01/01/2018;Total;-0,26
+Iceland;01/01/2018;Total;1,41
+Costa Rica;01/01/2004;Total;0,63
+Angola;01/01/2008;Total;-0,36
+Samoa;01/01/2009;Total;0,96
+Jamaica;01/01/2006;Total;-0,32
+Dominica;01/01/2011;Total;1,14
+Bermuda;01/01/2000;Total;0,71
+Malta;01/01/2018;Total;1,29
+Saint Vincent and the Grenadines;01/01/2011;Total;0,85
+Benin;01/01/2002;Total;0,82
+Uruguay;01/01/2007;Total;0,84
+Saudi Arabia;01/01/2008;Total;-0,34
+Japan;01/01/2015;Total;1,07
+Ukraine;01/01/2004;Total;-0,47
+Malawi;01/01/2010;Total;0,04
+Italy;01/01/2006;Total;0,53
+Jordan;01/01/2016;Total;-0,49
+Azerbaijan;01/01/2018;Total;-0,7
+Israel;01/01/2012;Total;-1,08
+China;01/01/2013;Total;0,5025
+United States of America;01/01/2010;Total;0,44
+Turkmenistan;01/01/2007;Total;0,28
+Republic of Korea;01/01/2012;Total;0,27
+Austria;01/01/2017;Total;1,05
+Portugal;01/01/2002;Total;1,44
+Niger;01/01/2015;Total;-1,07
+New Zealand;01/01/2015;Total;1,53
+Saint Kitts and Nevis;01/01/2007;Total;0,8
+Belarus;01/01/2006;Total;0,15
+Burundi;01/01/2015;Total;-1,94
+Guinea-Bissau;01/01/2000;Total;-0,35
+Nauru;01/01/2014;Total;0,6
+Puerto Rico;01/01/2013;Total;0,25
+Qatar;01/01/2002;Total;0,83
+Netherlands;01/01/2011;Total;1,11
+Malta;01/01/2011;Total;1,06
+Tunisia;01/01/2012;Total;-0,72
+China;01/01/2011;Total;0,4775
+Latvia;01/01/2008;Total;0,2
+Kiribati;01/01/2018;Total;1,03
+Palau;01/01/2015;Total;0,92
+China;01/01/2014;Total;0,6525
+Chile;01/01/2002;Total;1,09
+Central African Republic;01/01/2013;Total;-2,15
+Brazil;01/01/2008;Total;-0,31
+Sao Tome and Principe;01/01/2006;Total;0,35
+Grenada;01/01/2000;Total;1,02
+Botswana;01/01/2010;Total;0,99
+Brunei Darussalam;01/01/2011;Total;1,09
+Central African Republic;01/01/2009;Total;-1,91
+Jamaica;01/01/2010;Total;-0,43
+Guinea;01/01/2003;Total;-0,79
+Georgia;01/01/2012;Total;-0,68
+Andorra;01/01/2017;Total;1,42
+North Macedonia;01/01/2018;Total;-0,2
+Canada;01/01/2003;Total;1,05
+Brunei Darussalam;01/01/2010;Total;1,28
+Somalia;01/01/2002;Total;-2,38
+Mali;01/01/2008;Total;0,21
+India;01/01/2012;Total;-1,29
+Thailand;01/01/2012;Total;-1,22
+Chad;01/01/2014;Total;-1,57
+Pakistan;01/01/2015;Total;-2,48
+Mali;01/01/2002;Total;0,41
+Cambodia;01/01/2015;Total;0,06
+Uruguay;01/01/2002;Total;0,84
+Burundi;01/01/2016;Total;-1,97
+Malta;01/01/2010;Total;1,25
+Egypt;01/01/2010;Total;-0,9
+Lebanon;01/01/2013;Total;-1,69
+Greece;01/01/2018;Total;0,09
+Pakistan;01/01/2010;Total;-2,68
+Austria;01/01/2000;Total;0,82
+Pakistan;01/01/2003;Total;-1,55
+Bahamas;01/01/2010;Total;0,99
+Algeria;01/01/2003;Total;-1,75
+United Arab Emirates;01/01/2009;Total;0,92
+Egypt;01/01/2002;Total;-0,41
+Nepal;01/01/2017;Total;-0,69
+Equatorial Guinea;01/01/2015;Total;-0,21
+Liberia;01/01/2008;Total;-1,29
+Israel;01/01/2016;Total;-0,79
+Netherlands;01/01/2004;Total;1,02
+Austria;01/01/2012;Total;1,34
+Kiribati;01/01/2013;Total;1,28
+Cameroon;01/01/2014;Total;-1,06
+Botswana;01/01/2005;Total;1,06
+El Salvador;01/01/2003;Total;-0,18
+Congo;01/01/2000;Total;-0,92
+India;01/01/2010;Total;-1,28
+Afghanistan;01/01/2004;Total;-2,3
+Algeria;01/01/2013;Total;-1,2
+Oman;01/01/2000;Total;1,12
+Cuba;01/01/2010;Total;0,35
+Paraguay;01/01/2018;Total;-0,12
+Namibia;01/01/2000;Total;-0,25
+Ethiopia;01/01/2018;Total;-1,34
+Malawi;01/01/2017;Total;-0,25
+Kuwait;01/01/2015;Total;-0,21
+Mexico;01/01/2002;Total;-0,06
+Gambia;01/01/2013;Total;-0,05
+Serbia;01/01/2012;Total;-0,22
+Norway;01/01/2015;Total;1,16
+Niger;01/01/2003;Total;0,04
+Italy;01/01/2012;Total;0,51
+Qatar;01/01/2005;Total;1,03
+Australia;01/01/2008;Total;0,96
+Brazil;01/01/2000;Total;0,19
+Georgia;01/01/2015;Total;-0,47
+Argentina;01/01/2004;Total;-0,61
+Barbados;01/01/2009;Total;1,05
+Botswana;01/01/2016;Total;0,99
+Thailand;01/01/2005;Total;-0,87
+Sudan;01/01/2018;Total;-1,84
+North Macedonia;01/01/2012;Total;-0,49
+North Macedonia;01/01/2005;Total;-1,16
+Congo;01/01/2008;Total;-0,72
+Australia;01/01/2018;Total;0,98
+Mexico;01/01/2008;Total;-0,8
+Armenia;01/01/2006;Total;-0,26
+Rwanda;01/01/2016;Total;-0,05
+Mauritius;01/01/2003;Total;1,01
+Hungary;01/01/2006;Total;0,99
+Lao People's Democratic Republic;01/01/2009;Total;-0,16
+Thailand;01/01/2014;Total;-0,91
+United Arab Emirates;01/01/2002;Total;0,93
+Bangladesh;01/01/2010;Total;-1,43
+Colombia;01/01/2006;Total;-1,9
+Chad;01/01/2013;Total;-1,09
+Tunisia;01/01/2017;Total;-1,02
+Armenia;01/01/2010;Total;0,07
+Palestine;01/01/2012;Total;-1,96
+Bhutan;01/01/2000;Total;0,49
+Singapore;01/01/2000;Total;1,14
+Poland;01/01/2007;Total;0,68
+Cyprus;01/01/2014;Total;0,55
+Tunisia;01/01/2003;Total;0,32
+Andorra;01/01/2002;Total;1,28
+Democratic Republic of the Congo;01/01/2005;Total;-2,13
+Central African Republic;01/01/2016;Total;-1,79
+Malawi;01/01/2009;Total;0,05
+Mexico;01/01/2005;Total;-0,45
+Central African Republic;01/01/2007;Total;-1,85
+Costa Rica;01/01/2009;Total;0,59
+Croatia;01/01/2002;Total;0,63
+Haiti;01/01/2004;Total;-1,99
+Thailand;01/01/2004;Total;-0,72
+Saint Lucia;01/01/2007;Total;0,62
+Austria;01/01/2005;Total;1,11
+Yemen;01/01/2012;Total;-2,43
+El Salvador;01/01/2013;Total;-0,03
+Azerbaijan;01/01/2009;Total;-0,28
+Congo;01/01/2016;Total;-0,52
+Bolivia;01/01/2017;Total;-0,28
+Israel;01/01/2014;Total;-1,04
+Finland;01/01/2015;Total;1,04
+Cuba;01/01/2014;Total;0,54
+India;01/01/2000;Total;-1
+Kazakhstan;01/01/2007;Total;0,65
+Lesotho;01/01/2006;Total;-0,13
+Uzbekistan;01/01/2012;Total;-0,52
+North Macedonia;01/01/2011;Total;-0,62
+Ukraine;01/01/2012;Total;-0,09
+Mauritania;01/01/2013;Total;-1,01
+Tonga;01/01/2013;Total;0,94
+Serbia;01/01/2013;Total;-0,08
+Kyrgyzstan;01/01/2004;Total;-1,18
+Netherlands;01/01/2008;Total;0,87
+Argentina;01/01/2000;Total;0,1
+Syrian Arab Republic;01/01/2016;Total;-2,92
+Costa Rica;01/01/2008;Total;0,36
+Georgia;01/01/2010;Total;-0,72
+Niger;01/01/2002;Total;-0,13
+Papua New Guinea;01/01/2004;Total;-0,55
+Nauru;01/01/2016;Total;0,58
+Egypt;01/01/2011;Total;-1,44
+Somalia;01/01/2003;Total;-2,58
+Eritrea;01/01/2005;Total;-0,8
+Spain;01/01/2002;Total;0,44
+Myanmar;01/01/2016;Total;-0,8
+Syrian Arab Republic;01/01/2010;Total;-0,81
+Kuwait;01/01/2009;Total;0,35
+Guyana;01/01/2012;Total;-0,5
+Cameroon;01/01/2002;Total;-0,68
+Spain;01/01/2000;Total;0,46
+Oman;01/01/2002;Total;0,93
+Puerto Rico;01/01/2004;Total;0,56
+Egypt;01/01/2013;Total;-1,64
+Japan;01/01/2013;Total;1,02
+Egypt;01/01/2014;Total;-1,63
+Comoros;01/01/2016;Total;0,04
+Sri Lanka;01/01/2003;Total;-0,83
+Croatia;01/01/2009;Total;0,61
+Mozambique;01/01/2004;Total;0
+Puerto Rico;01/01/2006;Total;0,38
+Venezuela;01/01/2007;Total;-1,23
+Belgium;01/01/2014;Total;0,7
+Philippines;01/01/2018;Total;-1,12
+Ethiopia;01/01/2000;Total;-0,94
+Dominica;01/01/2004;Total;0,95
+Bolivia;01/01/2013;Total;-0,33
+Vanuatu;01/01/2010;Total;1,28
+Turkmenistan;01/01/2006;Total;-0,25
+Uzbekistan;01/01/2013;Total;-0,54
+Sri Lanka;01/01/2013;Total;-0,61
+Turkey;01/01/2008;Total;-0,82
+Romania;01/01/2005;Total;0,08
+Kenya;01/01/2018;Total;-1,16
+Nepal;01/01/2010;Total;-1,58
+Cyprus;01/01/2005;Total;0,52
+Côte-d'Ivoire;01/01/2018;Total;-0,93
+China;01/01/2008;Total;0,49
+United Arab Emirates;01/01/2016;Total;0,56
+Qatar;01/01/2015;Total;1
+Solomon Islands;01/01/2004;Total;0,02
+Nicaragua;01/01/2012;Total;-0,35
+Paraguay;01/01/2012;Total;-0,87
+Italy;01/01/2007;Total;0,45
+Syrian Arab Republic;01/01/2003;Total;0,06
+Bahrain;01/01/2002;Total;0,28
+Somalia;01/01/2009;Total;-3,31
+Philippines;01/01/2003;Total;-1,56
+Ukraine;01/01/2017;Total;-1,87
+Senegal;01/01/2004;Total;0,03
+Burundi;01/01/2009;Total;-1,27
+North Macedonia;01/01/2015;Total;-0,29
+Suriname;01/01/2014;Total;0,25
+United Republic of Tanzania;01/01/2007;Total;-0,39
+Vanuatu;01/01/2002;Total;1,16
+United Republic of Tanzania;01/01/2015;Total;-0,42
+Chad;01/01/2004;Total;-1,54
+Djibouti;01/01/2014;Total;-0,77
+Syrian Arab Republic;01/01/2014;Total;-2,75
+Chad;01/01/2007;Total;-1,87
+Bahamas;01/01/2008;Total;0,77
+Jamaica;01/01/2015;Total;0,1
+Ukraine;01/01/2013;Total;-0,78
+Andorra;01/01/2008;Total;1,34
+Japan;01/01/2005;Total;1,04
+New Zealand;01/01/2016;Total;1,52
+Togo;01/01/2009;Total;-0,17
+Puerto Rico;01/01/2000;Total;0,26
+Afghanistan;01/01/2010;Total;-2,58
+Guinea-Bissau;01/01/2009;Total;-0,67
+Mozambique;01/01/2008;Total;0,38
+Madagascar;01/01/2007;Total;0,09
+Tunisia;01/01/2008;Total;0,1
+Panama;01/01/2015;Total;0,39
+Malaysia;01/01/2003;Total;0,49
+China;01/01/2004;Total;0,68
+Estonia;01/01/2011;Total;0,61
+Burundi;01/01/2002;Total;-2,29
+Turkmenistan;01/01/2016;Total;-0,19
+Ethiopia;01/01/2003;Total;-1,41
+Greenland;01/01/2018;Total;1,94
+Uzbekistan;01/01/2000;Total;-1,31
+Pakistan;01/01/2018;Total;-2,27
+India;01/01/2017;Total;-0,76
+Marshall Islands;01/01/2011;Total;1,06
+Federated States of Micronesia;01/01/2004;Total;1
+Barbados;01/01/2002;Total;1,1
+Bhutan;01/01/2002;Total;0,69
+Finland;01/01/2005;Total;1,6
+Andorra;01/01/2015;Total;1,39
+Andorra;01/01/2009;Total;1,3
+Republic of Moldova;01/01/2018;Total;-0,35
+Saint Vincent and the Grenadines;01/01/2006;Total;1,06
+Guyana;01/01/2015;Total;-0,14
+North Korea;01/01/2006;Total;-0,03
+Malaysia;01/01/2008;Total;0,11
+Algeria;01/01/2007;Total;-1,15
+Belarus;01/01/2003;Total;0,69
+Zimbabwe;01/01/2002;Total;-1,52
+Lao People's Democratic Republic;01/01/2002;Total;-0,1
+Palau;01/01/2008;Total;1,01
+Papua New Guinea;01/01/2018;Total;-0,67
+Guinea;01/01/2015;Total;-0,39
+Latvia;01/01/2013;Total;0,59
+Ethiopia;01/01/2007;Total;-1,8
+Democratic Republic of the Congo;01/01/2012;Total;-2,09
+Malaysia;01/01/2010;Total;0,14
+Viet Nam;01/01/2005;Total;0,48
+Pakistan;01/01/2009;Total;-2,64
+Turkey;01/01/2014;Total;-1,09
+Switzerland;01/01/2013;Total;1,4
+Australia;01/01/2002;Total;1,19
+Malaysia;01/01/2016;Total;0,14
+Trinidad and Tobago;01/01/2012;Total;0,1
+Guyana;01/01/2000;Total;-0,49
+Iceland;01/01/2013;Total;1,29
+El Salvador;01/01/2002;Total;0,3
+Lao People's Democratic Republic;01/01/2008;Total;0,02
+Dominican Republic;01/01/2003;Total;-0,42
+Lesotho;01/01/2018;Total;-0,22
+Uruguay;01/01/2005;Total;0,78
+Guatemala;01/01/2011;Total;-0,74
+Czechia;01/01/2015;Total;0,98
+Lao People's Democratic Republic;01/01/2007;Total;-0,18
+Singapore;01/01/2003;Total;0,88
+Algeria;01/01/2010;Total;-1,26
+Paraguay;01/01/2003;Total;-0,75
+Rwanda;01/01/2006;Total;-0,68
+Marshall Islands;01/01/2010;Total;1,15
+Belize;01/01/2002;Total;0,42
+Gambia;01/01/2008;Total;0,07
+Guatemala;01/01/2018;Total;-0,54
+Ethiopia;01/01/2005;Total;-1,69
+Kazakhstan;01/01/2010;Total;0,52
+Luxembourg;01/01/2007;Total;1,48
+Afghanistan;01/01/2006;Total;-2,22
+Tonga;01/01/2015;Total;0,89
+Serbia;01/01/2005;Total;-0,77
+Equatorial Guinea;01/01/2016;Total;-0,14
+Nepal;01/01/2008;Total;-1,83
+Malawi;01/01/2005;Total;0,1
+Mongolia;01/01/2007;Total;0,67
+Nepal;01/01/2000;Total;-1,17
+Gabon;01/01/2006;Total;0,22
+Timor-Leste;01/01/2017;Total;0,07
+Montenegro;01/01/2010;Total;0,58
+Nigeria;01/01/2011;Total;-1,96
+Bangladesh;01/01/2000;Total;-0,72
+Sao Tome and Principe;01/01/2013;Total;0,11
+Slovenia;01/01/2004;Total;1,08
+Burkina Faso;01/01/2014;Total;-0,79
+Jordan;01/01/2008;Total;-0,37
+Barbados;01/01/2016;Total;0,98
+Papua New Guinea;01/01/2015;Total;-0,42
+El Salvador;01/01/2007;Total;-0,01
+Malawi;01/01/2015;Total;0,03
+Nigeria;01/01/2000;Total;-1,46
+South Sudan;01/01/2017;Total;-2,45
+Zambia;01/01/2006;Total;0,36
+Zimbabwe;01/01/2006;Total;-0,93
+Botswana;01/01/2012;Total;1,1
+Ethiopia;01/01/2015;Total;-1,5
+Georgia;01/01/2009;Total;-0,97
+Slovenia;01/01/2009;Total;0,93
+Brazil;01/01/2004;Total;-0,28
+Spain;01/01/2003;Total;-0,04
+Fiji;01/01/2005;Total;0,38
+Mali;01/01/2004;Total;0,45
+Singapore;01/01/2015;Total;1,31
+Lesotho;01/01/2014;Total;-0,33
+Tajikistan;01/01/2004;Total;-1,31
+Bahamas;01/01/2004;Total;0,89
+Albania;01/01/2012;Total;-0,14
+Hungary;01/01/2012;Total;0,68
+Colombia;01/01/2009;Total;-1,83
+Venezuela;01/01/2018;Total;-1,34
+Palau;01/01/2003;Total;1,17
+Central African Republic;01/01/2008;Total;-1,84
+Belarus;01/01/2007;Total;0,34
+Chad;01/01/2018;Total;-1,48
+Palau;01/01/2014;Total;0,99
+Gabon;01/01/2014;Total;0,15
+Cyprus;01/01/2015;Total;0,55
+Portugal;01/01/2018;Total;1,14
+Liberia;01/01/2004;Total;-1,37
+Zimbabwe;01/01/2015;Total;-0,62
+Dominican Republic;01/01/2013;Total;0,21
+Burkina Faso;01/01/2004;Total;-0,08
+Seychelles;01/01/2008;Total;0,75
+Liberia;01/01/2018;Total;-0,19
+Azerbaijan;01/01/2007;Total;-0,63
+Libya;01/01/2011;Total;-1,29
+Latvia;01/01/2015;Total;0,44
+Timor-Leste;01/01/2016;Total;-0,01
+Guyana;01/01/2011;Total;-0,43
+Saint Kitts and Nevis;01/01/2005;Total;1,29
+Democratic Republic of the Congo;01/01/2009;Total;-2
+Bangladesh;01/01/2013;Total;-1,63
+Trinidad and Tobago;01/01/2013;Total;0,09
+Yemen;01/01/2016;Total;-2,79
+India;01/01/2015;Total;-0,95
+Senegal;01/01/2000;Total;-0,59
+Dominican Republic;01/01/2015;Total;0,24
+Madagascar;01/01/2004;Total;0,24
+Mauritania;01/01/2002;Total;0,38
+Congo;01/01/2018;Total;-0,44
+Mexico;01/01/2011;Total;-0,67
+Côte-d'Ivoire;01/01/2016;Total;-0,91
+Uganda;01/01/2005;Total;-1,42
+Togo;01/01/2003;Total;-0,19
+Bolivia;01/01/2004;Total;-0,68
+Nigeria;01/01/2016;Total;-1,88
+Central African Republic;01/01/2004;Total;-1,42
+New Zealand;01/01/2000;Total;1,36
+Malaysia;01/01/2000;Total;0,09
+Ethiopia;01/01/2008;Total;-1,73
+North Korea;01/01/2016;Total;-0,68
+Puerto Rico;01/01/2010;Total;0,36
+Honduras;01/01/2000;Total;-0,08
+Djibouti;01/01/2018;Total;-0,13
+Equatorial Guinea;01/01/2003;Total;0,11
+Switzerland;01/01/2009;Total;1,31
+Côte-d'Ivoire;01/01/2014;Total;-1,04
+Thailand;01/01/2009;Total;-1,42
+Samoa;01/01/2006;Total;1,1
+New Zealand;01/01/2002;Total;1,32
+Eritrea;01/01/2010;Total;-0,88
+Uzbekistan;01/01/2003;Total;-1,3
+Nauru;01/01/2003;Total;1,17
+Russian Federation;01/01/2007;Total;-0,86
+Comoros;01/01/2011;Total;-0,55
+Iceland;01/01/2015;Total;1,31
+Bolivia;01/01/2011;Total;-0,42
+Kazakhstan;01/01/2008;Total;0,62
+Dominica;01/01/2003;Total;0,67
+Paraguay;01/01/2006;Total;-0,77
+Madagascar;01/01/2006;Total;0,18
+Austria;01/01/2002;Total;1,36
+Chile;01/01/2018;Total;0,43
+Sweden;01/01/2018;Total;0,91
+Yemen;01/01/2015;Total;-2,68
+Suriname;01/01/2015;Total;0,26
+Cyprus;01/01/2002;Total;0,19
+United Republic of Tanzania;01/01/2013;Total;-0,16
+Saudi Arabia;01/01/2000;Total;0,23
+Philippines;01/01/2010;Total;-1,65
+Burkina Faso;01/01/2015;Total;-0,61
+Venezuela;01/01/2002;Total;-1,32
+Antigua and Barbuda;01/01/2018;Total;0,73
+Lao People's Democratic Republic;01/01/2014;Total;0,5
+Republic of Korea;01/01/2013;Total;0,28
+Mauritius;01/01/2000;Total;0,76
+Central African Republic;01/01/2018;Total;-2,28
+Djibouti;01/01/2015;Total;-0,44
+Ghana;01/01/2003;Total;0,03
+Palau;01/01/2009;Total;1,38
+Cabo Verde;01/01/2004;Total;1,04
+Uzbekistan;01/01/2009;Total;-0,95
+Uruguay;01/01/2015;Total;1
+Austria;01/01/2003;Total;0,96
+Egypt;01/01/2003;Total;-0,64
+Togo;01/01/2007;Total;-0,34
+Belgium;01/01/2004;Total;0,71
+Pakistan;01/01/2002;Total;-1,64
+Jamaica;01/01/2007;Total;-0,25
+Maldives;01/01/2000;Total;1,18
+Tajikistan;01/01/2014;Total;-0,69
+Canada;01/01/2007;Total;1,01
+Poland;01/01/2012;Total;1,05
+Estonia;01/01/2010;Total;0,66
+Bolivia;01/01/2005;Total;-0,97
+Uganda;01/01/2000;Total;-1,25
+Romania;01/01/2017;Total;0,06
+Yemen;01/01/2008;Total;-2,01
+Republic of Korea;01/01/2005;Total;0,48
+Estonia;01/01/2003;Total;0,9
+Tunisia;01/01/2016;Total;-1,14
+Russian Federation;01/01/2011;Total;-1
+Kenya;01/01/2017;Total;-1,13
+Kuwait;01/01/2008;Total;0,5
+Philippines;01/01/2017;Total;-1,18
+Antigua and Barbuda;01/01/2014;Total;0,98
+United Republic of Tanzania;01/01/2017;Total;-0,56
+Nauru;01/01/2007;Total;1,08
+Iceland;01/01/2002;Total;1,62
+Maldives;01/01/2015;Total;0,42
+Israel;01/01/2017;Total;-0,89
+Uruguay;01/01/2003;Total;0,71
+Republic of Korea;01/01/2017;Total;0,32
+El Salvador;01/01/2018;Total;-0,33
+Mauritius;01/01/2007;Total;0,88
+Tajikistan;01/01/2010;Total;-1,03
+Bahrain;01/01/2000;Total;0,06
+Afghanistan;01/01/2014;Total;-2,41
+Liberia;01/01/2009;Total;-1,05
+Guinea;01/01/2012;Total;-1,29
+Burundi;01/01/2012;Total;-1,7
+Congo;01/01/2007;Total;-0,77
+Tajikistan;01/01/2008;Total;-0,83
+Benin;01/01/2003;Total;0,68
+Yemen;01/01/2005;Total;-1,44
+United States of America;01/01/2009;Total;0,45
+Iran;01/01/2002;Total;-0,77
+Turkmenistan;01/01/2000;Total;0,01
+Cambodia;01/01/2005;Total;-0,4
+Bahamas;01/01/2017;Total;0,99
+Kenya;01/01/2010;Total;-1,17
+Grenada;01/01/2009;Total;0,39
+Puerto Rico;01/01/2008;Total;0,27
+Burkina Faso;01/01/2003;Total;0,07
+Philippines;01/01/2008;Total;-1,78
+Jordan;01/01/2015;Total;-0,61
+United Arab Emirates;01/01/2017;Total;0,62
+Belize;01/01/2012;Total;0,18
+Guinea;01/01/2018;Total;-0,88
+Jamaica;01/01/2018;Total;0,49
+Hungary;01/01/2013;Total;0,8
+Japan;01/01/2012;Total;0,95
+Viet Nam;01/01/2004;Total;0,15
+Japan;01/01/2016;Total;0,98
+Israel;01/01/2013;Total;-1,1
+Namibia;01/01/2006;Total;0,78
+Mexico;01/01/2010;Total;-0,73
+Malawi;01/01/2014;Total;0,08
+Portugal;01/01/2007;Total;0,82
+Paraguay;01/01/2008;Total;-0,72
+Gambia;01/01/2014;Total;-0,15
+Senegal;01/01/2008;Total;-0,15
+Netherlands;01/01/2010;Total;0,94
+Panama;01/01/2016;Total;0,41
+Palau;01/01/2007;Total;1,08
+Turkmenistan;01/01/2017;Total;-0,13
+Ecuador;01/01/2006;Total;-0,85
+Brunei Darussalam;01/01/2016;Total;1,15
+Costa Rica;01/01/2014;Total;0,58
+Cameroon;01/01/2017;Total;-1,1
+Ukraine;01/01/2014;Total;-2,02
+Cambodia;01/01/2010;Total;-0,5
+Guinea;01/01/2009;Total;-2,12
+New Zealand;01/01/2014;Total;1,47
+Belgium;01/01/2013;Total;0,94
+Luxembourg;01/01/2015;Total;1,44
+Tonga;01/01/2008;Total;0,28
+Hungary;01/01/2017;Total;0,81
+Kazakhstan;01/01/2011;Total;-0,34
+Marshall Islands;01/01/2014;Total;0,99
+Turkey;01/01/2011;Total;-0,96
+Sao Tome and Principe;01/01/2014;Total;0,18
+Guinea-Bissau;01/01/2014;Total;-0,71
+Paraguay;01/01/2010;Total;-0,83
+Denmark;01/01/2014;Total;0,95
+Syrian Arab Republic;01/01/2008;Total;-0,34
+Burundi;01/01/2006;Total;-1,43
+Honduras;01/01/2014;Total;-0,53
+South Africa;01/01/2006;Total;0,05
+Sierra Leone;01/01/2018;Total;-0,03
+Lesotho;01/01/2009;Total;0,33
+Seychelles;01/01/2000;Total;1,28
+Albania;01/01/2002;Total;-0,29
+Saudi Arabia;01/01/2005;Total;-0,24
+Norway;01/01/2010;Total;1,33
+Tonga;01/01/2006;Total;0,47
+United States of America;01/01/2003;Total;0,08
+Albania;01/01/2014;Total;0,49
+Bahrain;01/01/2017;Total;-0,96
+Vanuatu;01/01/2004;Total;0,62
+Romania;01/01/2012;Total;0,08
+Estonia;01/01/2016;Total;0,67
+Seychelles;01/01/2007;Total;0,79
+Hungary;01/01/2007;Total;0,75
+Timor-Leste;01/01/2014;Total;-0,18
+Dominica;01/01/2010;Total;0,9
+Bermuda;01/01/2008;Total;0,8
+Lebanon;01/01/2006;Total;-1,81
+Norway;01/01/2003;Total;1,21
+Maldives;01/01/2006;Total;0,76
+Federated States of Micronesia;01/01/2018;Total;1,34
+India;01/01/2009;Total;-1,35
+Guinea-Bissau;01/01/2017;Total;-0,5
+Lebanon;01/01/2004;Total;-0,71
+Costa Rica;01/01/2018;Total;0,49
+Cambodia;01/01/2009;Total;-0,56
+Turkmenistan;01/01/2013;Total;0,25
+Myanmar;01/01/2017;Total;-1,08
+Greece;01/01/2006;Total;0,63
+France;01/01/2002;Total;0,93
+Seychelles;01/01/2005;Total;0,93
+Austria;01/01/2004;Total;1,09
+Austria;01/01/2007;Total;1,28
+Bulgaria;01/01/2007;Total;0,36
+Croatia;01/01/2014;Total;0,62
+Honduras;01/01/2008;Total;-0,53
+Congo;01/01/2006;Total;-0,92
+Colombia;01/01/2004;Total;-2,27
+Namibia;01/01/2018;Total;0,65
+Palau;01/01/2016;Total;0,95
+Austria;01/01/2013;Total;1,36
+Marshall Islands;01/01/2018;Total;0,86
+Viet Nam;01/01/2007;Total;0,25
+Republic of Moldova;01/01/2003;Total;-0,13
+Cyprus;01/01/2017;Total;0,54
+Timor-Leste;01/01/2011;Total;-0,46
+Guyana;01/01/2018;Total;-0,18
+Belarus;01/01/2004;Total;0,16
+American Samoa;01/01/2017;Total;1,22
+Oman;01/01/2013;Total;0,46
+Burundi;01/01/2004;Total;-2,52
+Benin;01/01/2012;Total;0,36
+Mauritania;01/01/2017;Total;-0,63
+Yemen;01/01/2002;Total;-1,31
+Morocco;01/01/2002;Total;-0,26
+Norway;01/01/2009;Total;1,28
+Philippines;01/01/2005;Total;-1,18
+Eritrea;01/01/2012;Total;-0,7
+Chile;01/01/2016;Total;0,41
+South Africa;01/01/2011;Total;0,02
+Tunisia;01/01/2005;Total;0,02
+Senegal;01/01/2002;Total;-0,27
+Sao Tome and Principe;01/01/2018;Total;0,53
+Malta;01/01/2017;Total;1,25
+Argentina;01/01/2008;Total;-0,09
+Belgium;01/01/2002;Total;1,26
+Gambia;01/01/2002;Total;0,83
+Saint Vincent and the Grenadines;01/01/2013;Total;0,85
+Yemen;01/01/2007;Total;-1,59
+Ireland;01/01/2003;Total;1,35
+Switzerland;01/01/2018;Total;1,34
+Togo;01/01/2017;Total;-0,88
+Tajikistan;01/01/2009;Total;-1,03
+Eritrea;01/01/2015;Total;-0,88
+Tajikistan;01/01/2018;Total;-0,72
+Guinea;01/01/2010;Total;-1,69
+Bangladesh;01/01/2006;Total;-1,51
+Dominican Republic;01/01/2010;Total;-0,04
+Bosnia and Herzegovina;01/01/2004;Total;0,02
+Denmark;01/01/2006;Total;1,05
+Cook Islands;01/01/2009;Total;1,14
+Saint Vincent and the Grenadines;01/01/2015;Total;1
+Comoros;01/01/2014;Total;-0,19
+Brunei Darussalam;01/01/2005;Total;1,21
+Peru;01/01/2014;Total;-0,55
+North Macedonia;01/01/2013;Total;-0,42
+Suriname;01/01/2018;Total;0,08
+Germany;01/01/2018;Total;0,6
+Bosnia and Herzegovina;01/01/2002;Total;-0,16
+Samoa;01/01/2017;Total;1,18
+North Macedonia;01/01/2016;Total;-0,35
+Belarus;01/01/2016;Total;0,14
+Colombia;01/01/2017;Total;-0,77
+Kyrgyzstan;01/01/2017;Total;-0,43
+United Republic of Tanzania;01/01/2005;Total;-0,58
+Netherlands;01/01/2000;Total;1,76
+Montenegro;01/01/2006;Total;0,04
+Nigeria;01/01/2014;Total;-2,13
+Luxembourg;01/01/2013;Total;1,34
+Burkina Faso;01/01/2017;Total;-0,93
+Honduras;01/01/2012;Total;-0,35
+Panama;01/01/2005;Total;-0,16
+Comoros;01/01/2012;Total;-0,45
+Zimbabwe;01/01/2013;Total;-0,67
+Israel;01/01/2000;Total;-1,04
+Zimbabwe;01/01/2016;Total;-0,62
+France;01/01/2010;Total;0,68
+Saint Kitts and Nevis;01/01/2008;Total;0,92
+North Korea;01/01/2003;Total;0,22
+Palau;01/01/2017;Total;0,87
+Germany;01/01/2006;Total;1,03
+Qatar;01/01/2016;Total;0,9
+Indonesia;01/01/2007;Total;-1,2
+Serbia;01/01/2018;Total;0,08
+Panama;01/01/2006;Total;-0,07
+American Samoa;01/01/2016;Total;1,19
+Democratic Republic of the Congo;01/01/2011;Total;-2,21
+Saint Kitts and Nevis;01/01/2012;Total;0,98
+Cambodia;01/01/2011;Total;-0,3
+Azerbaijan;01/01/2002;Total;-1,19
+Panama;01/01/2014;Total;0,21
+Germany;01/01/2003;Total;0,58
+Armenia;01/01/2007;Total;0,15
+Algeria;01/01/2016;Total;-1,1
+Mexico;01/01/2009;Total;-0,69
+Kuwait;01/01/2011;Total;0,31
+Solomon Islands;01/01/2010;Total;0,34
+United Arab Emirates;01/01/2018;Total;0,74
+Ukraine;01/01/2016;Total;-1,86
+Thailand;01/01/2016;Total;-0,99
+Côte-d'Ivoire;01/01/2002;Total;-1,92
+Togo;01/01/2010;Total;-0,18
+Thailand;01/01/2017;Total;-0,75
+Mozambique;01/01/2005;Total;0,12
+North Macedonia;01/01/2010;Total;-0,52
+Belarus;01/01/2011;Total;-0,09
+Jamaica;01/01/2017;Total;0,31
+Sweden;01/01/2008;Total;1,13
+Oman;01/01/2011;Total;0,43
+Nicaragua;01/01/2017;Total;-0,05
+Georgia;01/01/2004;Total;-0,87
+Seychelles;01/01/2017;Total;0,79
+Republic of Moldova;01/01/2002;Total;-0,16
+Portugal;01/01/2000;Total;1,4
+Australia;01/01/2004;Total;0,94
+Greece;01/01/2002;Total;0,88
+Viet Nam;01/01/2009;Total;0,27
+New Zealand;01/01/2004;Total;1,5
+Russian Federation;01/01/2000;Total;-1,4
+Malawi;01/01/2018;Total;-0,33
+Albania;01/01/2007;Total;-0,2
+Indonesia;01/01/2014;Total;-0,42
+Cabo Verde;01/01/2003;Total;0,92
+Argentina;01/01/2016;Total;0,2
+Malaysia;01/01/2009;Total;-0,04
+United Kingdom of Great Britain and Northern Ireland;01/01/2008;Total;0,49
+Saudi Arabia;01/01/2003;Total;0,14
+Ukraine;01/01/2000;Total;-0,41
+Comoros;01/01/2017;Total;0,04
+Lithuania;01/01/2007;Total;0,82
+South Africa;01/01/2016;Total;-0,14
+Turkmenistan;01/01/2004;Total;-0,12
+Morocco;01/01/2006;Total;-0,46
+Uganda;01/01/2014;Total;-0,94
+Peru;01/01/2017;Total;-0,26
+Andorra;01/01/2016;Total;1,41
+Ireland;01/01/2010;Total;1,02
+Dominica;01/01/2016;Total;1
+Guyana;01/01/2009;Total;-0,63
+Nicaragua;01/01/2007;Total;-0,12
+Myanmar;01/01/2010;Total;-1,29
+Central African Republic;01/01/2017;Total;-2,01
+Serbia;01/01/2008;Total;-0,54
+Luxembourg;01/01/2016;Total;1,42
+Nauru;01/01/2015;Total;0,54
+Dominica;01/01/2014;Total;1,06
+Switzerland;01/01/2017;Total;1,26
+New Zealand;01/01/2006;Total;1,26
+Sao Tome and Principe;01/01/2012;Total;0,01
+Poland;01/01/2015;Total;0,87
+Eritrea;01/01/2016;Total;-0,66
+Thailand;01/01/2018;Total;-0,73
+Kazakhstan;01/01/2004;Total;0,07
+Somalia;01/01/2006;Total;-2,75
+Argentina;01/01/2007;Total;0,1
+Antigua and Barbuda;01/01/2000;Total;0,71
+Estonia;01/01/2017;Total;0,65
+China;01/01/2005;Total;0,7
+Iceland;01/01/2011;Total;1,24
+Togo;01/01/2005;Total;-1,45
+Vanuatu;01/01/2000;Total;1,22
+Bermuda;01/01/2012;Total;0,98
+Indonesia;01/01/2016;Total;-0,37
+Turkmenistan;01/01/2003;Total;0,05
+Haiti;01/01/2002;Total;-1,26
+American Samoa;01/01/2009;Total;0,95
+Italy;01/01/2018;Total;0,31
+Madagascar;01/01/2015;Total;-0,43
+Mauritania;01/01/2004;Total;-0,17
+Philippines;01/01/2012;Total;-1,19
+Chile;01/01/2017;Total;0,42
+Tajikistan;01/01/2015;Total;-0,88
+Grenada;01/01/2004;Total;0,88
+Sweden;01/01/2005;Total;1,3
+Portugal;01/01/2012;Total;0,78
+Ghana;01/01/2011;Total;0,17
+Iraq;01/01/2002;Total;-1,61
+Cyprus;01/01/2013;Total;0,56
+Comoros;01/01/2004;Total;-0,16
+Cyprus;01/01/2003;Total;0,53
+Honduras;01/01/2013;Total;-0,44
+Nicaragua;01/01/2002;Total;-0,09
+Niue;01/01/2010;Total;1,32
+Colombia;01/01/2000;Total;-1,6
+Botswana;01/01/2013;Total;1,1
+Malaysia;01/01/2007;Total;0,19
+Nicaragua;01/01/2015;Total;-0,09
+Sao Tome and Principe;01/01/2009;Total;0,15
+Nepal;01/01/2006;Total;-1,89
+Turkey;01/01/2009;Total;-1,03
+Philippines;01/01/2002;Total;-0,86
+Kiribati;01/01/2017;Total;0,88
+Malta;01/01/2005;Total;1,38
+Solomon Islands;01/01/2015;Total;0,66
+Indonesia;01/01/2009;Total;-0,75
+Sri Lanka;01/01/2018;Total;-0,18
+Trinidad and Tobago;01/01/2017;Total;0,28
+Latvia;01/01/2003;Total;1
+Ecuador;01/01/2004;Total;-0,84
+Sudan;01/01/2014;Total;-2,36
+Iceland;01/01/2009;Total;1,19
+Namibia;01/01/2017;Total;0,63
+Republic of Korea;01/01/2011;Total;0,41
+Pakistan;01/01/2004;Total;-1,58
+Guatemala;01/01/2004;Total;-0,81
+Botswana;01/01/2009;Total;0,95
+Sri Lanka;01/01/2008;Total;-1,8
+Singapore;01/01/2011;Total;1,19
+Sweden;01/01/2002;Total;1,48
+Indonesia;01/01/2006;Total;-1,42
+North Macedonia;01/01/2017;Total;-0,25
+Mauritania;01/01/2006;Total;0,24
+Slovakia;01/01/2009;Total;0,92
+Canada;01/01/2016;Total;1,26
+Ghana;01/01/2007;Total;-0,07
+Malta;01/01/2006;Total;1,23
+Brunei Darussalam;01/01/2007;Total;1,11
+Zimbabwe;01/01/2012;Total;-0,78
+Suriname;01/01/2017;Total;0,13
+Colombia;01/01/2005;Total;-2,06
+Nepal;01/01/2015;Total;-1
+Solomon Islands;01/01/2014;Total;0,47
+Belgium;01/01/2017;Total;0,43
+Nepal;01/01/2016;Total;-0,85
+Belgium;01/01/2015;Total;0,59
+Iceland;01/01/2003;Total;1,52
+Gambia;01/01/2010;Total;0,07
+Belize;01/01/2014;Total;0,05
+Azerbaijan;01/01/2005;Total;-1,13
+Jamaica;01/01/2003;Total;-0,38
+Togo;01/01/2016;Total;-0,17
+Saint Lucia;01/01/2012;Total;0,89
+Uzbekistan;01/01/2006;Total;-1,78
+Afghanistan;01/01/2012;Total;-2,42
+Belize;01/01/2010;Total;0,07
+Bhutan;01/01/2007;Total;0,57
+Palestine;01/01/2009;Total;-2,04
+Venezuela;01/01/2003;Total;-1,29
+Tuvalu;01/01/2017;Total;1,24
+Palau;01/01/2010;Total;1,45
+Netherlands;01/01/2012;Total;1,19
+El Salvador;01/01/2006;Total;-0,17
+South Sudan;01/01/2011;Total;-1,43
+Bhutan;01/01/2009;Total;0,8
+Indonesia;01/01/2013;Total;-0,52
+Latvia;01/01/2002;Total;0,94
+Cameroon;01/01/2007;Total;-0,33
+Azerbaijan;01/01/2012;Total;-0,72
+North Macedonia;01/01/2006;Total;-0,74
+Libya;01/01/2010;Total;0,03
+Iraq;01/01/2009;Total;-2,18
+Jordan;01/01/2004;Total;-0,23
+Tuvalu;01/01/2008;Total;1,34
+Italy;01/01/2005;Total;0,49
+Madagascar;01/01/2003;Total;0,62
+Zambia;01/01/2017;Total;0,15
+Bahrain;01/01/2014;Total;-0,91
+Zimbabwe;01/01/2018;Total;-0,71
+Angola;01/01/2007;Total;-0,67
+Georgia;01/01/2006;Total;-0,96
+Saint Vincent and the Grenadines;01/01/2005;Total;1,15
+Bermuda;01/01/2006;Total;0,78
+Brazil;01/01/2009;Total;0,17
+Haiti;01/01/2006;Total;-1,39
+Panama;01/01/2003;Total;0,07
+Palestine;01/01/2015;Total;-2,16
+Central African Republic;01/01/2005;Total;-1,43
+Denmark;01/01/2018;Total;0,96
+Lao People's Democratic Republic;01/01/2013;Total;0,07
+Bhutan;01/01/2013;Total;0,78
+Sweden;01/01/2017;Total;0,98
+Saint Lucia;01/01/2003;Total;1,17
+Lao People's Democratic Republic;01/01/2004;Total;-0,61
+Tunisia;01/01/2013;Total;-0,9
+Netherlands;01/01/2009;Total;0,94
+India;01/01/2008;Total;-1,11
+Lao People's Democratic Republic;01/01/2015;Total;0,54
+Namibia;01/01/2008;Total;1,2
+Montenegro;01/01/2011;Total;0,57
+Bosnia and Herzegovina;01/01/2012;Total;-0,54
+Kenya;01/01/2008;Total;-1,39
+Venezuela;01/01/2010;Total;-1,26
+Botswana;01/01/2006;Total;1,02
+Denmark;01/01/2004;Total;1,09
+Eritrea;01/01/2018;Total;-0,61
+North Macedonia;01/01/2008;Total;-0,3
+Norway;01/01/2007;Total;1,15
+Cuba;01/01/2000;Total;0,25
+Chad;01/01/2017;Total;-1,29
+Finland;01/01/2018;Total;0,92
+Austria;01/01/2008;Total;1,34
+South Africa;01/01/2003;Total;-0,31
+Bulgaria;01/01/2004;Total;0
+Haiti;01/01/2015;Total;-0,67
+United Republic of Tanzania;01/01/2002;Total;-0,25
+Latvia;01/01/2018;Total;0,42
+Kuwait;01/01/2012;Total;0,2
+Democratic Republic of the Congo;01/01/2018;Total;-2,12
+Iran;01/01/2017;Total;-0,93
+Slovakia;01/01/2016;Total;0,72
+Finland;01/01/2006;Total;1,5
+Maldives;01/01/2010;Total;-0,17
+Guinea-Bissau;01/01/2016;Total;-0,44
+Sri Lanka;01/01/2005;Total;-1,15
+Sweden;01/01/2000;Total;1,39
+Argentina;01/01/2009;Total;-0,23
+South Africa;01/01/2018;Total;-0,28
+Saint Lucia;01/01/2017;Total;0,99
+Qatar;01/01/2014;Total;0,98
+Mauritania;01/01/2007;Total;-0,28
+Grenada;01/01/2017;Total;1,01
+Finland;01/01/2003;Total;1,69
+Burkina Faso;01/01/2006;Total;0,16
+Sri Lanka;01/01/2010;Total;-0,94
+India;01/01/2016;Total;-0,95
+Rwanda;01/01/2005;Total;-1
+Thailand;01/01/2000;Total;0,46
+Maldives;01/01/2013;Total;0,13
+Antigua and Barbuda;01/01/2008;Total;0,81
+Barbados;01/01/2010;Total;1,06
+Singapore;01/01/2009;Total;1,18
+Belarus;01/01/2010;Total;-0,09
+Federated States of Micronesia;01/01/2014;Total;0,98
+South Africa;01/01/2002;Total;-0,25
+Cook Islands;01/01/2010;Total;1,32
+Maldives;01/01/2007;Total;0,08
+Japan;01/01/2018;Total;1,06
+Equatorial Guinea;01/01/2006;Total;0,17
+Bangladesh;01/01/2012;Total;-1,38
+Suriname;01/01/2008;Total;0,1
+Eswatini;01/01/2011;Total;-0,48
+Angola;01/01/2013;Total;-0,39
+Argentina;01/01/2015;Total;0,01
+Slovakia;01/01/2012;Total;1,09
+Gabon;01/01/2005;Total;0,33
+Burundi;01/01/2008;Total;-1,64
+Gambia;01/01/2003;Total;0,32
+Norway;01/01/2011;Total;1,34
+Palestine;01/01/2013;Total;-1,78
+Eswatini;01/01/2016;Total;-0,49
+Jordan;01/01/2002;Total;-0,46
+Uganda;01/01/2017;Total;-0,57
+Costa Rica;01/01/2016;Total;0,66
+Azerbaijan;01/01/2010;Total;-0,24
+Denmark;01/01/2017;Total;0,87
+Mozambique;01/01/2003;Total;0,25
+Jamaica;01/01/2009;Total;-0,36
+Cambodia;01/01/2014;Total;0,02
+Palestine;01/01/2017;Total;-1,66
+Congo;01/01/2003;Total;-1,17
+Cameroon;01/01/2016;Total;-1,06
+Turkey;01/01/2018;Total;-1,33
+Jordan;01/01/2007;Total;-0,3
+Pakistan;01/01/2012;Total;-2,68
+Belize;01/01/2008;Total;0,19
+Belarus;01/01/2002;Total;0,3
+Nicaragua;01/01/2009;Total;-0,31
+Solomon Islands;01/01/2013;Total;0,3
+Portugal;01/01/2013;Total;0,75
+Honduras;01/01/2011;Total;-0,39
+Syrian Arab Republic;01/01/2017;Total;-2,62
+Georgia;01/01/2014;Total;-0,32
+Ghana;01/01/2006;Total;0,01
+North Korea;01/01/2013;Total;-0,44
+Jamaica;01/01/2012;Total;0,12
+Hungary;01/01/2015;Total;0,75
+Panama;01/01/2012;Total;-0,18
+Zambia;01/01/2012;Total;0,66
+Myanmar;01/01/2003;Total;-1,15
+Libya;01/01/2000;Total;-0,3
+Myanmar;01/01/2015;Total;-1,17
+Belarus;01/01/2015;Total;0,11
+United Republic of Tanzania;01/01/2014;Total;-0,6
+Ethiopia;01/01/2009;Total;-1,64
+Oman;01/01/2009;Total;0,83
+Albania;01/01/2009;Total;-0,05
+Mongolia;01/01/2016;Total;0,8
+Ukraine;01/01/2009;Total;-0,3
+Djibouti;01/01/2010;Total;0,25
+Mongolia;01/01/2010;Total;0,6
+Bahrain;01/01/2012;Total;-1,13
+Finland;01/01/2004;Total;1,62
+Sao Tome and Principe;01/01/2011;Total;0,01
+Guinea;01/01/2000;Total;-1,91
+Canada;01/01/2002;Total;1,22
+Eritrea;01/01/2009;Total;-0,68
+Bosnia and Herzegovina;01/01/2017;Total;-0,35
+Philippines;01/01/2013;Total;-1,08
+Saudi Arabia;01/01/2016;Total;-0,46
+Saint Lucia;01/01/2014;Total;0,82
+Madagascar;01/01/2014;Total;-0,56
+Chile;01/01/2015;Total;0,43
+Namibia;01/01/2010;Total;0,85
+Mauritania;01/01/2005;Total;-0,23
+Slovakia;01/01/2013;Total;1,12
+Peru;01/01/2016;Total;-0,2
+Congo;01/01/2017;Total;-0,53
+Switzerland;01/01/2010;Total;1,26
+Ecuador;01/01/2011;Total;-0,69
+Iceland;01/01/2005;Total;1,44
+Congo;01/01/2005;Total;-1,17
+Iceland;01/01/2008;Total;1,22
+Azerbaijan;01/01/2006;Total;-1,09
+Mexico;01/01/2015;Total;-0,8
+Ghana;01/01/2002;Total;-0,16
+Mauritania;01/01/2015;Total;-0,64
+Tonga;01/01/2004;Total;0,82
+Namibia;01/01/2016;Total;0,71
+Comoros;01/01/2002;Total;0,4
+Kuwait;01/01/2005;Total;0,25
+Andorra;01/01/2014;Total;1,29
+Uzbekistan;01/01/2015;Total;-0,37
+Uzbekistan;01/01/2008;Total;-1,21
+Japan;01/01/2010;Total;0,88
+Mongolia;01/01/2018;Total;0,79
+Comoros;01/01/2003;Total;-0,67
+Gambia;01/01/2005;Total;0,2
+Grenada;01/01/2007;Total;0,38
+Lebanon;01/01/2005;Total;-1
+North Macedonia;01/01/2003;Total;-0,99
+Argentina;01/01/2017;Total;0,17
+Kyrgyzstan;01/01/2012;Total;-0,91
+Switzerland;01/01/2011;Total;1,3
+Fiji;01/01/2011;Total;-0,07
+Papua New Guinea;01/01/2012;Total;-0,59
+Croatia;01/01/2017;Total;0,69
+Poland;01/01/2010;Total;1,02
+Greece;01/01/2015;Total;-0,23
+Canada;01/01/2006;Total;1,04
+Estonia;01/01/2014;Total;0,78
+Chile;01/01/2010;Total;0,68
+Argentina;01/01/2006;Total;0
+Croatia;01/01/2010;Total;0,61
+Kenya;01/01/2012;Total;-1,32
+Samoa;01/01/2012;Total;1
+Ecuador;01/01/2005;Total;-0,79
+Ghana;01/01/2016;Total;-0,13
+Mexico;01/01/2018;Total;-0,57
+Bangladesh;01/01/2016;Total;-1,26
+Turkmenistan;01/01/2002;Total;0,07
+Norway;01/01/2000;Total;1,53
+Samoa;01/01/2018;Total;1,19
+Mexico;01/01/2000;Total;-0,2
+Puerto Rico;01/01/2012;Total;0,58
+Gabon;01/01/2002;Total;0,41
+Congo;01/01/2011;Total;-0,35
+Japan;01/01/2014;Total;0,97
+Luxembourg;01/01/2018;Total;1,37
+France;01/01/2007;Total;0,56
+Germany;01/01/2016;Total;0,68
+Timor-Leste;01/01/2007;Total;-1,1
+Canada;01/01/2005;Total;0,83
+Bermuda;01/01/2005;Total;0,82
+Niger;01/01/2008;Total;-0,67
+Guyana;01/01/2010;Total;-0,46
+Angola;01/01/2010;Total;-0,23
+Latvia;01/01/2016;Total;0,48
+Sao Tome and Principe;01/01/2002;Total;0,55
+Oman;01/01/2007;Total;0,94
+Solomon Islands;01/01/2000;Total;-0,74
+Fiji;01/01/2016;Total;0,92
+India;01/01/2013;Total;-1,23
+Lebanon;01/01/2009;Total;-1,56
+Greenland;01/01/2016;Total;1,97
+Bahamas;01/01/2007;Total;0,73
+Guatemala;01/01/2009;Total;-0,93
+Cabo Verde;01/01/2016;Total;0,89
+Brunei Darussalam;01/01/2004;Total;1,37
+Viet Nam;01/01/2015;Total;0,07
+Nepal;01/01/2011;Total;-1,42
+Ethiopia;01/01/2012;Total;-1,56
+Guinea-Bissau;01/01/2002;Total;-0,73
+Sri Lanka;01/01/2009;Total;-1,34
+Republic of Moldova;01/01/2000;Total;-0,43
+Mozambique;01/01/2009;Total;0,63
+Antigua and Barbuda;01/01/2017;Total;0,75
+Saint Lucia;01/01/2016;Total;1,02
+Italy;01/01/2002;Total;0,84
+United States of America;01/01/2015;Total;0,68
+Vanuatu;01/01/2012;Total;1,2
+Fiji;01/01/2003;Total;0,45
+Netherlands;01/01/2018;Total;0,87
+Honduras;01/01/2010;Total;-0,5
+New Zealand;01/01/2017;Total;1,59
+South Sudan;01/01/2016;Total;-2,42
+Antigua and Barbuda;01/01/2007;Total;0,8
+Benin;01/01/2008;Total;0,37
+Slovenia;01/01/2012;Total;0,94
+Congo;01/01/2009;Total;-0,25
+Japan;01/01/2009;Total;0,98
+Saudi Arabia;01/01/2006;Total;-0,52
+Samoa;01/01/2014;Total;1,12
+Albania;01/01/2018;Total;0,38
+Tonga;01/01/2012;Total;0,89
+Armenia;01/01/2008;Total;-0,01
+Burkina Faso;01/01/2007;Total;0,31
+Lithuania;01/01/2006;Total;0,87
+Uganda;01/01/2008;Total;-0,88
+Slovenia;01/01/2013;Total;0,88
+Germany;01/01/2014;Total;0,93
+Chad;01/01/2002;Total;-1,56
+Eritrea;01/01/2017;Total;-0,73
+Singapore;01/01/2002;Total;1,26
+Myanmar;01/01/2009;Total;-1,29
+Tuvalu;01/01/2014;Total;1,3
+Cuba;01/01/2016;Total;0,69
+Afghanistan;01/01/2008;Total;-2,69
+Djibouti;01/01/2003;Total;-0,91
+Jamaica;01/01/2011;Total;-0,06
+South Sudan;01/01/2018;Total;-2,44
+Japan;01/01/2002;Total;1,18
+Sudan;01/01/2000;Total;-2,24
+Poland;01/01/2006;Total;0,35
+Denmark;01/01/2008;Total;1,07
+Algeria;01/01/2002;Total;-1,63
+Russian Federation;01/01/2008;Total;-0,75
+Venezuela;01/01/2013;Total;-1,08
+Poland;01/01/2016;Total;0,51
+Armenia;01/01/2015;Total;-0,25
+Sao Tome and Principe;01/01/2008;Total;0,18
+Mauritania;01/01/2011;Total;-1,17
+Italy;01/01/2014;Total;0,46
+Marshall Islands;01/01/2017;Total;0,87
+Bahrain;01/01/2006;Total;-0,37
+Mali;01/01/2006;Total;0,41
+Croatia;01/01/2007;Total;0,6
+United Republic of Tanzania;01/01/2008;Total;-0,23
+Suriname;01/01/2013;Total;0,13
+Bermuda;01/01/2014;Total;0,91
+Spain;01/01/2005;Total;0,2
+Eswatini;01/01/2008;Total;-0,08
+Somalia;01/01/2004;Total;-2,88
+Estonia;01/01/2007;Total;0,63
+Australia;01/01/2005;Total;0,89
+Malawi;01/01/2013;Total;-0,21
+Qatar;01/01/2017;Total;0,66
+El Salvador;01/01/2014;Total;-0,02
+Benin;01/01/2013;Total;0,3
+Lao People's Democratic Republic;01/01/2012;Total;0,03
+Guyana;01/01/2003;Total;-0,44
+Guinea-Bissau;01/01/2008;Total;-0,71
+Lithuania;01/01/2013;Total;0,96
+Turkey;01/01/2013;Total;-1,25
+Guyana;01/01/2014;Total;-0,14
+Brunei Darussalam;01/01/2003;Total;1,15
+Singapore;01/01/2014;Total;1,19
+Djibouti;01/01/2012;Total;0,16
+Kiribati;01/01/2009;Total;1,4
+Iceland;01/01/2000;Total;1,58
+Hungary;01/01/2016;Total;0,65
+Norway;01/01/2004;Total;1,2
+Grenada;01/01/2014;Total;0,77
+Azerbaijan;01/01/2000;Total;-0,83
+Thailand;01/01/2011;Total;-1,13
+Armenia;01/01/2000;Total;-0,68
+Republic of Moldova;01/01/2014;Total;-0,16
+Seychelles;01/01/2003;Total;0,65
+Kuwait;01/01/2013;Total;0,17
+Czechia;01/01/2004;Total;0,65
+Canada;01/01/2014;Total;1,18
+Cabo Verde;01/01/2002;Total;0,73
+Brazil;01/01/2005;Total;-0,26
+Qatar;01/01/2004;Total;1,12
+Benin;01/01/2005;Total;0,45
+American Samoa;01/01/2013;Total;0,93
+Burkina Faso;01/01/2011;Total;-0,56
+Palau;01/01/2012;Total;1,03
+Lithuania;01/01/2012;Total;0,79
+Botswana;01/01/2018;Total;0,98
+Benin;01/01/2018;Total;-0,13
+Antigua and Barbuda;01/01/2005;Total;0,83
+Sudan;01/01/2016;Total;-2,34
+Israel;01/01/2009;Total;-1,63
+Burkina Faso;01/01/2018;Total;-1,04
+Bolivia;01/01/2015;Total;-0,27
+Tunisia;01/01/2011;Total;-0,35
+Somalia;01/01/2014;Total;-2,52
+Belarus;01/01/2018;Total;0,35
+Paraguay;01/01/2017;Total;0
+Madagascar;01/01/2013;Total;-0,66
+Togo;01/01/2011;Total;-0,16
+Liberia;01/01/2011;Total;-0,43
+Serbia;01/01/2002;Total;-0,51
+China;01/01/2017;Total;0,7225
+Qatar;01/01/2003;Total;1,19
+Federated States of Micronesia;01/01/2013;Total;1,1
+Nicaragua;01/01/2006;Total;-0,27
+Puerto Rico;01/01/2005;Total;0,45
+Armenia;01/01/2018;Total;-0,42
+Somalia;01/01/2013;Total;-2,76
+China;01/01/2018;Total;0,66
+Vanuatu;01/01/2003;Total;0,76
+Serbia;01/01/2014;Total;0,18
+North Korea;01/01/2015;Total;-1,15
+Thailand;01/01/2008;Total;-1,27
+Papua New Guinea;01/01/2000;Total;-0,21
+Liberia;01/01/2014;Total;-0,62
+American Samoa;01/01/2014;Total;1,08
+Mongolia;01/01/2014;Total;0,79
+Saint Kitts and Nevis;01/01/2009;Total;1,09
+Ecuador;01/01/2016;Total;-0,09
+Brunei Darussalam;01/01/2000;Total;1,3
+Palau;01/01/2006;Total;1,04
+Myanmar;01/01/2005;Total;-0,9
+Slovenia;01/01/2003;Total;1,19
+Iceland;01/01/2006;Total;1,45
+Vanuatu;01/01/2016;Total;0,51
+Lesotho;01/01/2000;Total;0,1
+Saint Kitts and Nevis;01/01/2014;Total;0,57
+Serbia;01/01/2000;Total;-1,64
+Burkina Faso;01/01/2010;Total;-0,12
+Georgia;01/01/2000;Total;-0,81
+Republic of Korea;01/01/2008;Total;0,42
+Israel;01/01/2006;Total;-1,26
+United Republic of Tanzania;01/01/2003;Total;-0,85
+Nicaragua;01/01/2008;Total;-0,22
+Bulgaria;01/01/2015;Total;0,02
+Dominica;01/01/2008;Total;0,92
+United Republic of Tanzania;01/01/2016;Total;-0,44
+Grenada;01/01/2016;Total;1,02
+Turkmenistan;01/01/2011;Total;0,23
+China;01/01/2002;Total;0,4575
+Nicaragua;01/01/2005;Total;-0,34
+Honduras;01/01/2016;Total;-0,43
+Democratic Republic of the Congo;01/01/2000;Total;-2,48
+Burundi;01/01/2005;Total;-1,52
+Central African Republic;01/01/2014;Total;-2,7
+Guinea-Bissau;01/01/2005;Total;-0,56
+Nicaragua;01/01/2011;Total;-0,27
+Montenegro;01/01/2017;Total;-0,06
+Bermuda;01/01/2011;Total;0,96
+Malawi;01/01/2002;Total;0
+Tunisia;01/01/2002;Total;0,15
+Czechia;01/01/2006;Total;1,05
+Chad;01/01/2005;Total;-1,44
+United Arab Emirates;01/01/2007;Total;0,98
+Jordan;01/01/2000;Total;0
+Kazakhstan;01/01/2005;Total;0,19
+Mali;01/01/2003;Total;0,26
+Angola;01/01/2015;Total;-0,5
+France;01/01/2006;Total;0,6
+Senegal;01/01/2012;Total;-0,11
+Namibia;01/01/2012;Total;0,98
+Comoros;01/01/2018;Total;-0,2
+Venezuela;01/01/2014;Total;-0,85
+Timor-Leste;01/01/2012;Total;-0,28
+South Africa;01/01/2010;Total;-0,03
+Mongolia;01/01/2005;Total;0,88
+Greenland;01/01/2009;Total;1,52
+Luxembourg;01/01/2008;Total;1,51
+North Korea;01/01/2010;Total;-0,3
+Timor-Leste;01/01/2006;Total;-1,16
+Puerto Rico;01/01/2011;Total;0,6
+Puerto Rico;01/01/2016;Total;0,69
+United States of America;01/01/2007;Total;0,38
+El Salvador;01/01/2005;Total;-0,03
+Slovakia;01/01/2007;Total;1,04
+Bolivia;01/01/2009;Total;-0,51
+Ireland;01/01/2005;Total;1,3
+Montenegro;01/01/2013;Total;0,5
+China;01/01/2009;Total;0,425
+Romania;01/01/2015;Total;0,19
+Latvia;01/01/2012;Total;0,45
+Cameroon;01/01/2004;Total;-0,36
+Nepal;01/01/2013;Total;-1,13
+Russian Federation;01/01/2005;Total;-1,27
+Australia;01/01/2015;Total;0,88
+Jamaica;01/01/2013;Total;0,18
+Brunei Darussalam;01/01/2018;Total;1,2
+Zimbabwe;01/01/2008;Total;-1,21
+Georgia;01/01/2008;Total;-0,92
+Ethiopia;01/01/2010;Total;-1,64
+Egypt;01/01/2009;Total;-0,61
+Cabo Verde;01/01/2011;Total;0,72
+Niger;01/01/2007;Total;-0,46
+El Salvador;01/01/2016;Total;-0,1
+Cabo Verde;01/01/2000;Total;1,22
+Finland;01/01/2009;Total;1,46
+Chad;01/01/2011;Total;-1,32
+Czechia;01/01/2016;Total;0,98
+Finland;01/01/2016;Total;1
+Slovenia;01/01/2011;Total;0,97
+Australia;01/01/2000;Total;1,33
+Federated States of Micronesia;01/01/2010;Total;1,21
+Solomon Islands;01/01/2016;Total;0,51
+Madagascar;01/01/2011;Total;-0,71
+Thailand;01/01/2010;Total;-1,44
+Belarus;01/01/2014;Total;0,18
+Yemen;01/01/2014;Total;-2,67
+Sao Tome and Principe;01/01/2017;Total;0,19
+United Kingdom of Great Britain and Northern Ireland;01/01/2011;Total;0,35
+Andorra;01/01/2010;Total;1,28
+United States of America;01/01/2005;Total;-0,06
+El Salvador;01/01/2015;Total;-0,02
+Hungary;01/01/2011;Total;0,74
+Belize;01/01/2003;Total;0,49
+Slovakia;01/01/2005;Total;0,9
+Benin;01/01/2006;Total;0,55
+Syrian Arab Republic;01/01/2000;Total;-0,18
+Antigua and Barbuda;01/01/2016;Total;0,88
+Democratic Republic of the Congo;01/01/2010;Total;-2,2
+Sao Tome and Principe;01/01/2015;Total;0,14
+Ireland;01/01/2014;Total;1,05
+Romania;01/01/2011;Total;0,19
+Sierra Leone;01/01/2008;Total;-0,24
+Congo;01/01/2015;Total;-0,53
+Finland;01/01/2017;Total;1,08
+Kyrgyzstan;01/01/2013;Total;-0,91
+American Samoa;01/01/2012;Total;0,95
+Côte-d'Ivoire;01/01/2009;Total;-1,32
+Guinea-Bissau;01/01/2012;Total;-0,97
+Nauru;01/01/2009;Total;1,38
+Guatemala;01/01/2002;Total;-0,84
+Ecuador;01/01/2013;Total;-0,18
+United Kingdom of Great Britain and Northern Ireland;01/01/2016;Total;0,36
+Uzbekistan;01/01/2017;Total;-0,24
+South Africa;01/01/2005;Total;-0,16
+Liberia;01/01/2007;Total;-1,24
+Niger;01/01/2012;Total;-1,15
+Fiji;01/01/2004;Total;0,39
+Sweden;01/01/2013;Total;1,13
+Switzerland;01/01/2002;Total;1,54
+Kuwait;01/01/2018;Total;0,11
+Brazil;01/01/2006;Total;-0,29
+Republic of Moldova;01/01/2007;Total;-0,02
+South Sudan;01/01/2012;Total;-1,16
+Bangladesh;01/01/2018;Total;-1,03
+Sierra Leone;01/01/2010;Total;-0,24
+Norway;01/01/2016;Total;1,2
+New Zealand;01/01/2007;Total;1,24
+Sri Lanka;01/01/2012;Total;-0,72
+Mongolia;01/01/2000;Total;0,82
+Ghana;01/01/2012;Total;0,13
+Finland;01/01/2007;Total;1,49
+Antigua and Barbuda;01/01/2011;Total;0,96
+Lithuania;01/01/2002;Total;0,89
+Gambia;01/01/2007;Total;0,05
+Denmark;01/01/2016;Total;0,87
+Kiribati;01/01/2015;Total;0,84
+Bosnia and Herzegovina;01/01/2014;Total;-0,02
+Federated States of Micronesia;01/01/2009;Total;1,29
+Cyprus;01/01/2009;Total;0,39
+Cabo Verde;01/01/2018;Total;0,75
+Paraguay;01/01/2016;Total;0,14
+Sudan;01/01/2010;Total;-2,67
+Uzbekistan;01/01/2007;Total;-1,36
+El Salvador;01/01/2017;Total;-0,26
+Albania;01/01/2008;Total;-0,03
+Georgia;01/01/2018;Total;-0,43
+Slovenia;01/01/2016;Total;0,99
+Canada;01/01/2000;Total;1,17
+Spain;01/01/2006;Total;-0,15
+Comoros;01/01/2015;Total;-0,23
+Israel;01/01/2004;Total;-1,32
+Democratic Republic of the Congo;01/01/2004;Total;-2,39
+Afghanistan;01/01/2007;Total;-2,41
+Libya;01/01/2015;Total;-2,2
+Mongolia;01/01/2011;Total;0,61
+Malawi;01/01/2000;Total;-0,33
+Luxembourg;01/01/2010;Total;1,46
+Solomon Islands;01/01/2007;Total;0,23
+Saint Lucia;01/01/2002;Total;0,36
+Uganda;01/01/2009;Total;-0,99
+Morocco;01/01/2014;Total;-0,45
+Barbados;01/01/2014;Total;1,28
+United Kingdom of Great Britain and Northern Ireland;01/01/2018;Total;0,05
+Russian Federation;01/01/2010;Total;-0,93
+Saint Vincent and the Grenadines;01/01/2002;Total;0,36
+Republic of Korea;01/01/2010;Total;0,33
+Saint Lucia;01/01/2010;Total;0,79
+Suriname;01/01/2006;Total;-0,02
+Australia;01/01/2014;Total;1,03
+Philippines;01/01/2004;Total;-1,71
+Oman;01/01/2014;Total;0,73
+Tonga;01/01/2005;Total;0,68
+Turkey;01/01/2012;Total;-1,22
+Saint Vincent and the Grenadines;01/01/2004;Total;1,03
+Brazil;01/01/2003;Total;0,01
+Viet Nam;01/01/2014;Total;-0,02
+Greenland;01/01/2011;Total;1,94
+Viet Nam;01/01/2003;Total;0,13
+Nigeria;01/01/2002;Total;-1,63
+Romania;01/01/2002;Total;0,46
+Syrian Arab Republic;01/01/2012;Total;-2,68
+Chile;01/01/2005;Total;0,84
+Nepal;01/01/2002;Total;-1,72
+Bhutan;01/01/2004;Total;1,17
+Lesotho;01/01/2005;Total;0
+Fiji;01/01/2012;Total;-0,07
+Portugal;01/01/2011;Total;0,74
+Guyana;01/01/2005;Total;-0,46
+Papua New Guinea;01/01/2014;Total;-0,34
+Italy;01/01/2004;Total;0,27
+New Zealand;01/01/2012;Total;1,36
+Viet Nam;01/01/2006;Total;0,4
+Republic of Moldova;01/01/2013;Total;0
+Papua New Guinea;01/01/2005;Total;-0,93
+Ireland;01/01/2007;Total;1,21
+Liberia;01/01/2003;Total;-2,16
+Liberia;01/01/2015;Total;-0,82
+Bahamas;01/01/2002;Total;0,96
+Congo;01/01/2010;Total;-0,32
+Bahamas;01/01/2014;Total;0,96
+Slovakia;01/01/2002;Total;0,94
+Myanmar;01/01/2004;Total;-0,99
+Sri Lanka;01/01/2000;Total;-1,9
+Marshall Islands;01/01/2006;Total;1,04
+South Africa;01/01/2017;Total;-0,28
+Cuba;01/01/2002;Total;0,26
+Italy;01/01/2017;Total;0,31
+Sudan;01/01/2017;Total;-1,98
+Côte-d'Ivoire;01/01/2007;Total;-1,84
+Somalia;01/01/2017;Total;-2,26
+Philippines;01/01/2007;Total;-1,6
+Guatemala;01/01/2016;Total;-0,54
+Burkina Faso;01/01/2016;Total;-0,87
+China;01/01/2007;Total;0,4025
+Ecuador;01/01/2012;Total;-0,57
+Iceland;01/01/2016;Total;1,36
+Armenia;01/01/2012;Total;0,15
+Guinea;01/01/2016;Total;-0,39
+Kyrgyzstan;01/01/2009;Total;-0,62
+Guyana;01/01/2004;Total;-0,56
+Vanuatu;01/01/2018;Total;0,84
+Papua New Guinea;01/01/2003;Total;-0,56
+Libya;01/01/2018;Total;-2,44
+Cambodia;01/01/2018;Total;0,11
+United States of America;01/01/2002;Total;0,29
+Costa Rica;01/01/2011;Total;0,51
+New Zealand;01/01/2008;Total;1,16
+Mali;01/01/2012;Total;-2,03
+New Zealand;01/01/2011;Total;1,38
+France;01/01/2008;Total;0,55
+Sudan;01/01/2012;Total;-2,26
+Madagascar;01/01/2005;Total;-0,02
+Trinidad and Tobago;01/01/2005;Total;-0,12
+Bahrain;01/01/2011;Total;-0,95
+Serbia;01/01/2010;Total;-0,42
+Lithuania;01/01/2016;Total;0,83
+Seychelles;01/01/2004;Total;0,66
+Bosnia and Herzegovina;01/01/2000;Total;-0,53
+Puerto Rico;01/01/2017;Total;0,48
+Solomon Islands;01/01/2002;Total;-0,44
+Slovenia;01/01/2002;Total;1,3
+Albania;01/01/2006;Total;-0,51
+Trinidad and Tobago;01/01/2006;Total;-0,24
+Republic of Moldova;01/01/2006;Total;-0,37
+Chad;01/01/2003;Total;-1,37
+Luxembourg;01/01/2005;Total;1,33
+Bolivia;01/01/2012;Total;-0,46
+Palau;01/01/2018;Total;0,86
+Tunisia;01/01/2000;Total;0,32
+Trinidad and Tobago;01/01/2015;Total;0,29
+Ethiopia;01/01/2013;Total;-1,41
+Israel;01/01/2010;Total;-1,34
+Malta;01/01/2002;Total;1,6
+Jamaica;01/01/2002;Total;-0,21
+Slovenia;01/01/2005;Total;1,09
+Haiti;01/01/2010;Total;-0,94
+Cabo Verde;01/01/2012;Total;0,81
+Indonesia;01/01/2005;Total;-1,52
+Georgia;01/01/2003;Total;-1,3
+Lebanon;01/01/2000;Total;-0,44
+Indonesia;01/01/2015;Total;-0,62
+Brunei Darussalam;01/01/2014;Total;1,26
+Sri Lanka;01/01/2014;Total;-0,33
+Poland;01/01/2017;Total;0,52
+Tonga;01/01/2018;Total;0,88
+Malta;01/01/2015;Total;1,06
+Bahamas;01/01/2018;Total;0,87
+Nauru;01/01/2012;Total;1,03
+Papua New Guinea;01/01/2013;Total;-0,52
+Zimbabwe;01/01/2007;Total;-1,11
+Guinea-Bissau;01/01/2015;Total;-0,52
+Mozambique;01/01/2018;Total;-0,78
+Iran;01/01/2008;Total;-0,94
+Suriname;01/01/2016;Total;0,16
+Guinea;01/01/2006;Total;-1,91
+Grenada;01/01/2003;Total;0,89
+Turkmenistan;01/01/2009;Total;0,48
+Trinidad and Tobago;01/01/2009;Total;-0,14
+Belgium;01/01/2012;Total;0,92
+Greece;01/01/2007;Total;0,52
+Switzerland;01/01/2006;Total;1,27
+Palestine;01/01/2011;Total;-1,94
+Eswatini;01/01/2012;Total;-0,41
+Romania;01/01/2006;Total;0,15
+Djibouti;01/01/2006;Total;-0,26
+Comoros;01/01/2009;Total;-0,77
+Paraguay;01/01/2011;Total;-0,69
+Japan;01/01/2000;Total;1,2
+Paraguay;01/01/2009;Total;-0,88
+Portugal;01/01/2008;Total;0,99
+Spain;01/01/2009;Total;-0,47
+Guinea;01/01/2005;Total;-1,16
+Niger;01/01/2014;Total;-1,18
+Georgia;01/01/2013;Total;-0,44
+Armenia;01/01/2005;Total;-0,07
+Namibia;01/01/2015;Total;0,73
+Tuvalu;01/01/2016;Total;1,41
+Israel;01/01/2003;Total;-1,52
+Kenya;01/01/2004;Total;-1,09
+Mauritius;01/01/2013;Total;0,94
+El Salvador;01/01/2000;Total;0,33
+Mali;01/01/2005;Total;0,18
+Zambia;01/01/2003;Total;0,22
+Solomon Islands;01/01/2018;Total;0,3
+Slovakia;01/01/2017;Total;0,91
+Haiti;01/01/2013;Total;-0,63
+Bangladesh;01/01/2004;Total;-1,36
+Czechia;01/01/2012;Total;1,05
+Maldives;01/01/2011;Total;-0,24
+Suriname;01/01/2004;Total;0,3
+Iran;01/01/2010;Total;-1,63
+Equatorial Guinea;01/01/2011;Total;0,15
+Syrian Arab Republic;01/01/2004;Total;-0,29
+Guinea-Bissau;01/01/2013;Total;-0,9
+Cyprus;01/01/2016;Total;0,6
+Bhutan;01/01/2005;Total;1,28
+Democratic Republic of the Congo;01/01/2017;Total;-2,35
+Pakistan;01/01/2013;Total;-2,6
+Slovakia;01/01/2014;Total;1,04
+Japan;01/01/2011;Total;1
+Uruguay;01/01/2004;Total;0,59
+North Korea;01/01/2000;Total;-0,01
+Guatemala;01/01/2007;Total;-0,75
+Eritrea;01/01/2007;Total;-1,05
+Costa Rica;01/01/2010;Total;0,69
+Chile;01/01/2006;Total;0,61
+Zimbabwe;01/01/2003;Total;-1,09
+Suriname;01/01/2011;Total;0,12
+Armenia;01/01/2002;Total;-0,26
+Tuvalu;01/01/2011;Total;1,3
+Ecuador;01/01/2009;Total;-0,67
+Brunei Darussalam;01/01/2012;Total;0,91
+Belgium;01/01/2010;Total;0,81
+Cyprus;01/01/2008;Total;0,64
+Nepal;01/01/2003;Total;-1,89
+Liberia;01/01/2002;Total;-2,19
+Lithuania;01/01/2015;Total;0,76
+Saudi Arabia;01/01/2011;Total;-0,46
+Peru;01/01/2005;Total;-0,98
+Central African Republic;01/01/2006;Total;-1,85
+Georgia;01/01/2007;Total;-0,64
+Mauritania;01/01/2003;Total;0,06
+Uganda;01/01/2011;Total;-0,98
+Rwanda;01/01/2011;Total;-0,18
+Kiribati;01/01/2016;Total;0,87
+Argentina;01/01/2014;Total;-0,01
+Iraq;01/01/2014;Total;-2,48
+Mauritania;01/01/2016;Total;-0,75
+Estonia;01/01/2004;Total;0,7
+Ethiopia;01/01/2004;Total;-1,31
+Nepal;01/01/2007;Total;-1,88
+Fiji;01/01/2018;Total;0,74
+Côte-d'Ivoire;01/01/2005;Total;-2,26
+Costa Rica;01/01/2013;Total;0,68
+Azerbaijan;01/01/2015;Total;-0,73
+Iran;01/01/2003;Total;-0,78
+Kiribati;01/01/2010;Total;1,42
+Bhutan;01/01/2010;Total;0,74
+Palestine;01/01/2002;Total;-1,65
+Samoa;01/01/2013;Total;0,99
+Afghanistan;01/01/2005;Total;-2,07
+Libya;01/01/2014;Total;-2,35
+Lebanon;01/01/2017;Total;-1,63
+Samoa;01/01/2002;Total;1,1
+Andorra;01/01/2011;Total;1,3
+Saudi Arabia;01/01/2017;Total;-0,58
+Turkey;01/01/2006;Total;-0,59
+Syrian Arab Republic;01/01/2005;Total;-0,46
+United Arab Emirates;01/01/2006;Total;0,92
+Gabon;01/01/2003;Total;0,3
+Timor-Leste;01/01/2009;Total;-0,57
+Bulgaria;01/01/2010;Total;0,36
+Gabon;01/01/2013;Total;0,33
+Ecuador;01/01/2000;Total;-0,57
+Singapore;01/01/2007;Total;1,17
+Egypt;01/01/2015;Total;-1,5
+Fiji;01/01/2015;Total;0,58
+Mali;01/01/2009;Total;-0,08
+Israel;01/01/2007;Total;-1,25
+Sudan;01/01/2003;Total;-1,98
+Barbados;01/01/2015;Total;1,14
+Serbia;01/01/2016;Total;0,14
+Eswatini;01/01/2007;Total;0,05
+Brazil;01/01/2012;Total;0,05
+Jordan;01/01/2012;Total;-0,52
+Saudi Arabia;01/01/2010;Total;-0,23
+Mauritius;01/01/2018;Total;0,87
+Dominica;01/01/2013;Total;1,12
+Bermuda;01/01/2003;Total;0,85
+Japan;01/01/2004;Total;1,03
+Uganda;01/01/2018;Total;-0,69
+Peru;01/01/2012;Total;-0,91
+Peru;01/01/2009;Total;-1,18
+Bahrain;01/01/2013;Total;-1,34
+Tajikistan;01/01/2012;Total;-1,24
+Mexico;01/01/2014;Total;-0,85
+Guatemala;01/01/2017;Total;-0,65
+Cuba;01/01/2017;Total;0,65
+Lesotho;01/01/2011;Total;0,38
+Kyrgyzstan;01/01/2008;Total;-0,57
+Nicaragua;01/01/2016;Total;-0,09
+Eswatini;01/01/2006;Total;-0,27
+Montenegro;01/01/2018;Total;0,11
+Uzbekistan;01/01/2004;Total;-1,46
+Nicaragua;01/01/2003;Total;-0,37
+Hungary;01/01/2014;Total;0,67
+Djibouti;01/01/2011;Total;0,18
+Togo;01/01/2006;Total;-0,53
+Belgium;01/01/2007;Total;0,76
+Nepal;01/01/2004;Total;-2,15
+Tunisia;01/01/2007;Total;0,16
+Tunisia;01/01/2004;Total;0,15
+Hungary;01/01/2018;Total;0,76
+Yemen;01/01/2018;Total;-3
+United Arab Emirates;01/01/2005;Total;0,88
+Peru;01/01/2010;Total;-1
+Mauritius;01/01/2008;Total;0,89
+Qatar;01/01/2013;Total;1,21
+New Zealand;01/01/2003;Total;1,19
+Bhutan;01/01/2016;Total;1,12
+Mauritius;01/01/2004;Total;0,97
+Belize;01/01/2006;Total;0,08
+Bahamas;01/01/2003;Total;0,83
+Qatar;01/01/2008;Total;1,11
+Angola;01/01/2018;Total;-0,32
+Georgia;01/01/2016;Total;-0,31
+Bahrain;01/01/2003;Total;0,48
+South Africa;01/01/2014;Total;-0,15
+United Republic of Tanzania;01/01/2011;Total;-0,02
+Solomon Islands;01/01/2006;Total;0,07
+Central African Republic;01/01/2002;Total;-1,73
+Tajikistan;01/01/2000;Total;-1,65
+Mauritius;01/01/2006;Total;0,78
+Pakistan;01/01/2008;Total;-2,57
+Federated States of Micronesia;01/01/2006;Total;1,13
+United Arab Emirates;01/01/2004;Total;0,77
+Bangladesh;01/01/2011;Total;-1,4
+Sao Tome and Principe;01/01/2000;Total;1,15
+Austria;01/01/2016;Total;0,91
+Zambia;01/01/2009;Total;0,57
+Switzerland;01/01/2015;Total;1,34
+Bermuda;01/01/2013;Total;0,97
+Yemen;01/01/2006;Total;-1,35
+Tonga;01/01/2003;Total;0,63
+Brazil;01/01/2017;Total;-0,42
+Estonia;01/01/2009;Total;0,57
+Malaysia;01/01/2013;Total;0,05
+Venezuela;01/01/2004;Total;-1,39
+Yemen;01/01/2011;Total;-2,43
+Angola;01/01/2016;Total;-0,32
+Bermuda;01/01/2015;Total;0,98
+Australia;01/01/2017;Total;0,89
+Mali;01/01/2015;Total;-1,69
+Greece;01/01/2004;Total;0,49
+Slovenia;01/01/2017;Total;0,87
+Poland;01/01/2018;Total;0,55
+Pakistan;01/01/2017;Total;-2,41
+North Korea;01/01/2009;Total;-0,03
+Lebanon;01/01/2003;Total;-0,46
+Tonga;01/01/2014;Total;0,85
+India;01/01/2011;Total;-1,33
+Togo;01/01/2014;Total;-0,17
+Libya;01/01/2013;Total;-1,84
+Zimbabwe;01/01/2000;Total;-1,32
+Canada;01/01/2017;Total;1,1
+Kazakhstan;01/01/2014;Total;0,04
+Estonia;01/01/2008;Total;0,57
+Sweden;01/01/2007;Total;1,27
+Ecuador;01/01/2014;Total;-0,02
+Saint Vincent and the Grenadines;01/01/2009;Total;0,73
+Serbia;01/01/2017;Total;0,09
+Cameroon;01/01/2012;Total;-0,59
+Eritrea;01/01/2003;Total;-0,72
+Brazil;01/01/2010;Total;0,01
+Luxembourg;01/01/2012;Total;1,33
+Romania;01/01/2010;Total;0,27
+Lithuania;01/01/2008;Total;0,75
+Ireland;01/01/2002;Total;1,51
+Montenegro;01/01/2007;Total;0,11
+Guinea-Bissau;01/01/2004;Total;-0,38
+Zambia;01/01/2002;Total;-0,28
+Qatar;01/01/2010;Total;1,15
+Cambodia;01/01/2007;Total;-0,36
+Kyrgyzstan;01/01/2018;Total;-0,58
+Bhutan;01/01/2008;Total;0,72
+Azerbaijan;01/01/2014;Total;-0,56
+Dominican Republic;01/01/2016;Total;0,25
+Cuba;01/01/2007;Total;0,45
+Hungary;01/01/2002;Total;1,26
+Greenland;01/01/2017;Total;1,92
+Benin;01/01/2010;Total;0,26
+Niger;01/01/2016;Total;-1,1
+Botswana;01/01/2008;Total;1,03
+Saint Kitts and Nevis;01/01/2013;Total;0,96
+Turkey;01/01/2000;Total;-0,8
+Guinea;01/01/2017;Total;-0,7
+Saint Lucia;01/01/2008;Total;0,64
+Dominica;01/01/2005;Total;0,83
+Cambodia;01/01/2002;Total;-0,73
+Republic of Korea;01/01/2004;Total;0,43
+Grenada;01/01/2013;Total;0,43
+Sweden;01/01/2006;Total;1,29
+Slovenia;01/01/2010;Total;0,87
+Guinea;01/01/2011;Total;-1,39
+Estonia;01/01/2006;Total;0,74
+Libya;01/01/2016;Total;-2,28
+Bahrain;01/01/2005;Total;0,01
+France;01/01/2005;Total;0,4
+Uruguay;01/01/2008;Total;0,85
+Japan;01/01/2003;Total;1,03
+Denmark;01/01/2011;Total;1,1
+Mali;01/01/2017;Total;-1,91
+Senegal;01/01/2011;Total;-0,28
+Bahrain;01/01/2018;Total;-0,84
+Czechia;01/01/2010;Total;0,99
+South Africa;01/01/2015;Total;-0,21
+Cuba;01/01/2012;Total;0,31
+Angola;01/01/2017;Total;-0,33
+Guinea;01/01/2014;Total;-0,96
+Belarus;01/01/2008;Total;0,52
+Democratic Republic of the Congo;01/01/2014;Total;-2,17
+Kyrgyzstan;01/01/2003;Total;-1,1
+Tuvalu;01/01/2007;Total;1,34
+Montenegro;01/01/2009;Total;0,82
+Belize;01/01/2004;Total;0,4
+Brunei Darussalam;01/01/2009;Total;1,39
+Kenya;01/01/2006;Total;-1,13
+Germany;01/01/2013;Total;0,93
+Netherlands;01/01/2003;Total;1,16
+Czechia;01/01/2008;Total;1,05
+Australia;01/01/2003;Total;0,88
+Antigua and Barbuda;01/01/2013;Total;0,96
+Viet Nam;01/01/2002;Total;0,35
+Vanuatu;01/01/2007;Total;1,23
+Cyprus;01/01/2012;Total;0,64
+Namibia;01/01/2011;Total;0,91
+Ukraine;01/01/2008;Total;0,04
+Kenya;01/01/2005;Total;-1,25
+Maldives;01/01/2009;Total;-0,23
+Barbados;01/01/2005;Total;1,12
+Latvia;01/01/2007;Total;0,56
+Armenia;01/01/2004;Total;-0,12
+American Samoa;01/01/2004;Total;0,74
+Antigua and Barbuda;01/01/2004;Total;1,09
+Suriname;01/01/2012;Total;0,08
+Czechia;01/01/2005;Total;0,94
+Belize;01/01/2015;Total;0,04
+Trinidad and Tobago;01/01/2000;Total;0,15
+Romania;01/01/2009;Total;0,36
+Rwanda;01/01/2015;Total;0,01
+Kazakhstan;01/01/2012;Total;-0,41
+Sweden;01/01/2015;Total;0,95
+Iraq;01/01/2018;Total;-2,56
+Armenia;01/01/2003;Total;0,24
+Latvia;01/01/2000;Total;0,42
+Ukraine;01/01/2007;Total;0,17
+Togo;01/01/2000;Total;-0,29
+Namibia;01/01/2005;Total;0,63
+Luxembourg;01/01/2003;Total;1,44
+Federated States of Micronesia;01/01/2016;Total;1,06
+Afghanistan;01/01/2015;Total;-2,57
+Romania;01/01/2014;Total;0,05
+Kenya;01/01/2014;Total;-1,28
+Malaysia;01/01/2004;Total;0,35
+Malaysia;01/01/2011;Total;0,08
+Kuwait;01/01/2007;Total;0,62
+Libya;01/01/2004;Total;0,36
+Serbia;01/01/2007;Total;-0,59
+Saudi Arabia;01/01/2013;Total;-0,43
+Suriname;01/01/2007;Total;-0,02
+Singapore;01/01/2013;Total;1,38
+Equatorial Guinea;01/01/2013;Total;0,12
+Germany;01/01/2005;Total;0,89
+Namibia;01/01/2003;Total;0,48
+Dominican Republic;01/01/2004;Total;-0,34
+Tonga;01/01/2007;Total;0,28
+Marshall Islands;01/01/2004;Total;1,13
+Canada;01/01/2013;Total;1,06
+Federated States of Micronesia;01/01/2015;Total;1,04
+Liberia;01/01/2012;Total;-0,48
+Palestine;01/01/2016;Total;-1,98
+Myanmar;01/01/2008;Total;-1,09
+Belgium;01/01/2009;Total;0,82
+Germany;01/01/2009;Total;0,86
+Afghanistan;01/01/2017;Total;-2,8
+Burkina Faso;01/01/2002;Total;-0,31
+Algeria;01/01/2017;Total;-0,92
+Belize;01/01/2000;Total;0,18
+Vanuatu;01/01/2011;Total;1,11
+Qatar;01/01/2009;Total;1,22
+Czechia;01/01/2017;Total;1
+Morocco;01/01/2007;Total;-0,5
+Cabo Verde;01/01/2017;Total;0,77
+Israel;01/01/2005;Total;-1,25
+Bolivia;01/01/2010;Total;-0,42
+El Salvador;01/01/2012;Total;0,23
+Czechia;01/01/2013;Total;1,08
+Iraq;01/01/2000;Total;-1,74
+Australia;01/01/2010;Total;0,89
+Tajikistan;01/01/2002;Total;-0,98
+Niger;01/01/2009;Total;-1,15
+Netherlands;01/01/2015;Total;0,93
+Italy;01/01/2011;Total;0,5
+Republic of Korea;01/01/2018;Total;0,54
+Fiji;01/01/2017;Total;0,64
+Finland;01/01/2002;Total;1,76
+Kyrgyzstan;01/01/2000;Total;-0,18
+Nauru;01/01/2008;Total;1,01
+Colombia;01/01/2015;Total;-1,07
+Montenegro;01/01/2016;Total;0,28
+Andorra;01/01/2007;Total;1,34
+Jamaica;01/01/2014;Total;0,02
+United States of America;01/01/2004;Total;-0,23
+Libya;01/01/2005;Total;0,45
+Saint Kitts and Nevis;01/01/2011;Total;0,96
+Nicaragua;01/01/2013;Total;-0,25
+United Kingdom of Great Britain and Northern Ireland;01/01/2006;Total;0,67
+Tunisia;01/01/2015;Total;-0,96
+Uzbekistan;01/01/2010;Total;-0,72
+Dominica;01/01/2012;Total;0,98
+Benin;01/01/2009;Total;0,4
+Ethiopia;01/01/2011;Total;-1,51
+Libya;01/01/2009;Total;0,83
+Mozambique;01/01/2016;Total;-1,09
+Federated States of Micronesia;01/01/2017;Total;1,18
+Qatar;01/01/2012;Total;1,22
+Belgium;01/01/2003;Total;0,86
+Peru;01/01/2008;Total;-0,89
+Equatorial Guinea;01/01/2005;Total;-0,39
+Thailand;01/01/2006;Total;-1,13
+Samoa;01/01/2011;Total;0,99
+Czechia;01/01/2011;Total;1,11
+Spain;01/01/2007;Total;-0,28
+American Samoa;01/01/2011;Total;0,93
+Mauritius;01/01/2002;Total;1,12
+Denmark;01/01/2015;Total;0,9
+Bermuda;01/01/2018;Total;1,16
+Czechia;01/01/2003;Total;0,89
+Lesotho;01/01/2015;Total;-0,31
+Dominican Republic;01/01/2005;Total;-0,26
+Republic of Moldova;01/01/2008;Total;-0,27
+Bhutan;01/01/2015;Total;0,97
+North Macedonia;01/01/2000;Total;-0,62
+Guatemala;01/01/2005;Total;-0,84
+Bolivia;01/01/2000;Total;-0,24
+United Kingdom of Great Britain and Northern Ireland;01/01/2009;Total;0,12
+Iraq;01/01/2007;Total;-2,77
+Uganda;01/01/2012;Total;-0,87
+Oman;01/01/2003;Total;1,06
+Niger;01/01/2005;Total;-0,49
+Kyrgyzstan;01/01/2005;Total;-1,18
+Bolivia;01/01/2002;Total;-0,29
+Jordan;01/01/2018;Total;-0,38
+Republic of Korea;01/01/2016;Total;0,16
+Portugal;01/01/2006;Total;0,95
+Cuba;01/01/2005;Total;0,42
+Oman;01/01/2015;Total;0,78
+Turkey;01/01/2015;Total;-1,49
+Chile;01/01/2011;Total;0,45
+United Arab Emirates;01/01/2011;Total;0,91
+Sierra Leone;01/01/2007;Total;-0,06
+Chile;01/01/2003;Total;0,76
+Nigeria;01/01/2010;Total;-2,21
+Liberia;01/01/2000;Total;-1,95
+Niger;01/01/2010;Total;-1,16
+Viet Nam;01/01/2016;Total;0,23
+New Zealand;01/01/2013;Total;1,45
+Andorra;01/01/2018;Total;1,43
+Estonia;01/01/2018;Total;0,6
+Zimbabwe;01/01/2009;Total;-1,17
+Syrian Arab Republic;01/01/2009;Total;-0,51
+Bhutan;01/01/2006;Total;1,26
+Thailand;01/01/2003;Total;-0,14
+Cambodia;01/01/2000;Total;-0,78
+Malta;01/01/2004;Total;1,32
+Bermuda;01/01/2016;Total;1
+Germany;01/01/2012;Total;0,78
+Equatorial Guinea;01/01/2012;Total;0,23
+Puerto Rico;01/01/2007;Total;0,41
+Canada;01/01/2008;Total;1,04
+Germany;01/01/2015;Total;0,7
+Saint Vincent and the Grenadines;01/01/2012;Total;0,93
+Guinea-Bissau;01/01/2003;Total;-0,49
+Togo;01/01/2004;Total;-0,32
+Saint Kitts and Nevis;01/01/2016;Total;0,63
+Croatia;01/01/2003;Total;0,56
+Australia;01/01/2016;Total;1,05
+Equatorial Guinea;01/01/2004;Total;-0,06
+Honduras;01/01/2004;Total;-0,39
+Sudan;01/01/2008;Total;-2,49
+Trinidad and Tobago;01/01/2018;Total;0,25
+Bosnia and Herzegovina;01/01/2013;Total;-0,4
+Guatemala;01/01/2010;Total;-0,85
+Mozambique;01/01/2012;Total;0,39
+Iraq;01/01/2012;Total;-1,93
+Honduras;01/01/2005;Total;-0,63
+Mauritania;01/01/2014;Total;-0,59
+Tajikistan;01/01/2003;Total;-1,1
+Portugal;01/01/2004;Total;0,97
+Indonesia;01/01/2008;Total;-1,06
+Colombia;01/01/2003;Total;-2,37
+Lithuania;01/01/2009;Total;0,63
+Oman;01/01/2018;Total;0,65
+Venezuela;01/01/2008;Total;-1,31
+Guyana;01/01/2008;Total;-0,63
+Spain;01/01/2018;Total;0,25
+Denmark;01/01/2009;Total;1
+Lesotho;01/01/2017;Total;-0,19
+United States of America;01/01/2006;Total;0,49
+Myanmar;01/01/2014;Total;-1,09
+Russian Federation;01/01/2004;Total;-1,51
+Austria;01/01/2014;Total;1,27
+Togo;01/01/2013;Total;-0,35
+Iceland;01/01/2012;Total;1,25
+North Macedonia;01/01/2007;Total;-0,43
+Brunei Darussalam;01/01/2015;Total;1,24
+Uzbekistan;01/01/2018;Total;-0,28
+Timor-Leste;01/01/2015;Total;-0,27
+Saudi Arabia;01/01/2012;Total;-0,48
+Bolivia;01/01/2016;Total;-0,25
+Estonia;01/01/2015;Total;0,62
+Montenegro;01/01/2014;Total;0,22
+Bulgaria;01/01/2000;Total;0,38
+Algeria;01/01/2012;Total;-1,33
+Niger;01/01/2004;Total;-0,51
+Vanuatu;01/01/2008;Total;1,18
+Haiti;01/01/2011;Total;-0,99
+Honduras;01/01/2009;Total;-0,31
+Bosnia and Herzegovina;01/01/2005;Total;-0,5
+Panama;01/01/2013;Total;-0,14
+Singapore;01/01/2005;Total;1,16
+Guatemala;01/01/2013;Total;-0,67
+Rwanda;01/01/2004;Total;-1,19
+Morocco;01/01/2005;Total;-0,56
+Ghana;01/01/2005;Total;0,17
+Ireland;01/01/2008;Total;1,19
+Saint Vincent and the Grenadines;01/01/2014;Total;0,82
+Thailand;01/01/2015;Total;-0,99
+Kazakhstan;01/01/2018;Total;0
+Sweden;01/01/2011;Total;1,23
+Tonga;01/01/2011;Total;0,94
+El Salvador;01/01/2010;Total;0,06
+Lao People's Democratic Republic;01/01/2003;Total;-1,23
+Liberia;01/01/2010;Total;-0,47
+Egypt;01/01/2016;Total;-1,44
+Eswatini;01/01/2009;Total;-0,01
+Croatia;01/01/2011;Total;0,62
+Mali;01/01/2016;Total;-1,62
+Portugal;01/01/2014;Total;0,81
+Namibia;01/01/2002;Total;0,15
+Cyprus;01/01/2004;Total;0,38
+Belarus;01/01/2017;Total;-0,05
+Italy;01/01/2016;Total;0,37
+Sri Lanka;01/01/2015;Total;0,09
+Gabon;01/01/2008;Total;0,26
+Suriname;01/01/2009;Total;0,15
+Zambia;01/01/2008;Total;0,47
+Argentina;01/01/2003;Total;-0,36
+Tajikistan;01/01/2013;Total;-1,18
+Croatia;01/01/2005;Total;0,43
+Bahrain;01/01/2009;Total;-0,14
+Seychelles;01/01/2011;Total;0,94
+Sudan;01/01/2005;Total;-1,98
+Lao People's Democratic Republic;01/01/2018;Total;0,42
+Uganda;01/01/2002;Total;-1,42
+Syrian Arab Republic;01/01/2002;Total;0,28
+Kuwait;01/01/2017;Total;-0,05
+Azerbaijan;01/01/2003;Total;-0,95
+Fiji;01/01/2007;Total;0,06
+Sao Tome and Principe;01/01/2007;Total;0,39
+Algeria;01/01/2011;Total;-1,36
+Ecuador;01/01/2003;Total;-0,96
+Albania;01/01/2016;Total;0,34
+Sierra Leone;01/01/2006;Total;-0,3
+Slovenia;01/01/2014;Total;0,97
+Congo;01/01/2012;Total;-0,49
+American Samoa;01/01/2007;Total;0,97
+Saudi Arabia;01/01/2002;Total;0
+Kazakhstan;01/01/2006;Total;0,21
+Georgia;01/01/2011;Total;-0,66
+Libya;01/01/2002;Total;-0,1
+Burkina Faso;01/01/2012;Total;-0,57
+Iceland;01/01/2017;Total;1,35
+Timor-Leste;01/01/2018;Total;0,3
+Uganda;01/01/2003;Total;-1,56
+Nauru;01/01/2011;Total;1,06
+Solomon Islands;01/01/2017;Total;0,2
+Eritrea;01/01/2014;Total;-0,81
+Kuwait;01/01/2002;Total;-0,15
+Zambia;01/01/2010;Total;0,52
+Gabon;01/01/2017;Total;-0,1
+Puerto Rico;01/01/2014;Total;0,82
+Trinidad and Tobago;01/01/2016;Total;0,29
+Botswana;01/01/2004;Total;0,92
+Federated States of Micronesia;01/01/2008;Total;1,17
+United Kingdom of Great Britain and Northern Ireland;01/01/2002;Total;0,68
+Papua New Guinea;01/01/2006;Total;-0,87
+Ireland;01/01/2004;Total;1,17
+Mauritania;01/01/2018;Total;-0,67
+Niger;01/01/2017;Total;-1,27
+Luxembourg;01/01/2000;Total;1,61
+Slovakia;01/01/2018;Total;0,75
+Suriname;01/01/2010;Total;0,08
+Spain;01/01/2010;Total;-0,32
+Dominica;01/01/2000;Total;0,49
+Saint Vincent and the Grenadines;01/01/2017;Total;0,89
+Mauritania;01/01/2012;Total;-1,13
+United Arab Emirates;01/01/2012;Total;0,86
+Bosnia and Herzegovina;01/01/2006;Total;-0,44
+Norway;01/01/2014;Total;1,12
+North Korea;01/01/2005;Total;0,02
+North Korea;01/01/2004;Total;0,22
+Sao Tome and Principe;01/01/2005;Total;0,58
+Saint Kitts and Nevis;01/01/2003;Total;1,17
+Egypt;01/01/2018;Total;-1,16
+Turkey;01/01/2003;Total;-0,77
+Cuba;01/01/2003;Total;0,32
+Myanmar;01/01/2012;Total;-0,94
+Dominica;01/01/2006;Total;0,91
+Cameroon;01/01/2003;Total;-0,43
+Grenada;01/01/2011;Total;0,36
+Grenada;01/01/2006;Total;0,39
+Kazakhstan;01/01/2002;Total;0,36
+Nigeria;01/01/2009;Total;-2
+Gambia;01/01/2017;Total;-0,08
+Côte-d'Ivoire;01/01/2017;Total;-1,09
+Kyrgyzstan;01/01/2007;Total;-0,99
+Venezuela;01/01/2009;Total;-1,28
+United States of America;01/01/2000;Total;1,08
+Tajikistan;01/01/2005;Total;-1,39
+South Africa;01/01/2008;Total;0,05
+Afghanistan;01/01/2003;Total;-2,2
+Angola;01/01/2000;Total;-2,04
+Myanmar;01/01/2018;Total;-1,31
+Zambia;01/01/2013;Total;0,44
+Peru;01/01/2015;Total;-0,4
+Germany;01/01/2008;Total;0,95
+Spain;01/01/2008;Total;-0,38
+Mali;01/01/2013;Total;-1,72
+Benin;01/01/2016;Total;0
+Iraq;01/01/2013;Total;-2,01
+Brazil;01/01/2011;Total;-0,13
+France;01/01/2014;Total;0,3
+Seychelles;01/01/2012;Total;0,74
+United Republic of Tanzania;01/01/2006;Total;-0,36
+Bermuda;01/01/2009;Total;0,69
+Haiti;01/01/2000;Total;-0,63
+United Republic of Tanzania;01/01/2000;Total;-0,7
+Brazil;01/01/2013;Total;-0,26
+Senegal;01/01/2017;Total;-0,05
+Slovakia;01/01/2015;Total;0,87
+Chile;01/01/2008;Total;0,43
+Russian Federation;01/01/2003;Total;-1,19
+Congo;01/01/2002;Total;-1,58
+Malta;01/01/2013;Total;1,04
+United States of America;01/01/2017;Total;0,34
+Botswana;01/01/2002;Total;0,87
+Burundi;01/01/2011;Total;-1,81
+Saint Vincent and the Grenadines;01/01/2008;Total;0,8
+Myanmar;01/01/2002;Total;-1,41
+Cyprus;01/01/2018;Total;0,54
+United Kingdom of Great Britain and Northern Ireland;01/01/2014;Total;0,42
+Ghana;01/01/2000;Total;-0,36
+Sao Tome and Principe;01/01/2003;Total;0,26
+Kenya;01/01/2000;Total;-1,07
+United States of America;01/01/2012;Total;0,63
+Uruguay;01/01/2016;Total;1,06
+South Africa;01/01/2004;Total;-0,13
+Paraguay;01/01/2005;Total;-0,65
+Azerbaijan;01/01/2011;Total;-0,53
+Barbados;01/01/2013;Total;1,27
+Hungary;01/01/2003;Total;1,13
+Syrian Arab Republic;01/01/2018;Total;-2,74
+Comoros;01/01/2005;Total;-0,44
+Guinea;01/01/2002;Total;-1,42
+Mexico;01/01/2017;Total;-0,72
+Switzerland;01/01/2014;Total;1,4
+Panama;01/01/2007;Total;-0,06
+Republic of Moldova;01/01/2004;Total;-0,22
+Ghana;01/01/2010;Total;0,03
+Kiribati;01/01/2003;Total;1,17
+Hungary;01/01/2008;Total;0,75
+Kenya;01/01/2013;Total;-1,17
+Morocco;01/01/2017;Total;-0,37
+Russian Federation;01/01/2014;Total;-0,94
+Turkmenistan;01/01/2005;Total;0,07
+Saint Kitts and Nevis;01/01/2010;Total;1,04
+Chad;01/01/2000;Total;-1,14
+Andorra;01/01/2006;Total;1,35
+Denmark;01/01/2005;Total;1,07
+Ukraine;01/01/2011;Total;-0,07
+Palestine;01/01/2006;Total;-1,73
+Panama;01/01/2000;Total;0,25
+Nepal;01/01/2012;Total;-1,38
+Croatia;01/01/2012;Total;0,61
+Malta;01/01/2012;Total;1,07
+Spain;01/01/2016;Total;0,41
+Sierra Leone;01/01/2017;Total;-0,04
+Senegal;01/01/2006;Total;-0,26
+Saint Lucia;01/01/2015;Total;0,85
+Ukraine;01/01/2003;Total;-0,36
+Mexico;01/01/2013;Total;-0,71
+China;01/01/2006;Total;0,575
+Liberia;01/01/2005;Total;-1,36
+Venezuela;01/01/2015;Total;-0,98
+Sudan;01/01/2002;Total;-1,84
+Côte-d'Ivoire;01/01/2004;Total;-2,12
+Indonesia;01/01/2010;Total;-0,85
+Peru;01/01/2004;Total;-1,03
+Pakistan;01/01/2011;Total;-2,81
+Ireland;01/01/2006;Total;1,19
+Djibouti;01/01/2007;Total;-0,12
+Japan;01/01/2007;Total;1,01
+Slovakia;01/01/2000;Total;0,66
+Eswatini;01/01/2003;Total;0,07
+Kyrgyzstan;01/01/2006;Total;-1,39
+Oman;01/01/2016;Total;0,76
+Kazakhstan;01/01/2015;Total;-0,04
+Guinea-Bissau;01/01/2010;Total;-0,69
+Denmark;01/01/2012;Total;0,91
+Germany;01/01/2004;Total;0,64
+Slovakia;01/01/2003;Total;0,95
+Greece;01/01/2011;Total;-0,1
+Indonesia;01/01/2002;Total;-1,58
+Liberia;01/01/2016;Total;-0,44
+Madagascar;01/01/2017;Total;-0,3
+Bahamas;01/01/2013;Total;1,13
+Sao Tome and Principe;01/01/2004;Total;0,57
+New Zealand;01/01/2005;Total;1,25
+Viet Nam;01/01/2008;Total;0,16
+Mauritius;01/01/2010;Total;0,64
+North Korea;01/01/2012;Total;-0,01
+Eswatini;01/01/2010;Total;-0,08
+Egypt;01/01/2008;Total;-0,51
+Israel;01/01/2018;Total;-0,93
+Tajikistan;01/01/2017;Total;-0,67
+Lesotho;01/01/2002;Total;-0,05
+Republic of Moldova;01/01/2012;Total;0,05
+Costa Rica;01/01/2005;Total;0,71
+Slovenia;01/01/2008;Total;1,15
+Haiti;01/01/2008;Total;-1,39
+Italy;01/01/2009;Total;0,35
+United Arab Emirates;01/01/2008;Total;0,7
+Gambia;01/01/2016;Total;-0,43
+Russian Federation;01/01/2017;Total;-0,64
+Nigeria;01/01/2008;Total;-1,86
+Hungary;01/01/2009;Total;0,54
+Afghanistan;01/01/2000;Total;-2,44
+Dominican Republic;01/01/2011;Total;0
+Burkina Faso;01/01/2000;Total;0,06
+Venezuela;01/01/2005;Total;-1,25
+Chile;01/01/2013;Total;0,36
+Cuba;01/01/2004;Total;0,36
+Somalia;01/01/2008;Total;-3,28
+Denmark;01/01/2003;Total;1,2
+Paraguay;01/01/2002;Total;-1,22
+Côte-d'Ivoire;01/01/2015;Total;-0,83
+Bahamas;01/01/2006;Total;0,81
+Vanuatu;01/01/2014;Total;0,64
+Bulgaria;01/01/2012;Total;0,38
+Botswana;01/01/2017;Total;1,02
+Paraguay;01/01/2013;Total;-0,74
+Algeria;01/01/2006;Total;-1,13
+Mozambique;01/01/2014;Total;-0,34
+Vanuatu;01/01/2006;Total;1,35
+Mongolia;01/01/2003;Total;0,96
+Czechia;01/01/2007;Total;1,02
+Luxembourg;01/01/2006;Total;1,4
+Lao People's Democratic Republic;01/01/2000;Total;-0,58
+Saudi Arabia;01/01/2015;Total;-0,63
+Andorra;01/01/2012;Total;1,29
+Antigua and Barbuda;01/01/2009;Total;0,72
+Samoa;01/01/2008;Total;1,1
+Maldives;01/01/2018;Total;0,1
+Pakistan;01/01/2005;Total;-1,75
+Tonga;01/01/2010;Total;0,69
+Mongolia;01/01/2006;Total;0,65
+Timor-Leste;01/01/2005;Total;-0,71
+Namibia;01/01/2014;Total;0,61
+Democratic Republic of the Congo;01/01/2013;Total;-2,19
+Grenada;01/01/2012;Total;0,49
+Iran;01/01/2011;Total;-1,42
+Japan;01/01/2006;Total;1,14
+Nicaragua;01/01/2004;Total;-0,34
+Slovenia;01/01/2000;Total;0,89
+South Africa;01/01/2009;Total;-0,11
+Croatia;01/01/2018;Total;0,77
+United Kingdom of Great Britain and Northern Ireland;01/01/2015;Total;0,52
+Bhutan;01/01/2012;Total;0,78
+Lesotho;01/01/2012;Total;0,27
+Oman;01/01/2005;Total;0,95
+Philippines;01/01/2009;Total;-1,73
+Solomon Islands;01/01/2003;Total;0,36
+Timor-Leste;01/01/2008;Total;-0,8
+Senegal;01/01/2014;Total;-0,2
+United Arab Emirates;01/01/2015;Total;0,76
+Kiribati;01/01/2005;Total;1,38
+Thailand;01/01/2007;Total;-1,11
+Greece;01/01/2016;Total;-0,12
+Maldives;01/01/2003;Total;1,03
+Guatemala;01/01/2015;Total;-0,66
+Bulgaria;01/01/2002;Total;0,47
+Benin;01/01/2015;Total;-0,01
+Haiti;01/01/2016;Total;-0,74
+Bolivia;01/01/2003;Total;-0,83
+American Samoa;01/01/2006;Total;0,7
+Kiribati;01/01/2011;Total;1,3
+Ethiopia;01/01/2006;Total;-1,74
+Democratic Republic of the Congo;01/01/2002;Total;-1,98
+Switzerland;01/01/2005;Total;1,2
+Italy;01/01/2015;Total;0,38
+Iraq;01/01/2016;Total;-2,31
+Portugal;01/01/2015;Total;0,92
+Samoa;01/01/2016;Total;1,2
+Republic of Korea;01/01/2002;Total;0,24
+Botswana;01/01/2003;Total;1,11
+Bermuda;01/01/2004;Total;0,89
+Philippines;01/01/2000;Total;-1,39
+Seychelles;01/01/2015;Total;0,69
+Tuvalu;01/01/2006;Total;1,35
+Barbados;01/01/2008;Total;1,07
+Turkmenistan;01/01/2012;Total;0,43
+Lesotho;01/01/2008;Total;-0,21
+Afghanistan;01/01/2011;Total;-2,5
+Marshall Islands;01/01/2016;Total;0,21
+Gabon;01/01/2016;Total;-0,1
+Rwanda;01/01/2013;Total;-0,11
+Spain;01/01/2011;Total;0,02
+Somalia;01/01/2000;Total;-1,95
+Russian Federation;01/01/2015;Total;-1,03
+Kyrgyzstan;01/01/2015;Total;-0,88
+Palestine;01/01/2004;Total;-1,13
+Barbados;01/01/2018;Total;0,92
+Suriname;01/01/2003;Total;0,48
+Morocco;01/01/2018;Total;-0,33
+Egypt;01/01/2006;Total;-0,84
+Lesotho;01/01/2013;Total;0,34
+Madagascar;01/01/2012;Total;-0,54
+Jordan;01/01/2003;Total;-0,07
+Lithuania;01/01/2011;Total;0,67
+Uzbekistan;01/01/2014;Total;-0,27
+Singapore;01/01/2017;Total;1,62
+Peru;01/01/2000;Total;-0,99
+Madagascar;01/01/2010;Total;-0,98
+Sweden;01/01/2009;Total;1,09
+Republic of Korea;01/01/2015;Total;0,16
+Panama;01/01/2009;Total;0,06
+Serbia;01/01/2004;Total;-0,51
+Trinidad and Tobago;01/01/2003;Total;-0,25
+Republic of Moldova;01/01/2016;Total;-0,3
+Iraq;01/01/2010;Total;-2,24
+Uganda;01/01/2015;Total;-0,8
+United Kingdom of Great Britain and Northern Ireland;01/01/2013;Total;0,49
+Spain;01/01/2013;Total;0,01
+Austria;01/01/2009;Total;1,19
+South Sudan;01/01/2015;Total;-2,38
+Philippines;01/01/2011;Total;-1,39
+Colombia;01/01/2011;Total;-1,28
+Sweden;01/01/2016;Total;1,02
+Algeria;01/01/2000;Total;-1,43
+Angola;01/01/2011;Total;-0,37
+Republic of Korea;01/01/2007;Total;0,57
+Papua New Guinea;01/01/2002;Total;-0,55
+Egypt;01/01/2000;Total;0,05
+Brunei Darussalam;01/01/2017;Total;1,16
+Ukraine;01/01/2005;Total;-0,29
+Guyana;01/01/2013;Total;-0,46
+South Africa;01/01/2012;Total;-0,03
+Croatia;01/01/2008;Total;0,57
+Sierra Leone;01/01/2011;Total;-0,17
+Cameroon;01/01/2015;Total;-0,99
+Lebanon;01/01/2018;Total;-1,64
+United Republic of Tanzania;01/01/2009;Total;0,09
+Paraguay;01/01/2007;Total;-0,74
+Dominican Republic;01/01/2018;Total;0,03
+Bangladesh;01/01/2009;Total;-1,54
+Barbados;01/01/2000;Total;1,15
+Nigeria;01/01/2018;Total;-2,19
+Jamaica;01/01/2000;Total;0,19
+Nigeria;01/01/2017;Total;-2
+Libya;01/01/2007;Total;0,75
+Turkmenistan;01/01/2018;Total;-0,01
+Belize;01/01/2016;Total;0,06
+Benin;01/01/2007;Total;0,39
+Denmark;01/01/2002;Total;1,53
+Burkina Faso;01/01/2009;Total;0,03
+Cyprus;01/01/2011;Total;0,61
+Eritrea;01/01/2004;Total;-0,64
+Israel;01/01/2002;Total;-1,46
+Sri Lanka;01/01/2004;Total;-1,01
+Lebanon;01/01/2011;Total;-1,56

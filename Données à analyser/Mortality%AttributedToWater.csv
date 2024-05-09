@@ -1,0 +1,550 @@
+﻿Year;Country;Granularity;Mortality rate attributed to exposure to unsafe WASH services;WASH deaths
+01/01/2016;Afghanistan;Female;15,31193;
+01/01/2016;Afghanistan;Male;12,61297;
+01/01/2016;Afghanistan;Total;13,92067;4824,353
+01/01/2016;Albania;Female;0,12552;
+01/01/2016;Albania;Male;0,2065;
+01/01/2016;Albania;Total;0,16641;4,86975
+01/01/2016;Algeria;Female;2,1989;
+01/01/2016;Algeria;Male;1,72837;
+01/01/2016;Algeria;Total;1,86723;758,21
+01/01/2016;Angola;Female;45,15024;
+01/01/2016;Angola;Male;52,62506;
+01/01/2016;Angola;Total;48,81467;14065,2
+01/01/2016;Antigua and Barbuda;Female;0,10419;
+01/01/2016;Antigua and Barbuda;Male;0,12469;
+01/01/2016;Antigua and Barbuda;Total;0,11403;0,11513
+01/01/2016;Argentina;Female;0,40251;
+01/01/2016;Argentina;Male;0,32166;
+01/01/2016;Argentina;Total;0,36294;159,1411
+01/01/2016;Armenia;Female;0,16495;
+01/01/2016;Armenia;Male;0,19032;
+01/01/2016;Armenia;Total;0,17688;5,17336
+01/01/2016;Australia;Female;0,11958;
+01/01/2016;Australia;Male;0,07103;
+01/01/2016;Australia;Total;0,09539;23,01346
+01/01/2016;Austria;Female;0,15099;
+01/01/2016;Austria;Male;0,09539;
+01/01/2016;Austria;Total;0,12375;10,78108
+01/01/2016;Azerbaijan;Female;0,95527;
+01/01/2016;Azerbaijan;Male;1,28588;
+01/01/2016;Azerbaijan;Total;1,11988;108,9128
+01/01/2016;Bahamas;Female;0,06681;
+01/01/2016;Bahamas;Male;0,07032;
+01/01/2016;Bahamas;Total;0,06853;0,26811
+01/01/2016;Bahrain;Female;0,04812;
+01/01/2016;Bahrain;Male;0,0344;
+01/01/2016;Bahrain;Total;0,0396;0,56435
+01/01/2016;Bangladesh;Female;13,829;
+01/01/2016;Bangladesh;Male;10,0935;
+01/01/2016;Bangladesh;Total;11,94467;19464,03
+01/01/2016;Barbados;Female;0,23025;
+01/01/2016;Barbados;Male;0,09322;
+01/01/2016;Barbados;Total;0,16462;0,46915
+01/01/2016;Belarus;Female;0,0529;
+01/01/2016;Belarus;Male;0,05022;
+01/01/2016;Belarus;Total;0,05165;4,89667
+01/01/2016;Belgium;Female;0,35482;
+01/01/2016;Belgium;Male;0,20645;
+01/01/2016;Belgium;Total;0,28179;32,00647
+01/01/2016;Belize;Female;0,89054;
+01/01/2016;Belize;Male;1,04043;
+01/01/2016;Belize;Total;0,96521;3,54188
+01/01/2016;Benin;Female;54,36152;
+01/01/2016;Benin;Male;65,12923;
+01/01/2016;Benin;Total;59,73005;6494,034
+01/01/2016;Bhutan;Female;4,5675;
+01/01/2016;Bhutan;Male;3,40449;
+01/01/2016;Bhutan;Total;3,94974;31,50916
+01/01/2016;Bolivia;Female;4,92742;
+01/01/2016;Bolivia;Male;6,22563;
+01/01/2016;Bolivia;Total;5,57744;607,2645
+01/01/2016;Bosnia and Herzegovina;Female;0,0809;
+01/01/2016;Bosnia and Herzegovina;Male;0,07647;
+01/01/2016;Bosnia and Herzegovina;Total;0,07872;2,76853
+01/01/2016;Botswana;Female;12,32162;
+01/01/2016;Botswana;Male;11,19871;
+01/01/2016;Botswana;Total;11,76669;264,7807
+01/01/2016;Brazil;Female;1,1192;
+01/01/2016;Brazil;Male;0,97233;
+01/01/2016;Brazil;Total;1,047;2174,623
+01/01/2016;Brunei Darussalam;Female;0,04411;
+01/01/2016;Brunei Darussalam;Male;0,04623;
+01/01/2016;Brunei Darussalam;Total;0,0452;0,19128
+01/01/2016;Bulgaria;Female;0,13516;
+01/01/2016;Bulgaria;Male;0,12216;
+01/01/2016;Bulgaria;Total;0,12884;9,18815
+01/01/2016;Burkina Faso;Female;53,73591;
+01/01/2016;Burkina Faso;Male;45,51959;
+01/01/2016;Burkina Faso;Total;49,64125;9256,325
+01/01/2016;Burundi;Female;66,77003;
+01/01/2016;Burundi;Male;63,98737;
+01/01/2016;Burundi;Total;65,40117;6882,901
+01/01/2016;Cabo Verde;Female;3,95605;
+01/01/2016;Cabo Verde;Male;4,31882;
+01/01/2016;Cabo Verde;Total;4,13675;22,32021
+01/01/2016;Cambodia;Female;6,32701;
+01/01/2016;Cambodia;Male;6,6208;
+01/01/2016;Cambodia;Total;6,47033;1019,877
+01/01/2016;Cameroon;Female;44,13828;
+01/01/2016;Cameroon;Male;46,16591;
+01/01/2016;Cameroon;Total;45,15287;10583,47
+01/01/2016;Canada;Female;0,44629;
+01/01/2016;Canada;Male;0,28836;
+01/01/2016;Canada;Total;0,36794;133,5263
+01/01/2016;Central African Republic;Female;74,73948;
+01/01/2016;Central African Republic;Male;89,68932;
+01/01/2016;Central African Republic;Total;82,11312;3772,784
+01/01/2016;Chad;Female;95,0259;
+01/01/2016;Chad;Male;107,04802;
+01/01/2016;Chad;Total;101,04312;14603,3
+01/01/2016;Chile;Female;0,23087;
+01/01/2016;Chile;Male;0,17412;
+01/01/2016;Chile;Total;0,20277;36,31498
+01/01/2016;China;Female;0,65809;
+01/01/2016;China;Male;0,49931;
+01/01/2016;China;Total;0,57632;8134,223
+01/01/2016;Colombia;Female;0,77409;
+01/01/2016;Colombia;Male;0,73144;
+01/01/2016;Colombia;Total;0,7531;366,4109
+01/01/2016;Comoros;Female;50,33907;
+01/01/2016;Comoros;Male;51,12782;
+01/01/2016;Comoros;Total;50,73689;403,6642
+01/01/2016;Congo;Female;33,89152;
+01/01/2016;Congo;Male;43,5214;
+01/01/2016;Congo;Total;38,70865;1984,138
+01/01/2016;Costa Rica;Female;1,02597;
+01/01/2016;Costa Rica;Male;0,70192;
+01/01/2016;Costa Rica;Total;0,86387;41,96055
+01/01/2016;Croatia;Female;0,14178;
+01/01/2016;Croatia;Male;0,08007;
+01/01/2016;Croatia;Total;0,11204;4,72051
+01/01/2016;Cuba;Female;1,04843;
+01/01/2016;Cuba;Male;1,00429;
+01/01/2016;Cuba;Total;1,02635;117,7832
+01/01/2016;Cyprus;Female;0,269;
+01/01/2016;Cyprus;Male;0,28913;
+01/01/2016;Cyprus;Total;0,27908;3,26564
+01/01/2016;Czechia;Female;0,21096;
+01/01/2016;Czechia;Male;0,14554;
+01/01/2016;Czechia;Total;0,17881;18,97327
+01/01/2016;Côte-d'Ivoire;Female;44,73841;
+01/01/2016;Côte-d'Ivoire;Male;49,50985;
+01/01/2016;Côte-d'Ivoire;Total;47,15776;11174,47
+01/01/2016;North Korea;Female;1,1235;
+01/01/2016;North Korea;Male;1,60006;
+01/01/2016;North Korea;Total;1,35658;344,1445
+01/01/2016;Democratic Republic of the Congo;Female;49,79718;
+01/01/2016;Democratic Republic of the Congo;Male;69,76294;
+01/01/2016;Democratic Republic of the Congo;Total;59,75592;47049,52
+01/01/2016;Denmark;Female;0,41632;
+01/01/2016;Denmark;Male;0,19373;
+01/01/2016;Denmark;Total;0,30561;17,45619
+01/01/2016;Djibouti;Female;33,22502;
+01/01/2016;Djibouti;Male;29,36276;
+01/01/2016;Djibouti;Total;31,28645;294,826
+01/01/2016;Dominican Republic;Female;2,1909;
+01/01/2016;Dominican Republic;Male;2,22008;
+01/01/2016;Dominican Republic;Total;2,20544;234,8522
+01/01/2016;Ecuador;Female;0,65657;
+01/01/2016;Ecuador;Male;0,62773;
+01/01/2016;Ecuador;Total;0,64215;105,2175
+01/01/2016;Egypt;Female;2,18807;
+01/01/2016;Egypt;Male;1,82045;
+01/01/2016;Egypt;Total;2,2022;1915,882
+01/01/2016;El Salvador;Female;1,63727;
+01/01/2016;El Salvador;Male;2,41991;
+01/01/2016;El Salvador;Total;2,00514;127,2203
+01/01/2016;Equatorial Guinea;Female;23,93949;
+01/01/2016;Equatorial Guinea;Male;20,95419;
+01/01/2016;Equatorial Guinea;Total;22,28946;272,2647
+01/01/2016;Eritrea;Female;43,51273;
+01/01/2016;Eritrea;Male;47,60817;
+01/01/2016;Eritrea;Total;45,56445;2257,556
+01/01/2016;Estonia;Female;0,00396;
+01/01/2016;Estonia;Male;0,00889;
+01/01/2016;Estonia;Total;0,00627;0,08229
+01/01/2016;Eswatini;Female;29,75814;
+01/01/2016;Eswatini;Male;25,90795;
+01/01/2016;Eswatini;Total;27,89303;374,6307
+01/01/2016;Ethiopia;Female;40,80663;
+01/01/2016;Ethiopia;Male;46,52964;
+01/01/2016;Ethiopia;Total;43,66399;44713,33
+01/01/2016;Fiji;Female;2,23365;
+01/01/2016;Fiji;Male;3,52102;
+01/01/2016;Fiji;Total;2,88769;25,95353
+01/01/2016;Finland;Female;0,03837;
+01/01/2016;Finland;Male;0,03389;
+01/01/2016;Finland;Total;0,03616;1,99014
+01/01/2016;France;Female;0,32449;
+01/01/2016;France;Male;0,2043;
+01/01/2016;France;Total;0,26542;171,7787
+01/01/2016;Gabon;Female;18,59349;
+01/01/2016;Gabon;Male;22,45827;
+01/01/2016;Gabon;Total;20,57946;407,4295
+01/01/2016;Gambia;Female;28,44265;
+01/01/2016;Gambia;Male;30,9008;
+01/01/2016;Gambia;Total;29,65944;604,6097
+01/01/2016;Georgia;Female;0,17063;
+01/01/2016;Georgia;Male;0,18981;
+01/01/2016;Georgia;Total;0,17978;7,05726
+01/01/2016;Germany;Female;0,71559;
+01/01/2016;Germany;Male;0,4533;
+01/01/2016;Germany;Total;0,58651;480,4347
+01/01/2016;Ghana;Female;19,43354;
+01/01/2016;Ghana;Male;18,23325;
+01/01/2016;Ghana;Total;18,83582;5312,967
+01/01/2016;Greece;Female;0,05317;
+01/01/2016;Greece;Male;0,02053;
+01/01/2016;Greece;Total;0,0371;4,14944
+01/01/2016;Grenada;Female;0,01541;
+01/01/2016;Grenada;Male;0,66771;
+01/01/2016;Grenada;Total;0,34283;0,36792
+01/01/2016;Guatemala;Female;5,98505;
+01/01/2016;Guatemala;Male;6,61531;
+01/01/2016;Guatemala;Total;6,29517;1043,895
+01/01/2016;Guinea;Female;40,96961;
+01/01/2016;Guinea;Male;48,27968;
+01/01/2016;Guinea;Total;44,63392;5532,784
+01/01/2016;Guinea-Bissau;Female;32,95495;
+01/01/2016;Guinea-Bissau;Male;37,66702;
+01/01/2016;Guinea-Bissau;Total;35,27235;640,4408
+01/01/2016;Guyana;Female;3,1791;
+01/01/2016;Guyana;Male;4,11048;
+01/01/2016;Guyana;Total;3,64877;28,21598
+01/01/2016;Haiti;Female;20,133;
+01/01/2016;Haiti;Male;27,53149;
+01/01/2016;Haiti;Total;23,79188;2580,786
+01/01/2016;Honduras;Female;3,82395;
+01/01/2016;Honduras;Male;3,41266;
+01/01/2016;Honduras;Total;3,6189;329,7852
+01/01/2016;Hungary;Female;0,29791;
+01/01/2016;Hungary;Male;0,17577;
+01/01/2016;Hungary;Total;0,23983;23,39143
+01/01/2016;Iceland;Female;0,1158;
+01/01/2016;Iceland;Male;0,09137;
+01/01/2016;Iceland;Total;0,10354;0,34426
+01/01/2016;India;Female;21,48475;
+01/01/2016;India;Male;15,88761;
+01/01/2016;India;Total;18,58389;246087,9
+01/01/2016;Indonesia;Female;7,8416;
+01/01/2016;Indonesia;Male;6,28416;
+01/01/2016;Indonesia;Total;7,05721;18426,38
+01/01/2016;Iran;Female;0,97077;
+01/01/2016;Iran;Male;0,99813;
+01/01/2016;Iran;Total;0,98453;790,3585
+01/01/2016;Iraq;Female;2,29659;
+01/01/2016;Iraq;Male;3,75501;
+01/01/2016;Iraq;Total;3,03475;1129,005
+01/01/2016;Ireland;Female;0,09862;
+01/01/2016;Ireland;Male;0,04929;
+01/01/2016;Ireland;Total;0,07416;3,50464
+01/01/2016;Israel;Female;0,28375;
+01/01/2016;Israel;Male;0,20934;
+01/01/2016;Israel;Total;0,24682;20,21871
+01/01/2016;Italy;Female;0,16933;
+01/01/2016;Italy;Male;0,10332;
+01/01/2016;Italy;Total;0,13718;81,52759
+01/01/2016;Jamaica;Female;0,57459;
+01/01/2016;Jamaica;Male;0,65308;
+01/01/2016;Jamaica;Total;0,61365;17,6814
+01/01/2016;Japan;Female;0,19224;
+01/01/2016;Japan;Male;0,13996;
+01/01/2016;Japan;Total;0,1667;212,9628
+01/01/2016;Jordan;Female;0,78855;
+01/01/2016;Jordan;Male;0,46835;
+01/01/2016;Jordan;Total;0,62637;59,22872
+01/01/2016;Kazakhstan;Female;0,3899;
+01/01/2016;Kazakhstan;Male;0,37589;
+01/01/2016;Kazakhstan;Total;0,38312;68,91383
+01/01/2016;Kenya;Female;49,68681;
+01/01/2016;Kenya;Male;52,6401;
+01/01/2016;Kenya;Total;51,1546;24790,32
+01/01/2016;Kiribati;Female;19,70193;
+01/01/2016;Kiribati;Male;13,52841;
+01/01/2016;Kiribati;Total;16,6583;19,05509
+01/01/2016;Kuwait;Female;0,00893;
+01/01/2016;Kuwait;Male;0,01501;
+01/01/2016;Kuwait;Total;0,01242;0,50324
+01/01/2016;Kyrgyzstan;Female;0,73301;
+01/01/2016;Kyrgyzstan;Male;0,81958;
+01/01/2016;Kyrgyzstan;Total;0,77594;46,21274
+01/01/2016;Lao People's Democratic Republic;Female;11,43906;
+01/01/2016;Lao People's Democratic Republic;Male;11,1857;
+01/01/2016;Lao People's Democratic Republic;Total;11,31273;764,5544
+01/01/2016;Latvia;Female;0,02485;
+01/01/2016;Latvia;Male;0,01559;
+01/01/2016;Latvia;Total;0,0206;0,40592
+01/01/2016;Lebanon;Female;0,86771;
+01/01/2016;Lebanon;Male;0,70636;
+01/01/2016;Lebanon;Total;0,78675;47,25737
+01/01/2016;Lesotho;Female;49,8259;
+01/01/2016;Lesotho;Male;38,55466;
+01/01/2016;Lesotho;Total;44,35666;977,5431
+01/01/2016;Liberia;Female;39,52379;
+01/01/2016;Liberia;Male;43,52787;
+01/01/2016;Liberia;Total;41,54313;1916,729
+01/01/2016;Libya;Female;0,66621;
+01/01/2016;Libya;Male;0,50064;
+01/01/2016;Libya;Total;0,5827;36,67053
+01/01/2016;Lithuania;Female;0,07507;
+01/01/2016;Lithuania;Male;0,08747;
+01/01/2016;Lithuania;Total;0,08078;2,34934
+01/01/2016;Luxembourg;Female;0,0621;
+01/01/2016;Luxembourg;Male;0,03502;
+01/01/2016;Luxembourg;Total;0,0485;0,27921
+01/01/2016;Madagascar;Female;29,67203;
+01/01/2016;Madagascar;Male;30,79443;
+01/01/2016;Madagascar;Total;30,23168;7526,039
+01/01/2016;Malawi;Female;27,49337;
+01/01/2016;Malawi;Male;29,10239;
+01/01/2016;Malawi;Total;28,29031;5118,163
+01/01/2016;Malaysia;Female;0,45002;
+01/01/2016;Malaysia;Male;0,39189;
+01/01/2016;Malaysia;Total;0,41999;130,9834
+01/01/2016;Maldives;Female;0,2256;
+01/01/2016;Maldives;Male;0,36704;
+01/01/2016;Maldives;Total;0,30585;1,3083
+01/01/2016;Mali;Female;71,08458;
+01/01/2016;Mali;Male;70,35859;
+01/01/2016;Mali;Total;70,7214;12726,2
+01/01/2016;Malta;Female;0,05487;
+01/01/2016;Malta;Male;0,01205;
+01/01/2016;Malta;Total;0,03337;0,14329
+01/01/2016;Mauritania;Female;36,45339;
+01/01/2016;Mauritania;Male;40,65357;
+01/01/2016;Mauritania;Total;38,56949;1658,882
+01/01/2016;Mauritius;Female;0,43667;
+01/01/2016;Mauritius;Male;0,7433;
+01/01/2016;Mauritius;Total;0,58845;7,42695
+01/01/2016;Mexico;Female;1,10987;
+01/01/2016;Mexico;Male;1,00074;
+01/01/2016;Mexico;Total;1,05554;1346,237
+01/01/2016;Federated States of Micronesia;Female;3,73049;
+01/01/2016;Federated States of Micronesia;Male;3,41712;
+01/01/2016;Federated States of Micronesia;Total;3,56993;3,74615
+01/01/2016;Mongolia;Female;0,78891;
+01/01/2016;Mongolia;Male;1,79879;
+01/01/2016;Mongolia;Total;1,28871;39,01429
+01/01/2016;Montenegro;Female;0,02227;
+01/01/2016;Montenegro;Male;0,02872;
+01/01/2016;Montenegro;Total;0,02545;0,15999
+01/01/2016;Morocco;Female;1,97875;
+01/01/2016;Morocco;Male;1,8262;
+01/01/2016;Morocco;Total;1,90323;671,3973
+01/01/2016;Mozambique;Female;27,05476;
+01/01/2016;Mozambique;Male;28,23147;
+01/01/2016;Mozambique;Total;27,62905;7965,31
+01/01/2016;Myanmar;Female;12,19727;
+01/01/2016;Myanmar;Male;13,06159;
+01/01/2016;Myanmar;Total;12,61942;6673,805
+01/01/2016;Namibia;Female;18,26923;
+01/01/2016;Namibia;Male;18,3678;
+01/01/2016;Namibia;Total;18,31716;454,2127
+01/01/2016;Nepal;Female;24,43096;
+01/01/2016;Nepal;Male;14,94798;
+01/01/2016;Nepal;Total;19,82954;5747,149
+01/01/2016;Netherlands;Female;0,28839;
+01/01/2016;Netherlands;Male;0,19296;
+01/01/2016;Netherlands;Total;0,24093;40,92825
+01/01/2016;New Zealand;Female;0,18632;
+01/01/2016;New Zealand;Male;0,10384;
+01/01/2016;New Zealand;Total;0,14577;6,79392
+01/01/2016;Nicaragua;Female;2,04605;
+01/01/2016;Nicaragua;Male;2,44822;
+01/01/2016;Nicaragua;Total;2,24431;138,0232
+01/01/2016;Niger;Female;66,9474;
+01/01/2016;Niger;Male;74,66392;
+01/01/2016;Niger;Total;70,81496;14639,56
+01/01/2016;Nigeria;Female;65,59476;
+01/01/2016;Nigeria;Male;71,58229;
+01/01/2016;Nigeria;Total;68,62818;127641,3
+01/01/2016;Norway;Female;0,25782;
+01/01/2016;Norway;Male;0,16613;
+01/01/2016;Norway;Total;0,21161;11,1195
+01/01/2016;Oman;Female;0,04705;
+01/01/2016;Oman;Male;0,04473;
+01/01/2016;Oman;Total;0,04553;2,01467
+01/01/2016;Pakistan;Female;23,39447;
+01/01/2016;Pakistan;Male;15,98665;
+01/01/2016;Pakistan;Total;19,58922;37847,05
+01/01/2016;Panama;Female;1,72902;
+01/01/2016;Panama;Male;2,06278;
+01/01/2016;Panama;Total;1,89632;76,49982
+01/01/2016;Papua New Guinea;Female;18,05478;
+01/01/2016;Papua New Guinea;Male;14,62447;
+01/01/2016;Papua New Guinea;Total;16,30974;1318,642
+01/01/2016;Paraguay;Female;1,50114;
+01/01/2016;Paraguay;Male;1,42899;
+01/01/2016;Paraguay;Total;1,46453;98,49413
+01/01/2016;Peru;Female;1,23642;
+01/01/2016;Peru;Male;1,31736;
+01/01/2016;Peru;Total;1,27684;405,7023
+01/01/2016;Philippines;Female;3,59538;
+01/01/2016;Philippines;Male;4,78213;
+01/01/2016;Philippines;Total;4,19289;4332,105
+01/01/2016;Poland;Female;0,10917;
+01/01/2016;Poland;Male;0,07097;
+01/01/2016;Poland;Total;0,09072;34,67636
+01/01/2016;Portugal;Female;0,19368;
+01/01/2016;Portugal;Male;0,10758;
+01/01/2016;Portugal;Total;0,15292;15,86048
+01/01/2016;Qatar;Female;0,01362;
+01/01/2016;Qatar;Male;0,00629;
+01/01/2016;Qatar;Total;0,00811;0,20829
+01/01/2016;Republic of Korea;Female;2,2267;
+01/01/2016;Republic of Korea;Male;1,38526;
+01/01/2016;Republic of Korea;Total;1,80559;917,0953
+01/01/2016;Republic of Moldova;Female;0,11042;
+01/01/2016;Republic of Moldova;Male;0,08026;
+01/01/2016;Republic of Moldova;Total;0,09594;3,89474
+01/01/2016;North Macedonia;Female;0,05756;
+01/01/2016;North Macedonia;Male;0,09112;
+01/01/2016;North Macedonia;Total;0,07433;1,54705
+01/01/2016;Romania;Female;0,39551;
+01/01/2016;Romania;Male;0,32709;
+01/01/2016;Romania;Total;0,36236;71,66723
+01/01/2016;Russian Federation;Female;0,09443;
+01/01/2016;Russian Federation;Male;0,11662;
+01/01/2016;Russian Federation;Total;0,10474;150,7938
+01/01/2016;Rwanda;Female;19,5371;
+01/01/2016;Rwanda;Male;19,15444;
+01/01/2016;Rwanda;Total;19,34948;2305,976
+01/01/2016;Saint Lucia;Female;0,26695;
+01/01/2016;Saint Lucia;Male;1,1956;
+01/01/2016;Saint Lucia;Total;0,62866;1,11909
+01/01/2016;Saint Vincent and the Grenadines;Female;1,25733;
+01/01/2016;Saint Vincent and the Grenadines;Male;1,40687;
+01/01/2016;Saint Vincent and the Grenadines;Total;1,33276;1,46129
+01/01/2016;Samoa;Female;1,49917;
+01/01/2016;Samoa;Male;1,479;
+01/01/2016;Samoa;Total;1,48876;2,90513
+01/01/2016;Sao Tome and Principe;Female;11,74935;
+01/01/2016;Sao Tome and Principe;Male;10,96962;
+01/01/2016;Sao Tome and Principe;Total;11,3611;22,71185
+01/01/2016;Saudi Arabia;Female;0,11489;
+01/01/2016;Saudi Arabia;Male;0,0751;
+01/01/2016;Saudi Arabia;Total;0,09226;29,77708
+01/01/2016;Senegal;Female;21,9494;
+01/01/2016;Senegal;Male;25,85899;
+01/01/2016;Senegal;Total;23,86927;3678,639
+01/01/2016;Serbia;Female;0,86701;
+01/01/2016;Serbia;Male;0,6005;
+01/01/2016;Serbia;Total;0,73678;64,98421
+01/01/2016;Seychelles;Female;0,14082;
+01/01/2016;Seychelles;Male;0,19874;
+01/01/2016;Seychelles;Total;0,1694;0,15963
+01/01/2016;Sierra Leone;Female;75,8484;
+01/01/2016;Sierra Leone;Male;86,84529;
+01/01/2016;Sierra Leone;Total;81,29262;6012,55
+01/01/2016;Singapore;Female;0,08379;
+01/01/2016;Singapore;Male;0,04801;
+01/01/2016;Singapore;Total;0,06611;3,71719
+01/01/2016;Slovakia;Female;0,05314;
+01/01/2016;Slovakia;Male;0,03585;
+01/01/2016;Slovakia;Total;0,04474;2,43565
+01/01/2016;Slovenia;Female;0,02827;
+01/01/2016;Slovenia;Male;0,01391;
+01/01/2016;Slovenia;Total;0,02115;0,43939
+01/01/2016;Solomon Islands;Female;5,48765;
+01/01/2016;Solomon Islands;Male;6,84095;
+01/01/2016;Solomon Islands;Total;6,17562;37,01826
+01/01/2016;Somalia;Female;89,71645;
+01/01/2016;Somalia;Male;83,41056;
+01/01/2016;Somalia;Total;86,57523;12395,83
+01/01/2016;South Africa;Female;13,44361;
+01/01/2016;South Africa;Male;13,90243;
+01/01/2016;South Africa;Total;13,66885;7656,672
+01/01/2016;South Sudan;Female;60,68713;
+01/01/2016;South Sudan;Male;65,87675;
+01/01/2016;South Sudan;Total;63,28665;7740,42
+01/01/2016;Spain;Female;0,18808;
+01/01/2016;Spain;Male;0,11416;
+01/01/2016;Spain;Total;0,15183;70,36836
+01/01/2016;Sri Lanka;Female;1,19932;
+01/01/2016;Sri Lanka;Male;1,18001;
+01/01/2016;Sri Lanka;Total;1,19003;247,5077
+01/01/2016;Sudan;Female;18,31656;
+01/01/2016;Sudan;Male;16,32655;
+01/01/2016;Sudan;Total;17,32224;6855,941
+01/01/2016;Suriname;Female;1,95547;
+01/01/2016;Suriname;Male;2,05839;
+01/01/2016;Suriname;Total;2,00714;11,20705
+01/01/2016;Sweden;Female;0,27089;
+01/01/2016;Sweden;Male;0,15951;
+01/01/2016;Sweden;Total;0,21519;21,169
+01/01/2016;Switzerland;Female;0,16879;
+01/01/2016;Switzerland;Male;0,10629;
+01/01/2016;Switzerland;Total;0,13784;11,58101
+01/01/2016;Syrian Arab Republic;Female;4,10723;
+01/01/2016;Syrian Arab Republic;Male;3,23346;
+01/01/2016;Syrian Arab Republic;Total;3,6654;675,5495
+01/01/2016;Tajikistan;Female;2,39454;
+01/01/2016;Tajikistan;Male;3,00344;
+01/01/2016;Tajikistan;Total;2,70048;235,8854
+01/01/2016;Thailand;Female;3,3579;
+01/01/2016;Thailand;Male;3,66249;
+01/01/2016;Thailand;Total;3,50653;2414,717
+01/01/2016;Timor-Leste;Female;9,81134;
+01/01/2016;Timor-Leste;Male;10,0121;
+01/01/2016;Timor-Leste;Total;9,91329;125,7667
+01/01/2016;Togo;Female;41,12543;
+01/01/2016;Togo;Male;42,1444;
+01/01/2016;Togo;Total;41,63327;3166,78
+01/01/2016;Tonga;Female;2,02674;
+01/01/2016;Tonga;Male;0,82784;
+01/01/2016;Tonga;Total;1,42545;1,52692
+01/01/2016;Trinidad and Tobago;Female;0,12597;
+01/01/2016;Trinidad and Tobago;Male;0,15827;
+01/01/2016;Trinidad and Tobago;Total;0,14189;1,93681
+01/01/2016;Tunisia;Female;1,2146;
+01/01/2016;Tunisia;Male;0,81112;
+01/01/2016;Tunisia;Total;1,01527;115,7742
+01/01/2016;Turkey;Female;0,31835;
+01/01/2016;Turkey;Male;0,27233;
+01/01/2016;Turkey;Total;0,2957;235,1192
+01/01/2016;Turkmenistan;Female;3,47729;
+01/01/2016;Turkmenistan;Male;4,49347;
+01/01/2016;Turkmenistan;Total;3,97765;225,2361
+01/01/2016;Uganda;Female;30,39011;
+01/01/2016;Uganda;Male;32,74029;
+01/01/2016;Uganda;Total;31,55895;13093,17
+01/01/2016;Ukraine;Female;0,23232;
+01/01/2016;Ukraine;Male;0,31085;
+01/01/2016;Ukraine;Total;0,26862;119,3717
+01/01/2016;United Arab Emirates;Female;0,04148;
+01/01/2016;United Arab Emirates;Male;0,0245;
+01/01/2016;United Arab Emirates;Total;0,02912;2,69967
+01/01/2016;United Kingdom of Great Britain and Northern Ireland;Female;0,24809;
+01/01/2016;United Kingdom of Great Britain and Northern Ireland;Male;0,1449;
+01/01/2016;United Kingdom of Great Britain and Northern Ireland;Total;0,1972;129,7347
+01/01/2016;United Republic of Tanzania;Female;40,56995;
+01/01/2016;United Republic of Tanzania;Male;36,18708;
+01/01/2016;United Republic of Tanzania;Total;38,40323;21341,52
+01/01/2016;United States of America;Female;0,27202;
+01/01/2016;United States of America;Male;0,19017;
+01/01/2016;United States of America;Total;0,23153;745,9761
+01/01/2016;Uruguay;Female;0,42578;
+01/01/2016;Uruguay;Male;0,28991;
+01/01/2016;Uruguay;Total;0,36017;12,40418
+01/01/2016;Uzbekistan;Female;0,37074;
+01/01/2016;Uzbekistan;Male;0,51274;
+01/01/2016;Uzbekistan;Total;0,44151;138,8398
+01/01/2016;Vanuatu;Female;8,59053;
+01/01/2016;Vanuatu;Male;12,20005;
+01/01/2016;Vanuatu;Total;10,41773;28,17007
+01/01/2016;Venezuela;Female;1,36928;
+01/01/2016;Venezuela;Male;1,41152;
+01/01/2016;Venezuela;Total;1,3903;438,8923
+01/01/2016;Viet Nam;Female;1,13807;
+01/01/2016;Viet Nam;Male;2,11376;
+01/01/2016;Viet Nam;Total;1,6208;1532,777
+01/01/2016;Yemen;Female;11,77016;
+01/01/2016;Yemen;Male;8,66892;
+01/01/2016;Yemen;Total;10,20328;2814,495
+01/01/2016;Zambia;Female;33,23213;
+01/01/2016;Zambia;Male;36,61913;
+01/01/2016;Zambia;Total;34,91273;5792,504
+01/01/2016;Zimbabwe;Female;22,16388;
+01/01/2016;Zimbabwe;Male;27,06688;
+01/01/2016;Zimbabwe;Total;24,55074;3965,033
